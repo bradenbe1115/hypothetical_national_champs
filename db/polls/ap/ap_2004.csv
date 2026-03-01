@@ -1,0 +1,402 @@
+Wk,Date,Rk,School,Prev,Chng,1st,Conf
+16,Final,1,USC,1,,62,Pac-10
+16,Final,2,Auburn,3,1,3,SEC (West)
+16,Final,3,Oklahoma,2,1,,Big 12 (South)
+16,Final,4,Utah,5,1,,MWC
+16,Final,5,Texas,6,1,,Big 12 (South)
+16,Final,6,Louisville,7,1,,CUSA
+16,Final,7,Georgia,8,1,,SEC (East)
+16,Final,8,Iowa,11,3,,Big Ten
+16,Final,9,California,4,5,,Pac-10
+16,Final,10,Virginia Tech,9,1,,ACC
+16,Final,11,Miami (FL),14,3,,ACC
+16,Final,12,Boise State,10,2,,WAC
+16,Final,13,Tennessee,15,2,,SEC (East)
+16,Final,14,Michigan,13,1,,Big Ten
+16,Final,15,Florida State,17,2,,ACC
+16,Final,16,LSU,12,4,,SEC (West)
+16,Final,17,Wisconsin,16,1,,Big Ten
+16,Final,18,Texas Tech,23,5,,Big 12 (South)
+16,Final,19,Arizona State,21,2,,Pac-10
+16,Final,20,Ohio State,24,4,,Big Ten
+16,Final,21,Boston College,25,4,,Big East
+16,Final,22,Fresno State,,,,WAC
+16,Final,23,Virginia,18,5,,ACC
+16,Final,24,Navy,,,,Ind
+16,Final,25,Pitt,19,6,,Big East
+15,2004-12-05,1,USC (12-0),1,,44,Pac-10
+15,2004-12-05,2,Oklahoma (12-0),2,,14,Big 12 (South)
+15,2004-12-05,3,Auburn (12-0),3,,7,SEC (West)
+15,2004-12-05,4,California (10-1),4,,,Pac-10
+15,2004-12-05,5,Utah (11-0),5,,,MWC
+15,2004-12-05,6,Texas (10-1),6,,,Big 12 (South)
+15,2004-12-05,7,Louisville (10-1),7,,,CUSA
+15,2004-12-05,8,Georgia (9-2),8,,,SEC (East)
+15,2004-12-05,9,Virginia Tech (10-2),10,1,,ACC
+15,2004-12-05,10,Boise State (11-0),11,1,,WAC
+15,2004-12-05,11,Iowa (9-2),12,1,,Big Ten
+15,2004-12-05,12,LSU (9-2),13,1,,SEC (West)
+15,2004-12-05,13,Michigan (9-2),14,1,,Big Ten
+15,2004-12-05,14,Miami (FL) (8-3),9,5,,ACC
+15,2004-12-05,15,Tennessee (9-3),15,,,SEC (East)
+15,2004-12-05,16,Wisconsin (9-2),17,1,,Big Ten
+15,2004-12-05,17,Florida State (8-3),16,1,,ACC
+15,2004-12-05,18,Virginia (8-3),18,,,ACC
+15,2004-12-05,19,Pitt (8-3),19,,,Big East
+15,2004-12-05,20,Florida (7-4),20,,,SEC (East)
+15,2004-12-05,21,Arizona State (8-3),21,,,Pac-10
+15,2004-12-05,22,Texas A&M (7-4),22,,,Big 12 (South)
+15,2004-12-05,23,Texas Tech (7-4),24,1,,Big 12 (South)
+15,2004-12-05,24,Ohio State (7-4),25,1,,Big Ten
+15,2004-12-05,25,Boston College (8-3),23,2,,Big East
+14,2004-11-28,1,USC (11-0),1,,52,Pac-10
+14,2004-11-28,2,Oklahoma (11-0),2,,7,Big 12 (South)
+14,2004-11-28,3,Auburn (11-0),3,,6,SEC (West)
+14,2004-11-28,4,California (9-1),4,,,Pac-10
+14,2004-11-28,5,Utah (11-0),5,,,MWC
+14,2004-11-28,6,Texas (10-1),6,,,Big 12 (South)
+14,2004-11-28,7,Louisville (9-1),7,,,CUSA
+14,2004-11-28,8,Georgia (9-2),8,,,SEC (East)
+14,2004-11-28,9,Miami (FL) (8-2),9,,,ACC
+14,2004-11-28,10,Virginia Tech (9-2),11,1,,ACC
+14,2004-11-28,11,Boise State (11-0),10,1,,WAC
+14,2004-11-28,12,Iowa (9-2),12,,,Big Ten
+14,2004-11-28,13,LSU (9-2),14,1,,SEC (West)
+14,2004-11-28,14,Michigan (9-2),13,1,,Big Ten
+14,2004-11-28,15,Tennessee (9-2),15,,,SEC (East)
+14,2004-11-28,16,Florida State (8-3),19,3,,ACC
+14,2004-11-28,17,Wisconsin (9-2),20,3,,Big Ten
+14,2004-11-28,18,Virginia (8-3),16,2,,ACC
+14,2004-11-28,19,Pitt (7-3),,,,Big East
+14,2004-11-28,20,Florida (7-4),25,5,,SEC (East)
+14,2004-11-28,21,Arizona State (8-3),18,3,,Pac-10
+14,2004-11-28,22,Texas A&M (7-4),22,,,Big 12 (South)
+14,2004-11-28,23,Boston College (8-3),17,6,,Big East
+14,2004-11-28,24,Texas Tech (7-4),,,,Big 12 (South)
+14,2004-11-28,25,Ohio State (7-4),,,,Big Ten
+13,2004-11-21,1,USC (10-0),1,,48,Pac-10
+13,2004-11-21,2,Oklahoma (11-0),2,,9,Big 12 (South)
+13,2004-11-21,3,Auburn (11-0),2,1,8,SEC (West)
+13,2004-11-21,4,California (9-1),4,,,Pac-10
+13,2004-11-21,5,Utah (11-0),5,,,MWC
+13,2004-11-21,6,Texas (9-1),6,,,Big 12 (South)
+13,2004-11-21,7,Louisville (8-1),8,1,,CUSA
+13,2004-11-21,8,Georgia (8-2),11,3,,SEC (East)
+13,2004-11-21,9,Miami (FL) (8-2),12,3,,ACC
+13,2004-11-21,10,Boise State (10-0),13,3,,WAC
+13,2004-11-21,11,Virginia Tech (8-2),15,4,,ACC
+13,2004-11-21,12,Iowa (9-2),17,5,,Big Ten
+13,2004-11-21,13,Michigan (9-2),7,6,,Big Ten
+13,2004-11-21,14,LSU (8-2),14,,,SEC (West)
+13,2004-11-21,15,Tennessee (8-2),15,,,SEC (East)
+13,2004-11-21,16,Virginia (8-2),18,2,,ACC
+13,2004-11-21,17,Boston College (8-2),19,2,,Big East
+13,2004-11-21,18,Arizona State (8-2),20,2,,Pac-10
+13,2004-11-21,19,Florida State (8-3),10,9,,ACC
+13,2004-11-21,20,Wisconsin (9-2),9,11,,Big Ten
+13,2004-11-21,21,West Virginia (8-2),21,,,Big East
+13,2004-11-21,22,Texas A&M (7-3),22,,,Big 12 (South)
+13,2004-11-21,23,Oklahoma State (7-3),23,,,Big 12 (South)
+13,2004-11-21,24,UTEP (8-2),24,,,WAC
+13,2004-11-21,25,Florida (7-4),,,,SEC (East)
+12,2004-11-14,1,USC (10-0),1,,51,Pac-10
+12,2004-11-14,2,Auburn (10-0),3,1,6,SEC (West)
+12,2004-11-14,2,Oklahoma (10-0),2,,8,Big 12 (South)
+12,2004-11-14,4,California (8-1),5,1,,Pac-10
+12,2004-11-14,5,Utah (10-0),7,2,,MWC
+12,2004-11-14,6,Texas (9-1),6,,,Big 12 (South)
+12,2004-11-14,7,Michigan (9-1),9,2,,Big Ten
+12,2004-11-14,8,Louisville (7-1),12,4,,CUSA
+12,2004-11-14,9,Wisconsin (9-1),4,5,,Big Ten
+12,2004-11-14,10,Florida State (8-2),11,1,,ACC
+12,2004-11-14,11,Georgia (8-2),8,3,,SEC (East)
+12,2004-11-14,12,Miami (FL) (7-2),18,6,,ACC
+12,2004-11-14,13,Boise State (9-0),14,1,,WAC
+12,2004-11-14,14,LSU (7-2),17,3,,SEC (West)
+12,2004-11-14,15,Tennessee (7-2),15,,,SEC (East)
+12,2004-11-14,15,Virginia Tech (7-2),16,1,,ACC
+12,2004-11-14,17,Iowa (8-2),19,2,,Big Ten
+12,2004-11-14,18,Virginia (7-2),10,8,,ACC
+12,2004-11-14,19,Boston College (7-2),21,2,,Big East
+12,2004-11-14,20,Arizona State (8-2),20,,,Pac-10
+12,2004-11-14,21,West Virginia (8-2),13,8,,Big East
+12,2004-11-14,22,Texas A&M (7-3),22,,,Big 12 (South)
+12,2004-11-14,23,Oklahoma State (7-3),25,2,,Big 12 (South)
+12,2004-11-14,24,UTEP (7-2),23,1,,WAC
+12,2004-11-14,25,Bowling Green (8-2),,,,MAC (West)
+11,2004-11-07,1,USC (9-0),1,,52,Pac-10
+11,2004-11-07,2,Oklahoma (9-0),2,,10,Big 12 (South)
+11,2004-11-07,3,Auburn (9-0),3,,3,SEC (West)
+11,2004-11-07,4,Wisconsin (9-0),5,1,,Big Ten
+11,2004-11-07,5,California (7-1),4,1,,Pac-10
+11,2004-11-07,6,Texas (8-1),6,,,Big 12 (South)
+11,2004-11-07,7,Utah (9-0),7,,,MWC
+11,2004-11-07,8,Georgia (8-1),8,,,SEC (East)
+11,2004-11-07,9,Michigan (8-1),10,1,,Big Ten
+11,2004-11-07,10,Virginia (7-1),12,2,,ACC
+11,2004-11-07,11,Florida State (7-2),13,2,,ACC
+11,2004-11-07,12,Louisville (6-1),14,2,,CUSA
+11,2004-11-07,13,West Virginia (8-1),15,2,,Big East
+11,2004-11-07,14,Boise State (8-0),16,2,,WAC
+11,2004-11-07,15,Tennessee (7-2),9,6,,SEC (East)
+11,2004-11-07,16,Virginia Tech (7-2),18,2,,ACC
+11,2004-11-07,17,LSU (6-2),17,,,SEC (West)
+11,2004-11-07,18,Miami (FL) (6-2),11,7,,ACC
+11,2004-11-07,19,Iowa (7-2),20,1,,Big Ten
+11,2004-11-07,20,Arizona State (7-2),23,3,,Pac-10
+11,2004-11-07,21,Boston College (6-2),24,3,,Big East
+11,2004-11-07,22,Texas A&M (6-3),22,,,Big 12 (South)
+11,2004-11-07,23,UTEP (6-2),25,2,,WAC
+11,2004-11-07,24,Notre Dame (6-3),,,,Ind
+11,2004-11-07,25,Oklahoma State (6-3),19,6,,Big 12 (South)
+10,2004-10-31,1,USC (8-0),1,,56,Pac-10
+10,2004-10-31,2,Oklahoma (8-0),2,,8,Big 12 (South)
+10,2004-10-31,3,Auburn (9-0),3,,1,SEC (West)
+10,2004-10-31,4,California (6-1),7,3,,Pac-10
+10,2004-10-31,5,Wisconsin (8-0),6,1,,Big Ten
+10,2004-10-31,6,Texas (7-1),8,2,,Big 12 (South)
+10,2004-10-31,7,Utah (8-0),9,2,,MWC
+10,2004-10-31,8,Georgia (7-1),10,2,,SEC (East)
+10,2004-10-31,9,Tennessee (7-1),11,2,,SEC (East)
+10,2004-10-31,10,Michigan (8-1),12,2,,Big Ten
+10,2004-10-31,11,Miami (FL) (6-1),4,7,,ACC
+10,2004-10-31,12,Virginia (6-1),13,1,,ACC
+10,2004-10-31,13,Florida State (6-2),5,8,,ACC
+10,2004-10-31,14,Louisville (5-1),14,,,CUSA
+10,2004-10-31,15,West Virginia (7-1),15,,,Big East
+10,2004-10-31,16,Boise State (8-0),18,2,,WAC
+10,2004-10-31,17,LSU (6-2),19,2,,SEC (West)
+10,2004-10-31,18,Virginia Tech (6-2),22,4,,ACC
+10,2004-10-31,19,Oklahoma State (6-2),20,1,,Big 12 (South)
+10,2004-10-31,20,Iowa (6-2),23,3,,Big Ten
+10,2004-10-31,21,Southern Mississippi (5-1),25,4,,CUSA
+10,2004-10-31,22,Texas A&M (6-2),16,6,,Big 12 (South)
+10,2004-10-31,23,Arizona State (6-2),20,3,,Pac-10
+10,2004-10-31,24,Boston College (5-2),25,1,,Big East
+10,2004-10-31,25,UTEP (6-2),,,,WAC
+9,2004-10-24,1,USC (7-0),1,,50,Pac-10
+9,2004-10-24,2,Oklahoma (7-0),2,,13,Big 12 (South)
+9,2004-10-24,3,Auburn (8-0),3,,2,SEC (West)
+9,2004-10-24,4,Miami (FL) (6-0),4,,,ACC
+9,2004-10-24,5,Florida State (6-1),5,,,ACC
+9,2004-10-24,6,Wisconsin (8-0),6,,,Big Ten
+9,2004-10-24,7,California (5-1),7,,,Pac-10
+9,2004-10-24,8,Texas (6-1),8,,,Big 12 (South)
+9,2004-10-24,9,Utah (7-0),9,,,MWC
+9,2004-10-24,10,Georgia (6-1),10,,,SEC (East)
+9,2004-10-24,11,Tennessee (6-1),11,,,SEC (East)
+9,2004-10-24,12,Michigan (7-1),13,1,,Big Ten
+9,2004-10-24,13,Virginia (6-1),14,1,,ACC
+9,2004-10-24,14,Louisville (5-1),15,1,,CUSA
+9,2004-10-24,15,West Virginia (6-1),15,,,Big East
+9,2004-10-24,16,Texas A&M (6-1),17,1,,Big 12 (South)
+9,2004-10-24,17,Purdue (5-2),12,5,,Big Ten
+9,2004-10-24,18,Boise State (7-0),19,1,,WAC
+9,2004-10-24,19,LSU (5-2),18,1,,SEC (West)
+9,2004-10-24,20,Arizona State (6-1),21,1,,Pac-10
+9,2004-10-24,20,Oklahoma State (6-1),22,2,,Big 12 (South)
+9,2004-10-24,22,Virginia Tech (5-2),23,1,,ACC
+9,2004-10-24,23,Iowa (5-2),25,2,,Big Ten
+9,2004-10-24,24,Minnesota (6-2),,,,Big Ten
+9,2004-10-24,25,Boston College (5-2),,,,Big East
+9,2004-10-24,25,Southern Mississippi (5-1),,,,CUSA
+8,2004-10-17,1,USC (6-0),1,,50,Pac-10
+8,2004-10-17,2,Oklahoma (6-0),2,,13,Big 12 (South)
+8,2004-10-17,3,Auburn (7-0),4,1,2,SEC (West)
+8,2004-10-17,4,Miami (FL) (5-0),3,1,,ACC
+8,2004-10-17,5,Florida State (5-1),7,2,,ACC
+8,2004-10-17,6,Wisconsin (7-0),10,4,,Big Ten
+8,2004-10-17,7,California (4-1),8,1,,Pac-10
+8,2004-10-17,8,Texas (5-1),9,1,,Big 12 (South)
+8,2004-10-17,9,Utah (6-0),11,2,,MWC
+8,2004-10-17,10,Georgia (5-1),12,2,,SEC (East)
+8,2004-10-17,11,Tennessee (5-1),13,2,,SEC (East)
+8,2004-10-17,12,Purdue (5-1),5,7,,Big Ten
+8,2004-10-17,13,Michigan (6-1),14,1,,Big Ten
+8,2004-10-17,14,Virginia (5-1),6,8,,ACC
+8,2004-10-17,15,Louisville (4-1),18,3,,CUSA
+8,2004-10-17,15,West Virginia (5-1),17,2,,Big East
+8,2004-10-17,17,Texas A&M (5-1),23,6,,Big 12 (South)
+8,2004-10-17,18,LSU (4-2),20,2,,SEC (West)
+8,2004-10-17,19,Boise State (6-0),21,2,,WAC
+8,2004-10-17,20,Florida (4-2),22,2,,SEC (East)
+8,2004-10-17,21,Arizona State (5-1),15,6,,Pac-10
+8,2004-10-17,22,Oklahoma State (5-1),16,6,,Big 12 (South)
+8,2004-10-17,23,Virginia Tech (5-2),,,,ACC
+8,2004-10-17,24,Notre Dame (5-2),,,,Ind
+8,2004-10-17,25,Iowa (4-2),,,,Big Ten
+7,2004-10-10,1,USC (5-0),1,,41,Pac-10
+7,2004-10-10,2,Oklahoma (5-0),2,,23,Big 12 (South)
+7,2004-10-10,3,Miami (FL) (4-0),4,1,,ACC
+7,2004-10-10,4,Auburn (6-0),6,2,,SEC (West)
+7,2004-10-10,5,Purdue (5-0),9,4,,Big Ten
+7,2004-10-10,6,Virginia (5-0),10,4,,ACC
+7,2004-10-10,7,Florida State (4-1),8,1,,ACC
+7,2004-10-10,8,California (3-1),7,1,,Pac-10
+7,2004-10-10,9,Texas (4-1),5,4,,Big 12 (South)
+7,2004-10-10,10,Wisconsin (6-0),15,5,,Big Ten
+7,2004-10-10,11,Utah (5-0),11,,,MWC
+7,2004-10-10,12,Georgia (4-1),3,9,,SEC (East)
+7,2004-10-10,13,Tennessee (4-1),17,4,,SEC (East)
+7,2004-10-10,14,Michigan (5-1),14,,,Big Ten
+7,2004-10-10,15,Arizona State (5-0),19,4,,Pac-10
+7,2004-10-10,16,Oklahoma State (5-0),22,6,,Big 12 (South)
+7,2004-10-10,17,West Virginia (4-1),16,1,,Big East
+7,2004-10-10,18,Louisville (4-0),20,2,,CUSA
+7,2004-10-10,19,Minnesota (5-1),13,6,,Big Ten
+7,2004-10-10,20,LSU (4-2),24,4,,SEC (West)
+7,2004-10-10,21,Boise State (5-0),21,,,WAC
+7,2004-10-10,22,Florida (3-2),12,10,,SEC (East)
+7,2004-10-10,23,Texas A&M (4-1),,,,Big 12 (South)
+7,2004-10-10,24,Southern Mississippi (4-0),,,,CUSA
+7,2004-10-10,25,Ohio State (3-2),18,7,,Big Ten
+6,2004-10-03,1,USC (4-0),1,,48,Pac-10
+6,2004-10-03,2,Oklahoma (4-0),2,,15,Big 12 (South)
+6,2004-10-03,3,Georgia (4-0),3,,2,SEC (East)
+6,2004-10-03,4,Miami (FL) (4-0),4,,,ACC
+6,2004-10-03,5,Texas (4-0),5,,,Big 12 (South)
+6,2004-10-03,6,Auburn (5-0),8,2,,SEC (West)
+6,2004-10-03,7,California (3-0),10,3,,Pac-10
+6,2004-10-03,8,Florida State (3-1),9,1,,ACC
+6,2004-10-03,9,Purdue (4-0),15,6,,Big Ten
+6,2004-10-03,10,Virginia (4-0),12,2,,ACC
+6,2004-10-03,11,Utah (5-0),14,3,,MWC
+6,2004-10-03,12,Florida (3-1),16,4,,SEC (East)
+6,2004-10-03,13,Minnesota (5-0),18,5,,Big Ten
+6,2004-10-03,14,Michigan (4-1),19,5,,Big Ten
+6,2004-10-03,15,Wisconsin (5-0),20,5,,Big Ten
+6,2004-10-03,16,West Virginia (4-1),6,10,,Big East
+6,2004-10-03,17,Tennessee (3-1),10,7,,SEC (East)
+6,2004-10-03,18,Ohio State (3-1),7,11,,Big Ten
+6,2004-10-03,19,Arizona State (5-0),21,2,,Pac-10
+6,2004-10-03,20,Louisville (4-0),22,2,,CUSA
+6,2004-10-03,21,Boise State (5-0),23,2,,WAC
+6,2004-10-03,22,Oklahoma State (4-0),25,3,,Big 12 (South)
+6,2004-10-03,23,Maryland (3-1),24,1,,ACC
+6,2004-10-03,24,LSU (3-2),13,11,,SEC (West)
+6,2004-10-03,25,South Carolina (4-1),,,,SEC (East)
+5,2004-09-26,1,USC (4-0),1,,46,Pac-10
+5,2004-09-26,2,Oklahoma (3-0),2,,18,Big 12 (South)
+5,2004-09-26,3,Georgia (3-0),3,,1,SEC (East)
+5,2004-09-26,4,Miami (FL) (3-0),4,,,ACC
+5,2004-09-26,5,Texas (3-0),5,,,Big 12 (South)
+5,2004-09-26,6,West Virginia (4-0),6,,,Big East
+5,2004-09-26,7,Ohio State (3-0),7,,,Big Ten
+5,2004-09-26,8,Auburn (4-0),9,1,,SEC (West)
+5,2004-09-26,9,Florida State (2-1),8,1,,ACC
+5,2004-09-26,10,California (2-0),10,,,Pac-10
+5,2004-09-26,10,Tennessee (3-0),11,1,,SEC (East)
+5,2004-09-26,12,Virginia (4-0),12,,,ACC
+5,2004-09-26,13,LSU (3-1),13,,,SEC (West)
+5,2004-09-26,14,Utah (4-0),14,,,MWC
+5,2004-09-26,15,Purdue (3-0),15,,,Big Ten
+5,2004-09-26,16,Florida (2-1),16,,,SEC (East)
+5,2004-09-26,17,Fresno State (3-0),17,,,WAC
+5,2004-09-26,18,Minnesota (4-0),19,1,,Big Ten
+5,2004-09-26,19,Michigan (3-1),18,1,,Big Ten
+5,2004-09-26,20,Wisconsin (4-0),20,,,Big Ten
+5,2004-09-26,21,Arizona State (4-0),22,1,,Pac-10
+5,2004-09-26,22,Louisville (3-0),24,2,,CUSA
+5,2004-09-26,23,Boise State (4-0),21,2,,WAC
+5,2004-09-26,24,Maryland (3-1),23,1,,ACC
+5,2004-09-26,25,Oklahoma State (3-0),25,,,Big 12 (South)
+4,2004-09-19,1,USC (3-0),1,,54,Pac-10
+4,2004-09-19,2,Oklahoma (3-0),2,,10,Big 12 (South)
+4,2004-09-19,3,Georgia (3-0),3,,1,SEC (East)
+4,2004-09-19,4,Miami (FL) (2-0),4,,,ACC
+4,2004-09-19,5,Texas (2-0),6,1,,Big 12 (South)
+4,2004-09-19,6,West Virginia (3-0),7,1,,Big East
+4,2004-09-19,7,Ohio State (3-0),9,2,,Big Ten
+4,2004-09-19,8,Florida State (1-1),8,,,ACC
+4,2004-09-19,9,Auburn (3-0),14,5,,SEC (West)
+4,2004-09-19,10,California (2-0),10,,,Pac-10
+4,2004-09-19,11,Tennessee (2-0),13,2,,SEC (East)
+4,2004-09-19,12,Virginia (3-0),12,,,ACC
+4,2004-09-19,13,LSU (2-1),5,8,,SEC (West)
+4,2004-09-19,14,Utah (3-0),15,1,,MWC
+4,2004-09-19,15,Purdue (2-0),18,3,,Big Ten
+4,2004-09-19,16,Florida (1-1),11,5,,SEC (East)
+4,2004-09-19,17,Fresno State (3-0),19,2,,WAC
+4,2004-09-19,18,Michigan (2-1),17,1,,Big Ten
+4,2004-09-19,19,Minnesota (3-0),22,3,,Big Ten
+4,2004-09-19,20,Wisconsin (3-0),20,,,Big Ten
+4,2004-09-19,21,Boise State (3-0),23,2,,WAC
+4,2004-09-19,22,Arizona State (3-0),,,,Pac-10
+4,2004-09-19,23,Maryland (2-1),21,2,,ACC
+4,2004-09-19,24,Louisville (2-0),24,,,CUSA
+4,2004-09-19,25,Oklahoma State (3-0),,,,Big 12 (South)
+3,2004-09-12,1,USC (2-0),1,,52,Pac-10
+3,2004-09-12,2,Oklahoma (2-0),2,,10,Big 12 (South)
+3,2004-09-12,3,Georgia (2-0),3,,3,SEC (East)
+3,2004-09-12,4,Miami (FL) (1-0),5,1,,ACC
+3,2004-09-12,5,LSU (2-0),6,1,,SEC (West)
+3,2004-09-12,6,Texas (2-0),7,1,,Big 12 (South)
+3,2004-09-12,7,West Virginia (2-0),10,3,,Big East
+3,2004-09-12,8,Florida State (0-1),4,4,,ACC
+3,2004-09-12,9,Ohio State (2-0),9,,,Big Ten
+3,2004-09-12,10,California (2-0),12,2,,Pac-10
+3,2004-09-12,11,Florida (1-0),11,,,SEC (East)
+3,2004-09-12,12,Virginia (2-0),15,3,,ACC
+3,2004-09-12,13,Tennessee (1-0),14,1,,SEC (East)
+3,2004-09-12,14,Auburn (2-0),18,4,,SEC (West)
+3,2004-09-12,15,Utah (2-0),17,2,,MWC
+3,2004-09-12,16,Iowa (2-0),16,,,Big Ten
+3,2004-09-12,17,Michigan (1-1),8,9,,Big Ten
+3,2004-09-12,18,Purdue (2-0),25,7,,Big Ten
+3,2004-09-12,19,Fresno State (2-0),,,,WAC
+3,2004-09-12,20,Wisconsin (2-0),21,1,,Big Ten
+3,2004-09-12,21,Maryland (2-0),23,2,,ACC
+3,2004-09-12,22,Minnesota (2-0),22,,,Big Ten
+3,2004-09-12,23,Boise State (2-0),,,,WAC
+3,2004-09-12,24,Louisville (2-0),,,,CUSA
+3,2004-09-12,25,Memphis (2-0),,,,CUSA
+2,2004-09-05,1,USC (1-0),1,,51,Pac-10
+2,2004-09-05,2,Oklahoma (1-0),2,,10,Big 12 (South)
+2,2004-09-05,3,Georgia (1-0),3,,4,SEC (East)
+2,2004-09-05,4,Florida State,5,1,,ACC
+2,2004-09-05,5,Miami (FL),6,1,,ACC
+2,2004-09-05,6,LSU (1-0),4,2,,SEC (West)
+2,2004-09-05,7,Texas (1-0),7,,,Big 12 (South)
+2,2004-09-05,8,Michigan (1-0),8,,,Big Ten
+2,2004-09-05,9,Ohio State (1-0),9,,,Big Ten
+2,2004-09-05,10,West Virginia (1-0),10,,,Big East
+2,2004-09-05,11,Florida,11,,,SEC (East)
+2,2004-09-05,12,California (1-0),12,,,Pac-10
+2,2004-09-05,13,Kansas State (1-0),13,,,Big 12 (North)
+2,2004-09-05,14,Tennessee,14,,,SEC (East)
+2,2004-09-05,15,Virginia (1-0),16,1,,ACC
+2,2004-09-05,16,Iowa (1-0),19,3,,Big Ten
+2,2004-09-05,17,Utah (1-0),20,3,,MWC
+2,2004-09-05,18,Auburn (1-0),17,1,,SEC (West)
+2,2004-09-05,19,Missouri (1-0),18,1,,Big 12 (North)
+2,2004-09-05,20,Clemson (1-0),15,5,,ACC
+2,2004-09-05,21,Wisconsin (1-0),21,,,Big Ten
+2,2004-09-05,22,Minnesota (1-0),25,3,,Big Ten
+2,2004-09-05,23,Maryland (1-0),22,1,,ACC
+2,2004-09-05,24,Oregon,23,1,,Pac-10
+2,2004-09-05,25,Purdue,24,1,,Big Ten
+1,Preseason,1,USC,NA,—,48,Pac-10
+1,Preseason,2,Oklahoma,NA,—,11,Big 12 (South)
+1,Preseason,3,Georgia,NA,—,5,SEC (East)
+1,Preseason,4,LSU,NA,—,1,SEC (West)
+1,Preseason,5,Florida State,NA,—,,ACC
+1,Preseason,6,Miami (FL),NA,—,,ACC
+1,Preseason,7,Texas,NA,—,,Big 12 (South)
+1,Preseason,8,Michigan,NA,—,,Big Ten
+1,Preseason,9,Ohio State,NA,—,,Big Ten
+1,Preseason,10,West Virginia,NA,—,,Big East
+1,Preseason,11,Florida,NA,—,,SEC (East)
+1,Preseason,12,California,NA,—,,Pac-10
+1,Preseason,13,Kansas State,NA,—,,Big 12 (North)
+1,Preseason,14,Tennessee,NA,—,,SEC (East)
+1,Preseason,15,Clemson,NA,—,,ACC
+1,Preseason,16,Virginia,NA,—,,ACC
+1,Preseason,17,Auburn,NA,—,,SEC (West)
+1,Preseason,18,Missouri,NA,—,,Big 12 (North)
+1,Preseason,19,Iowa,NA,—,,Big Ten
+1,Preseason,20,Utah,NA,—,,MWC
+1,Preseason,21,Wisconsin,NA,—,,Big Ten
+1,Preseason,22,Maryland,NA,—,,ACC
+1,Preseason,23,Oregon,NA,—,,Pac-10
+1,Preseason,24,Purdue,NA,—,,Big Ten
+1,Preseason,25,Minnesota,NA,—,,Big Ten

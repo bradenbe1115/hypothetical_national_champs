@@ -1,0 +1,402 @@
+Wk,Date,Rk,School,Prev,Chng,1st,Conf
+16,Final,1,Alabama (13-1),2,1,59,SEC (West)
+16,Final,2,Oregon (12-1),5,3,,Pac-12 (North)
+16,Final,3,Ohio State (12-0),3,,,Big Ten (Leaders)
+16,Final,4,Notre Dame (12-1),1,3,,Ind
+16,Final,5,Georgia (12-2),6,1,,SEC (East)
+16,Final,5,Texas A&M (11-2),10,5,,SEC (West)
+16,Final,7,Stanford (12-2),8,1,,Pac-12 (North)
+16,Final,8,South Carolina (11-2),11,3,,SEC (East)
+16,Final,9,Florida (11-2),4,5,,SEC (East)
+16,Final,10,Florida State (12-2),13,3,,ACC (Atlantic)
+16,Final,11,Clemson (11-2),14,3,,ACC (Atlantic)
+16,Final,12,Kansas State (11-2),7,5,,Big 12
+16,Final,13,Louisville (11-2),22,9,,Big East
+16,Final,14,LSU (10-3),9,5,,SEC (West)
+16,Final,15,Oklahoma (10-3),12,3,,Big 12
+16,Final,16,Utah State (11-2),18,2,,WAC
+16,Final,17,Northwestern (10-3),21,4,,Big Ten (Legends)
+16,Final,18,Boise State (11-2),20,2,,MWC
+16,Final,19,Texas (9-4),,,,Big 12
+16,Final,20,Oregon State (9-4),15,5,,Pac-12 (North)
+16,Final,21,San Jose State (11-2),24,3,,WAC
+16,Final,22,Northern Illinois (12-2),16,6,,MAC (West)
+16,Final,23,Vanderbilt (9-4),,,,SEC (East)
+16,Final,24,Michigan (8-5),19,5,,Big Ten (Legends)
+16,Final,25,Nebraska (10-4),23,2,,Big Ten (Legends)
+15,2012-12-02,1,Notre Dame (12-0),1,,60,Ind
+15,2012-12-02,2,Alabama (12-1),2,,,SEC (West)
+15,2012-12-02,3,Ohio State (12-0),4,1,,Big Ten (Leaders)
+15,2012-12-02,4,Florida (11-1),5,1,,SEC (East)
+15,2012-12-02,5,Oregon (11-1),6,1,,Pac-12 (North)
+15,2012-12-02,6,Georgia (11-2),3,3,,SEC (East)
+15,2012-12-02,7,Kansas State (11-1),7,,,Big 12
+15,2012-12-02,8,Stanford (11-2),8,,,Pac-12 (North)
+15,2012-12-02,9,LSU (10-2),9,,,SEC (West)
+15,2012-12-02,10,Texas A&M (10-2),10,,,SEC (West)
+15,2012-12-02,11,South Carolina (10-2),11,,,SEC (East)
+15,2012-12-02,12,Oklahoma (10-2),12,,,Big 12
+15,2012-12-02,13,Florida State (11-2),13,,,ACC (Atlantic)
+15,2012-12-02,14,Clemson (10-2),15,1,,ACC (Atlantic)
+15,2012-12-02,15,Oregon State (9-3),16,1,,Pac-12 (North)
+15,2012-12-02,16,Northern Illinois (12-1),19,3,,MAC (West)
+15,2012-12-02,17,UCLA (9-4),17,,,Pac-12 (South)
+15,2012-12-02,18,Utah State (10-2),20,2,,WAC
+15,2012-12-02,19,Michigan (8-4),21,2,,Big Ten (Legends)
+15,2012-12-02,20,Boise State (10-2),25,5,,MWC
+15,2012-12-02,21,Northwestern (9-3),22,1,,Big Ten (Legends)
+15,2012-12-02,22,Louisville (10-2),,,,Big East
+15,2012-12-02,23,Nebraska (10-3),14,9,,Big Ten (Legends)
+15,2012-12-02,24,San Jose State (10-2),,,,WAC
+15,2012-12-02,25,Kent State (11-2),18,7,,MAC (East)
+14,2012-11-25,1,Notre Dame (12-0),1,,60,Ind
+14,2012-11-25,2,Alabama (11-1),2,,,SEC (West)
+14,2012-11-25,3,Georgia (11-1),3,,,SEC (East)
+14,2012-11-25,4,Ohio State (12-0),4,,,Big Ten (Leaders)
+14,2012-11-25,5,Florida (11-1),6,1,,SEC (East)
+14,2012-11-25,6,Oregon (11-1),5,1,,Pac-12 (North)
+14,2012-11-25,7,Kansas State (10-1),7,,,Big 12
+14,2012-11-25,8,Stanford (10-2),11,3,,Pac-12 (North)
+14,2012-11-25,9,LSU (10-2),8,1,,SEC (West)
+14,2012-11-25,10,Texas A&M (10-2),9,1,,SEC (West)
+14,2012-11-25,11,South Carolina (10-2),13,2,,SEC (East)
+14,2012-11-25,12,Oklahoma (9-2),14,2,,Big 12
+14,2012-11-25,13,Florida State (10-2),10,3,,ACC (Atlantic)
+14,2012-11-25,14,Nebraska (10-2),17,3,,Big Ten (Legends)
+14,2012-11-25,15,Clemson (10-2),12,3,,ACC (Atlantic)
+14,2012-11-25,16,Oregon State (8-3),16,,,Pac-12 (North)
+14,2012-11-25,17,UCLA (9-3),15,2,,Pac-12 (South)
+14,2012-11-25,18,Kent State (11-1),23,5,,MAC (East)
+14,2012-11-25,19,Northern Illinois (11-1),24,5,,MAC (West)
+14,2012-11-25,20,Utah State (10-2),25,5,,WAC
+14,2012-11-25,21,Michigan (8-4),20,1,,Big Ten (Legends)
+14,2012-11-25,22,Northwestern (9-3),,,,Big Ten (Legends)
+14,2012-11-25,23,Texas (8-3),18,5,,Big 12
+14,2012-11-25,24,Oklahoma State (7-4),22,2,,Big 12
+14,2012-11-25,25,Boise State (9-2),,,,MWC
+13,2012-11-18,1,Notre Dame (11-0),3,2,60,Ind
+13,2012-11-18,2,Alabama (10-1),4,2,,SEC (West)
+13,2012-11-18,3,Georgia (10-1),5,2,,SEC (East)
+13,2012-11-18,4,Ohio State (11-0),6,2,,Big Ten (Leaders)
+13,2012-11-18,5,Oregon (10-1),1,4,,Pac-12 (North)
+13,2012-11-18,6,Florida (10-1),7,1,,SEC (East)
+13,2012-11-18,7,Kansas State (10-1),2,5,,Big 12
+13,2012-11-18,8,LSU (9-2),8,,,SEC (West)
+13,2012-11-18,9,Texas A&M (9-2),9,,,SEC (West)
+13,2012-11-18,10,Florida State (10-1),10,,,ACC (Atlantic)
+13,2012-11-18,11,Stanford (9-2),14,3,,Pac-12 (North)
+13,2012-11-18,12,Clemson (10-1),11,1,,ACC (Atlantic)
+13,2012-11-18,13,South Carolina (9-2),12,1,,SEC (East)
+13,2012-11-18,14,Oklahoma (8-2),13,1,,Big 12
+13,2012-11-18,15,UCLA (9-2),17,2,,Pac-12 (South)
+13,2012-11-18,16,Oregon State (8-2),15,1,,Pac-12 (North)
+13,2012-11-18,17,Nebraska (9-2),16,1,,Big Ten (Legends)
+13,2012-11-18,18,Texas (8-2),18,,,Big 12
+13,2012-11-18,19,Louisville (9-1),20,1,,Big East
+13,2012-11-18,20,Michigan (8-3),23,3,,Big Ten (Legends)
+13,2012-11-18,21,Rutgers (9-1),22,1,,Big East
+13,2012-11-18,22,Oklahoma State (7-3),,,,Big 12
+13,2012-11-18,23,Kent State (10-1),25,2,,MAC (East)
+13,2012-11-18,24,Northern Illinois (10-1),,,,MAC (West)
+13,2012-11-18,25,Mississippi State (8-3),,,,SEC (West)
+13,2012-11-18,25,Utah State (9-2),,,,WAC
+12,2012-11-11,1,Oregon (10-0),2,1,45,Pac-12 (North)
+12,2012-11-11,2,Kansas State (10-0),3,1,14,Big 12
+12,2012-11-11,3,Notre Dame (10-0),4,1,1,Ind
+12,2012-11-11,4,Alabama (9-1),1,3,,SEC (West)
+12,2012-11-11,5,Georgia (9-1),5,,,SEC (East)
+12,2012-11-11,6,Ohio State (10-0),5,1,,Big Ten (Leaders)
+12,2012-11-11,7,Florida (9-1),7,,,SEC (East)
+12,2012-11-11,8,LSU (8-2),9,1,,SEC (West)
+12,2012-11-11,9,Texas A&M (8-2),15,6,,SEC (West)
+12,2012-11-11,10,Florida State (9-1),8,2,,ACC (Atlantic)
+12,2012-11-11,11,Clemson (9-1),10,1,,ACC (Atlantic)
+12,2012-11-11,12,South Carolina (8-2),12,,,SEC (East)
+12,2012-11-11,13,Oklahoma (7-2),14,1,,Big 12
+12,2012-11-11,14,Stanford (8-2),16,2,,Pac-12 (North)
+12,2012-11-11,15,Oregon State (7-2),13,2,,Pac-12 (North)
+12,2012-11-11,16,Nebraska (8-2),18,2,,Big Ten (Legends)
+12,2012-11-11,17,UCLA (8-2),17,,,Pac-12 (South)
+12,2012-11-11,18,Texas (8-2),19,1,,Big 12
+12,2012-11-11,19,Louisiana Tech (9-1),19,,,WAC
+12,2012-11-11,20,Louisville (9-1),11,9,,Big East
+12,2012-11-11,21,USC (7-3),21,,,Pac-12 (South)
+12,2012-11-11,22,Rutgers (8-1),24,2,,Big East
+12,2012-11-11,23,Michigan (7-3),,,,Big Ten (Legends)
+12,2012-11-11,23,Texas Tech (7-3),25,2,,Big 12
+12,2012-11-11,25,Kent State (9-1),,,,MAC (East)
+11,2012-11-04,1,Alabama (9-0),1,,60,SEC (West)
+11,2012-11-04,2,Oregon (9-0),2,,,Pac-12 (North)
+11,2012-11-04,3,Kansas State (9-0),3,,,Big 12
+11,2012-11-04,4,Notre Dame (9-0),4,,,Ind
+11,2012-11-04,5,Georgia (8-1),7,2,,SEC (East)
+11,2012-11-04,5,Ohio State (10-0),6,1,,Big Ten (Leaders)
+11,2012-11-04,7,Florida (8-1),8,1,,SEC (East)
+11,2012-11-04,8,Florida State (8-1),9,1,,ACC (Atlantic)
+11,2012-11-04,9,LSU (7-2),5,4,,SEC (West)
+11,2012-11-04,10,Clemson (8-1),10,,,ACC (Atlantic)
+11,2012-11-04,11,Louisville (9-0),12,1,,Big East
+11,2012-11-04,12,South Carolina (7-2),11,1,,SEC (East)
+11,2012-11-04,13,Oregon State (7-1),13,,,Pac-12 (North)
+11,2012-11-04,14,Oklahoma (6-2),14,,,Big 12
+11,2012-11-04,15,Texas A&M (7-2),16,1,,SEC (West)
+11,2012-11-04,16,Stanford (7-2),15,1,,Pac-12 (North)
+11,2012-11-04,17,UCLA (7-2),25,8,,Pac-12 (South)
+11,2012-11-04,18,Nebraska (7-2),21,3,,Big Ten (Legends)
+11,2012-11-04,19,Louisiana Tech (8-1),22,3,,WAC
+11,2012-11-04,19,Texas (7-2),,,,Big 12
+11,2012-11-04,21,USC (6-3),18,3,,Pac-12 (South)
+11,2012-11-04,22,Mississippi State (7-2),17,5,,SEC (West)
+11,2012-11-04,23,Toledo (8-1),,,,MAC (West)
+11,2012-11-04,24,Rutgers (7-1),,,,Big East
+11,2012-11-04,25,Texas Tech (6-3),20,5,,Big 12
+10,2012-10-28,1,Alabama (8-0),1,,60,SEC (West)
+10,2012-10-28,2,Oregon (8-0),2,,,Pac-12 (North)
+10,2012-10-28,3,Kansas State (8-0),4,1,,Big 12
+10,2012-10-28,4,Notre Dame (8-0),5,1,,Ind
+10,2012-10-28,5,LSU (7-1),6,1,,SEC (West)
+10,2012-10-28,6,Ohio State (9-0),9,3,,Big Ten (Leaders)
+10,2012-10-28,7,Georgia (7-1),12,5,,SEC (East)
+10,2012-10-28,8,Florida (7-1),3,5,,SEC (East)
+10,2012-10-28,9,Florida State (8-1),11,2,,ACC (Atlantic)
+10,2012-10-28,10,Clemson (7-1),14,4,,ACC (Atlantic)
+10,2012-10-28,11,South Carolina (7-2),17,6,,SEC (East)
+10,2012-10-28,12,Louisville (8-0),16,4,,Big East
+10,2012-10-28,13,Oregon State (6-1),7,6,,Pac-12 (North)
+10,2012-10-28,14,Oklahoma (5-2),8,6,,Big 12
+10,2012-10-28,15,Stanford (6-2),19,4,,Pac-12 (North)
+10,2012-10-28,16,Texas A&M (6-2),22,6,,SEC (West)
+10,2012-10-28,17,Mississippi State (7-1),13,4,,SEC (West)
+10,2012-10-28,18,USC (6-2),10,8,,Pac-12 (South)
+10,2012-10-28,19,Boise State (7-1),21,2,,MWC
+10,2012-10-28,20,Texas Tech (6-2),15,5,,Big 12
+10,2012-10-28,21,Nebraska (6-2),,,,Big Ten (Legends)
+10,2012-10-28,22,Louisiana Tech (7-1),24,2,,WAC
+10,2012-10-28,23,West Virginia (5-2),25,2,,Big 12
+10,2012-10-28,24,Arizona (5-3),,,,Pac-12 (South)
+10,2012-10-28,25,UCLA (6-2),,,,Pac-12 (South)
+9,2012-10-21,1,Alabama (7-0),1,,59,SEC (West)
+9,2012-10-21,2,Oregon (7-0),2,,,Pac-12 (North)
+9,2012-10-21,3,Florida (7-0),3,,1,SEC (East)
+9,2012-10-21,4,Kansas State (7-0),4,,,Big 12
+9,2012-10-21,5,Notre Dame (7-0),5,,,Ind
+9,2012-10-21,6,LSU (7-1),6,,,SEC (West)
+9,2012-10-21,7,Oregon State (6-0),8,1,,Pac-12 (North)
+9,2012-10-21,8,Oklahoma (5-1),10,2,,Big 12
+9,2012-10-21,9,Ohio State (8-0),7,2,,Big Ten (Leaders)
+9,2012-10-21,10,USC (6-1),11,1,,Pac-12 (South)
+9,2012-10-21,11,Florida State (7-1),12,1,,ACC (Atlantic)
+9,2012-10-21,12,Georgia (6-1),13,1,,SEC (East)
+9,2012-10-21,13,Mississippi State (7-0),15,2,,SEC (West)
+9,2012-10-21,14,Clemson (6-1),14,,,ACC (Atlantic)
+9,2012-10-21,15,Texas Tech (6-1),18,3,,Big 12
+9,2012-10-21,16,Louisville (7-0),16,,,Big East
+9,2012-10-21,17,South Carolina (6-2),9,8,,SEC (East)
+9,2012-10-21,18,Rutgers (7-0),19,1,,Big East
+9,2012-10-21,19,Stanford (5-2),22,3,,Pac-12 (North)
+9,2012-10-21,20,Michigan (5-2),23,3,,Big Ten (Legends)
+9,2012-10-21,21,Boise State (6-1),24,3,,MWC
+9,2012-10-21,22,Texas A&M (5-2),20,2,,SEC (West)
+9,2012-10-21,23,Ohio (7-0),25,2,,MAC (East)
+9,2012-10-21,24,Louisiana Tech (6-1),,,,WAC
+9,2012-10-21,25,West Virginia (5-2),17,8,,Big 12
+8,2012-10-14,1,Alabama (6-0),1,,60,SEC (West)
+8,2012-10-14,2,Oregon (6-0),2,,,Pac-12 (North)
+8,2012-10-14,3,Florida (6-0),4,1,,SEC (East)
+8,2012-10-14,4,Kansas State (6-0),6,2,,Big 12
+8,2012-10-14,5,Notre Dame (6-0),7,2,,Ind
+8,2012-10-14,6,LSU (6-1),9,3,,SEC (West)
+8,2012-10-14,7,Ohio State (7-0),8,1,,Big Ten (Leaders)
+8,2012-10-14,8,Oregon State (5-0),10,2,,Pac-12 (North)
+8,2012-10-14,9,South Carolina (6-1),3,6,,SEC (East)
+8,2012-10-14,10,Oklahoma (4-1),13,3,,Big 12
+8,2012-10-14,11,USC (5-1),11,,,Pac-12 (South)
+8,2012-10-14,12,Florida State (6-1),12,,,ACC (Atlantic)
+8,2012-10-14,13,Georgia (5-1),14,1,,SEC (East)
+8,2012-10-14,14,Clemson (5-1),16,2,,ACC (Atlantic)
+8,2012-10-14,15,Mississippi State (6-0),19,4,,SEC (West)
+8,2012-10-14,16,Louisville (6-0),18,2,,Big East
+8,2012-10-14,17,West Virginia (5-1),5,12,,Big 12
+8,2012-10-14,18,Texas Tech (5-1),,,,Big 12
+8,2012-10-14,19,Rutgers (6-0),20,1,,Big East
+8,2012-10-14,20,Texas A&M (5-1),22,2,,SEC (West)
+8,2012-10-14,21,Cincinnati (5-0),21,,,Big East
+8,2012-10-14,22,Stanford (4-2),17,5,,Pac-12 (North)
+8,2012-10-14,23,Michigan (4-2),25,2,,Big Ten (Legends)
+8,2012-10-14,24,Boise State (5-1),24,,,MWC
+8,2012-10-14,25,Ohio (7-0),,,,MAC (East)
+7,2012-10-07,1,Alabama (5-0),1,,60,SEC (West)
+7,2012-10-07,2,Oregon (6-0),2,,,Pac-12 (North)
+7,2012-10-07,3,South Carolina (6-0),6,3,,SEC (East)
+7,2012-10-07,4,Florida (5-0),10,6,,SEC (East)
+7,2012-10-07,5,West Virginia (5-0),8,3,,Big 12
+7,2012-10-07,6,Kansas State (5-0),7,1,,Big 12
+7,2012-10-07,7,Notre Dame (5-0),9,2,,Ind
+7,2012-10-07,8,Ohio State (6-0),12,4,,Big Ten (Leaders)
+7,2012-10-07,9,LSU (5-1),4,5,,SEC (West)
+7,2012-10-07,10,Oregon State (4-0),14,4,,Pac-12 (North)
+7,2012-10-07,11,USC (4-1),13,2,,Pac-12 (South)
+7,2012-10-07,12,Florida State (5-1),3,9,,ACC (Atlantic)
+7,2012-10-07,13,Oklahoma (3-1),17,4,,Big 12
+7,2012-10-07,14,Georgia (5-1),5,9,,SEC (East)
+7,2012-10-07,15,Texas (4-1),11,4,,Big 12
+7,2012-10-07,16,Clemson (5-1),15,1,,ACC (Atlantic)
+7,2012-10-07,17,Stanford (4-1),18,1,,Pac-12 (North)
+7,2012-10-07,18,Louisville (5-0),19,1,,Big East
+7,2012-10-07,19,Mississippi State (5-0),20,1,,SEC (West)
+7,2012-10-07,20,Rutgers (5-0),22,2,,Big East
+7,2012-10-07,21,Cincinnati (4-0),,,,Big East
+7,2012-10-07,22,Texas A&M (4-1),,,,SEC (West)
+7,2012-10-07,23,Louisiana Tech (5-0),,,,WAC
+7,2012-10-07,24,Boise State (4-1),,,,MWC
+7,2012-10-07,25,Michigan (3-2),,,,Big Ten (Legends)
+6,2012-09-30,1,Alabama (5-0),1,,60,SEC (West)
+6,2012-09-30,2,Oregon (5-0),2,,,Pac-12 (North)
+6,2012-09-30,3,Florida State (5-0),4,1,,ACC (Atlantic)
+6,2012-09-30,4,LSU (5-0),3,1,,SEC (West)
+6,2012-09-30,5,Georgia (5-0),5,,,SEC (East)
+6,2012-09-30,6,South Carolina (5-0),6,,,SEC (East)
+6,2012-09-30,7,Kansas State (4-0),7,,,Big 12
+6,2012-09-30,8,West Virginia (4-0),9,1,,Big 12
+6,2012-09-30,9,Notre Dame (4-0),10,1,,Ind
+6,2012-09-30,10,Florida (4-0),11,1,,SEC (East)
+6,2012-09-30,11,Texas (4-0),12,1,,Big 12
+6,2012-09-30,12,Ohio State (5-0),14,2,,Big Ten (Leaders)
+6,2012-09-30,13,USC (3-1),13,,,Pac-12 (South)
+6,2012-09-30,14,Oregon State (3-0),18,4,,Pac-12 (North)
+6,2012-09-30,15,Clemson (4-1),17,2,,ACC (Atlantic)
+6,2012-09-30,15,Texas Christian (4-0),15,,,Big 12
+6,2012-09-30,17,Oklahoma (2-1),16,1,,Big 12
+6,2012-09-30,18,Stanford (3-1),8,10,,Pac-12 (North)
+6,2012-09-30,19,Louisville (5-0),19,,,Big East
+6,2012-09-30,20,Mississippi State (4-0),21,1,,SEC (West)
+6,2012-09-30,21,Nebraska (4-1),22,1,,Big Ten (Legends)
+6,2012-09-30,22,Rutgers (4-0),23,1,,Big East
+6,2012-09-30,23,Washington (3-1),,,,Pac-12 (North)
+6,2012-09-30,24,Northwestern (5-0),,,,Big Ten (Legends)
+6,2012-09-30,25,UCLA (4-1),,,,Pac-12 (South)
+5,2012-09-23,1,Alabama (4-0),1,,59,SEC (West)
+5,2012-09-23,2,Oregon (4-0),3,1,,Pac-12 (North)
+5,2012-09-23,3,LSU (4-0),2,1,1,SEC (West)
+5,2012-09-23,4,Florida State (4-0),4,,,ACC (Atlantic)
+5,2012-09-23,5,Georgia (4-0),5,,,SEC (East)
+5,2012-09-23,6,South Carolina (4-0),7,1,,SEC (East)
+5,2012-09-23,7,Kansas State (4-0),15,8,,Big 12
+5,2012-09-23,8,Stanford (3-0),9,1,,Pac-12 (North)
+5,2012-09-23,9,West Virginia (3-0),8,1,,Big 12
+5,2012-09-23,10,Notre Dame (4-0),11,1,,Ind
+5,2012-09-23,11,Florida (4-0),14,3,,SEC (East)
+5,2012-09-23,12,Texas (3-0),12,,,Big 12
+5,2012-09-23,13,USC (3-1),13,,,Pac-12 (South)
+5,2012-09-23,14,Ohio State (4-0),16,2,,Big Ten (Leaders)
+5,2012-09-23,15,Texas Christian (3-0),17,2,,Big 12
+5,2012-09-23,16,Oklahoma (2-1),6,10,,Big 12
+5,2012-09-23,17,Clemson (3-1),10,7,,ACC (Atlantic)
+5,2012-09-23,18,Oregon State (2-0),,,,Pac-12 (North)
+5,2012-09-23,19,Louisville (4-0),20,1,,Big East
+5,2012-09-23,20,Michigan State (3-1),21,1,,Big Ten (Legends)
+5,2012-09-23,21,Mississippi State (4-0),23,2,,SEC (West)
+5,2012-09-23,22,Nebraska (3-1),25,3,,Big Ten (Legends)
+5,2012-09-23,23,Rutgers (4-0),,,,Big East
+5,2012-09-23,24,Boise State (2-1),24,,,MWC
+5,2012-09-23,25,Baylor (3-0),,,,Big 12
+4,2012-09-16,1,Alabama (3-0),1,,58,SEC (West)
+4,2012-09-16,2,LSU (3-0),3,1,2,SEC (West)
+4,2012-09-16,3,Oregon (3-0),4,1,,Pac-12 (North)
+4,2012-09-16,4,Florida State (3-0),5,1,,ACC (Atlantic)
+4,2012-09-16,5,Georgia (3-0),7,2,,SEC (East)
+4,2012-09-16,6,Oklahoma (2-0),5,1,,Big 12
+4,2012-09-16,7,South Carolina (3-0),8,1,,SEC (East)
+4,2012-09-16,8,West Virginia (2-0),9,1,,Big 12
+4,2012-09-16,9,Stanford (3-0),21,12,,Pac-12 (North)
+4,2012-09-16,10,Clemson (3-0),11,1,,ACC (Atlantic)
+4,2012-09-16,11,Notre Dame (3-0),20,9,,Ind
+4,2012-09-16,12,Texas (3-0),14,2,,Big 12
+4,2012-09-16,13,USC (2-1),2,11,,Pac-12 (South)
+4,2012-09-16,14,Florida (3-0),18,4,,SEC (East)
+4,2012-09-16,15,Kansas State (3-0),15,,,Big 12
+4,2012-09-16,16,Ohio State (3-0),12,4,,Big Ten (Leaders)
+4,2012-09-16,17,Texas Christian (2-0),16,1,,Big 12
+4,2012-09-16,18,Michigan (2-1),17,1,,Big Ten (Legends)
+4,2012-09-16,19,UCLA (3-0),22,3,,Pac-12 (South)
+4,2012-09-16,20,Louisville (3-0),19,1,,Big East
+4,2012-09-16,21,Michigan State (2-1),10,11,,Big Ten (Legends)
+4,2012-09-16,22,Arizona (3-0),24,2,,Pac-12 (South)
+4,2012-09-16,23,Mississippi State (3-0),,,,SEC (West)
+4,2012-09-16,24,Boise State (1-1),,,,MWC
+4,2012-09-16,25,Nebraska (2-1),,,,Big Ten (Legends)
+3,2012-09-09,1,Alabama (2-0),1,,48,SEC (West)
+3,2012-09-09,2,USC (2-0),2,,8,Pac-12 (South)
+3,2012-09-09,3,LSU (2-0),3,,3,SEC (West)
+3,2012-09-09,4,Oregon (2-0),4,,4,Pac-12 (North)
+3,2012-09-09,5,Florida State (2-0),6,1,,ACC (Atlantic)
+3,2012-09-09,5,Oklahoma (2-0),5,,,Big 12
+3,2012-09-09,7,Georgia (2-0),7,,,SEC (East)
+3,2012-09-09,8,South Carolina (2-0),9,1,,SEC (East)
+3,2012-09-09,9,West Virginia (1-0),10,1,,Big 12
+3,2012-09-09,10,Michigan State (2-0),11,1,,Big Ten (Legends)
+3,2012-09-09,11,Clemson (2-0),12,1,,ACC (Atlantic)
+3,2012-09-09,12,Ohio State (2-0),14,2,,Big Ten (Leaders)
+3,2012-09-09,13,Virginia Tech (2-0),15,2,,ACC (Coastal)
+3,2012-09-09,14,Texas (2-0),17,3,,Big 12
+3,2012-09-09,15,Kansas State (2-0),21,6,,Big 12
+3,2012-09-09,16,Texas Christian (1-0),20,4,,Big 12
+3,2012-09-09,17,Michigan (1-1),19,2,,Big Ten (Legends)
+3,2012-09-09,18,Florida (2-0),24,6,,SEC (East)
+3,2012-09-09,19,Louisville (2-0),23,4,,Big East
+3,2012-09-09,20,Notre Dame (2-0),22,2,,Ind
+3,2012-09-09,21,Stanford (2-0),25,4,,Pac-12 (North)
+3,2012-09-09,22,UCLA (2-0),,,,Pac-12 (South)
+3,2012-09-09,23,Tennessee (2-0),,,,SEC (East)
+3,2012-09-09,24,Arizona (2-0),,,,Pac-12 (South)
+3,2012-09-09,25,BYU (2-0),,,,Ind
+2,2012-09-02,1,Alabama (1-0),2,1,45,SEC (West)
+2,2012-09-02,2,USC (1-0),1,1,11,Pac-12 (South)
+2,2012-09-02,3,LSU (1-0),3,,4,SEC (West)
+2,2012-09-02,4,Oregon (1-0),5,1,,Pac-12 (North)
+2,2012-09-02,5,Oklahoma (1-0),4,1,,Big 12
+2,2012-09-02,6,Florida State (1-0),7,1,,ACC (Atlantic)
+2,2012-09-02,7,Georgia (1-0),6,1,,SEC (East)
+2,2012-09-02,8,Arkansas (1-0),10,2,,SEC (West)
+2,2012-09-02,9,South Carolina (1-0),9,,,SEC (East)
+2,2012-09-02,10,West Virginia (1-0),11,1,,Big 12
+2,2012-09-02,11,Michigan State (1-0),13,2,,Big Ten (Legends)
+2,2012-09-02,12,Clemson (1-0),14,2,,ACC (Atlantic)
+2,2012-09-02,13,Wisconsin (1-0),12,1,,Big Ten (Leaders)
+2,2012-09-02,14,Ohio State (1-0),18,4,,Big Ten (Leaders)
+2,2012-09-02,15,Virginia Tech,16,1,,ACC (Coastal)
+2,2012-09-02,16,Nebraska (1-0),17,1,,Big Ten (Legends)
+2,2012-09-02,17,Texas (1-0),15,2,,Big 12
+2,2012-09-02,18,Oklahoma State (1-0),19,1,,Big 12
+2,2012-09-02,19,Michigan (0-1),8,11,,Big Ten (Legends)
+2,2012-09-02,20,Texas Christian,20,,,Big 12
+2,2012-09-02,21,Kansas State (1-0),22,1,,Big 12
+2,2012-09-02,22,Notre Dame (1-0),,,,Ind
+2,2012-09-02,23,Louisville,25,2,,Big East
+2,2012-09-02,24,Florida (1-0),23,1,,SEC (East)
+2,2012-09-02,25,Stanford (1-0),21,4,,Pac-12 (North)
+1,Preseason,1,USC,NA,—,25,Pac-12 (South)
+1,Preseason,2,Alabama,NA,—,17,SEC (West)
+1,Preseason,3,LSU,NA,—,,SEC (West)
+1,Preseason,4,Oklahoma,NA,—,1,Big 12
+1,Preseason,5,Oregon,NA,—,,Pac-12 (North)
+1,Preseason,6,Georgia,NA,—,,SEC (East)
+1,Preseason,7,Florida State,NA,—,,ACC (Atlantic)
+1,Preseason,8,Michigan,NA,—,1,Big Ten (Legends)
+1,Preseason,9,South Carolina,NA,—,,SEC (East)
+1,Preseason,10,Arkansas,NA,—,,SEC (West)
+1,Preseason,11,West Virginia,NA,—,,Big 12
+1,Preseason,12,Wisconsin,NA,—,,Big Ten (Leaders)
+1,Preseason,13,Michigan State,NA,—,,Big Ten (Legends)
+1,Preseason,14,Clemson,NA,—,,ACC (Atlantic)
+1,Preseason,15,Texas,NA,—,,Big 12
+1,Preseason,16,Virginia Tech,NA,—,,ACC (Coastal)
+1,Preseason,17,Nebraska,NA,—,,Big Ten (Legends)
+1,Preseason,18,Ohio State,NA,—,,Big Ten (Leaders)
+1,Preseason,19,Oklahoma State,NA,—,,Big 12
+1,Preseason,20,Texas Christian,NA,—,,Big 12
+1,Preseason,21,Stanford,NA,—,,Pac-12 (North)
+1,Preseason,22,Kansas State,NA,—,,Big 12
+1,Preseason,23,Florida,NA,—,,SEC (East)
+1,Preseason,24,Boise State,NA,—,,MWC
+1,Preseason,25,Louisville,NA,—,,Big East

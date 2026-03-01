@@ -1,0 +1,426 @@
+Wk,Date,Rk,School,Prev,Chng,1st,Conf
+17,Final,1,Florida State,1,,70,ACC
+17,Final,2,Virginia Tech,2,,,Big East
+17,Final,3,Nebraska,3,,,Big 12 (North)
+17,Final,4,Wisconsin,4,,,Big Ten
+17,Final,5,Michigan,8,3,,Big Ten
+17,Final,6,Kansas State,7,1,,Big 12 (North)
+17,Final,7,Michigan State,9,2,,Big Ten
+17,Final,8,Alabama,5,3,,SEC (West)
+17,Final,9,Tennessee,6,3,,SEC (East)
+17,Final,10,Marshall,11,1,,MAC (East)
+17,Final,11,Penn State,13,2,,Big Ten
+17,Final,12,Florida,10,2,,SEC (East)
+17,Final,13,Mississippi State,15,2,,SEC (West)
+17,Final,14,Southern Mississippi,16,2,,CUSA
+17,Final,15,Miami (FL),23,8,,Big East
+17,Final,16,Georgia,21,5,,SEC (East)
+17,Final,17,Arkansas,24,7,,SEC (West)
+17,Final,18,Minnesota,12,6,,Big Ten
+17,Final,19,Oregon,,,,Pac-10
+17,Final,20,Georgia Tech,17,3,,ACC
+17,Final,21,Texas,14,7,,Big 12 (South)
+17,Final,22,Ole Miss,,,,SEC (West)
+17,Final,23,Texas A&M,18,5,,Big 12 (South)
+17,Final,24,Illinois,,,,Big Ten
+17,Final,25,Purdue,19,6,,Big Ten
+16,1999-12-05,1,Florida State (11-0),1,,64,ACC
+16,1999-12-05,2,Virginia Tech (11-0),2,,6,Big East
+16,1999-12-05,3,Nebraska (11-1),3,,,Big 12 (North)
+16,1999-12-05,4,Wisconsin (9-2),4,,,Big Ten
+16,1999-12-05,5,Alabama (10-2),7,2,,SEC (West)
+16,1999-12-05,6,Tennessee (9-2),6,,,SEC (East)
+16,1999-12-05,7,Kansas State (10-1),8,1,,Big 12 (North)
+16,1999-12-05,8,Michigan (9-2),9,1,,Big Ten
+16,1999-12-05,9,Michigan State (9-2),10,1,,Big Ten
+16,1999-12-05,10,Florida (9-3),5,5,,SEC (East)
+16,1999-12-05,11,Marshall (12-0),11,,,MAC (East)
+16,1999-12-05,12,Minnesota (8-3),13,1,,Big Ten
+16,1999-12-05,13,Penn State (9-3),14,1,,Big Ten
+16,1999-12-05,14,Texas (9-4),12,2,,Big 12 (South)
+16,1999-12-05,15,Mississippi State (9-2),16,1,,SEC (West)
+16,1999-12-05,16,Southern Mississippi (8-3),15,1,,CUSA
+16,1999-12-05,17,Georgia Tech (8-3),17,,,ACC
+16,1999-12-05,18,Texas A&M (8-3),18,,,Big 12 (South)
+16,1999-12-05,19,Purdue (7-4),19,,,Big Ten
+16,1999-12-05,20,East Carolina (9-2),20,,,CUSA
+16,1999-12-05,21,Georgia (7-4),21,,,SEC (East)
+16,1999-12-05,22,Stanford (8-3),22,,,Pac-10
+16,1999-12-05,23,Miami (FL) (8-4),23,,,Big East
+16,1999-12-05,24,Arkansas (7-4),24,,,SEC (West)
+16,1999-12-05,25,Boston College (8-3),25,,,Big East
+15,1999-11-28,1,Florida State (11-0),1,,64,ACC
+15,1999-11-28,2,Virginia Tech (11-0),2,,6,Big East
+15,1999-11-28,3,Nebraska (10-1),3,,,Big 12 (North)
+15,1999-11-28,4,Wisconsin (9-2),4,,,Big Ten
+15,1999-11-28,5,Florida (9-2),5,,,SEC (East)
+15,1999-11-28,6,Tennessee (9-2),6,,,SEC (East)
+15,1999-11-28,7,Alabama (9-2),8,1,,SEC (West)
+15,1999-11-28,8,Kansas State (10-1),9,1,,Big 12 (North)
+15,1999-11-28,9,Michigan (9-2),10,1,,Big Ten
+15,1999-11-28,10,Michigan State (9-2),11,1,,Big Ten
+15,1999-11-28,11,Marshall (11-0),12,1,,MAC (East)
+15,1999-11-28,12,Texas (9-3),7,5,,Big 12 (South)
+15,1999-11-28,13,Minnesota (8-3),13,,,Big Ten
+15,1999-11-28,14,Penn State (9-3),15,1,,Big Ten
+15,1999-11-28,15,Southern Mississippi (8-3),14,1,,CUSA
+15,1999-11-28,16,Mississippi State (9-2),18,2,,SEC (West)
+15,1999-11-28,17,Georgia Tech (8-3),20,3,,ACC
+15,1999-11-28,18,Texas A&M (8-3),24,6,,Big 12 (South)
+15,1999-11-28,19,Purdue (7-4),19,,,Big Ten
+15,1999-11-28,20,East Carolina (9-2),21,1,,CUSA
+15,1999-11-28,21,Georgia (7-4),16,5,,SEC (East)
+15,1999-11-28,22,Stanford (8-3),,,,Pac-10
+15,1999-11-28,23,Miami (FL) (7-4),,,,Big East
+15,1999-11-28,24,Arkansas (7-4),17,7,,SEC (West)
+15,1999-11-28,25,Boston College (8-3),22,3,,Big East
+14,1999-11-21,1,Florida State (11-0),1,,66,ACC
+14,1999-11-21,2,Virginia Tech (10-0),2,,4,Big East
+14,1999-11-21,3,Nebraska (9-1),4,1,,Big 12 (North)
+14,1999-11-21,4,Wisconsin (9-2),5,1,,Big Ten
+14,1999-11-21,5,Florida (9-2),3,2,,SEC (East)
+14,1999-11-21,6,Tennessee (8-2),7,1,,SEC (East)
+14,1999-11-21,7,Texas (9-2),6,1,,Big 12 (South)
+14,1999-11-21,8,Alabama (9-2),8,,,SEC (West)
+14,1999-11-21,9,Kansas State (10-1),9,,,Big 12 (North)
+14,1999-11-21,10,Michigan (9-2),10,,,Big Ten
+14,1999-11-21,11,Michigan State (9-2),15,4,,Big Ten
+14,1999-11-21,12,Marshall (10-0),11,1,,MAC (East)
+14,1999-11-21,13,Minnesota (8-3),17,4,,Big Ten
+14,1999-11-21,14,Southern Mississippi (8-3),18,4,,CUSA
+14,1999-11-21,15,Penn State (9-3),13,2,,Big Ten
+14,1999-11-21,16,Georgia (7-3),21,5,,SEC (East)
+14,1999-11-21,17,Arkansas (7-3),22,5,,SEC (West)
+14,1999-11-21,18,Mississippi State (8-2),12,6,,SEC (West)
+14,1999-11-21,19,Purdue (7-4),19,,,Big Ten
+14,1999-11-21,20,Georgia Tech (7-3),14,6,,ACC
+14,1999-11-21,21,East Carolina (9-2),23,2,,CUSA
+14,1999-11-21,22,Boston College (8-2),25,3,,Big East
+14,1999-11-21,23,Ole Miss (7-3),16,7,,SEC (West)
+14,1999-11-21,24,Texas A&M (7-3),24,,,Big 12 (South)
+14,1999-11-21,25,Louisiana Tech (8-2),,,,Ind
+13,1999-11-14,1,Florida State (10-0),1,,63,ACC
+13,1999-11-14,2,Virginia Tech (9-0),2,,6,Big East
+13,1999-11-14,3,Florida (9-1),4,1,,SEC (East)
+13,1999-11-14,4,Nebraska (9-1),7,3,,Big 12 (North)
+13,1999-11-14,5,Wisconsin (9-2),9,4,,Big Ten
+13,1999-11-14,6,Texas (9-2),10,4,,Big 12 (South)
+13,1999-11-14,7,Tennessee (7-2),3,4,,SEC (East)
+13,1999-11-14,8,Alabama (8-2),11,3,,SEC (West)
+13,1999-11-14,9,Kansas State (9-1),5,4,,Big 12 (North)
+13,1999-11-14,10,Michigan (8-2),16,6,,Big Ten
+13,1999-11-14,11,Marshall (10-0),12,1,,MAC (East)
+13,1999-11-14,12,Mississippi State (8-1),8,4,,SEC (West)
+13,1999-11-14,13,Penn State (9-2),6,7,,Big Ten
+13,1999-11-14,14,Georgia Tech (7-2),13,1,,ACC
+13,1999-11-14,15,Michigan State (8-2),17,2,,Big Ten
+13,1999-11-14,16,Ole Miss (7-2),18,2,,SEC (West)
+13,1999-11-14,17,Minnesota (7-3),20,3,,Big Ten
+13,1999-11-14,18,Southern Mississippi (7-3),21,3,,CUSA
+13,1999-11-14,19,BYU (8-2),15,4,,MWC
+13,1999-11-14,19,Purdue (6-4),22,3,,Big Ten
+13,1999-11-14,21,Georgia (6-3),14,7,,SEC (East)
+13,1999-11-14,22,Arkansas (6-3),,,,SEC (West)
+13,1999-11-14,23,East Carolina (8-2),24,1,,CUSA
+13,1999-11-14,24,Texas A&M (7-3),,,,Big 12 (South)
+13,1999-11-14,25,Boston College (7-2),,,,Big East
+12,1999-11-07,1,Florida State (9-0),1,,66,ACC
+12,1999-11-07,2,Virginia Tech (8-0),3,1,4,Big East
+12,1999-11-07,3,Tennessee (7-1),4,1,,SEC (East)
+12,1999-11-07,4,Florida (8-1),5,1,,SEC (East)
+12,1999-11-07,5,Kansas State (9-0),6,1,,Big 12 (North)
+12,1999-11-07,6,Penn State (9-1),2,4,,Big Ten
+12,1999-11-07,7,Nebraska (8-1),9,2,,Big 12 (North)
+12,1999-11-07,8,Mississippi State (8-0),8,,,SEC (West)
+12,1999-11-07,9,Wisconsin (8-2),10,1,,Big Ten
+12,1999-11-07,10,Texas (8-2),11,1,,Big 12 (South)
+12,1999-11-07,11,Alabama (7-2),12,1,,SEC (West)
+12,1999-11-07,12,Marshall (9-0),13,1,,MAC (East)
+12,1999-11-07,13,Georgia Tech (6-2),7,6,,ACC
+12,1999-11-07,14,Georgia (6-2),14,,,SEC (East)
+12,1999-11-07,15,BYU (8-1),15,,,MWC
+12,1999-11-07,16,Michigan (7-2),16,,,Big Ten
+12,1999-11-07,17,Michigan State (7-2),19,2,,Big Ten
+12,1999-11-07,18,Ole Miss (7-2),23,5,,SEC (West)
+12,1999-11-07,19,Miami (FL) (5-3),22,3,,Big East
+12,1999-11-07,20,Minnesota (6-3),,,,Big Ten
+12,1999-11-07,21,Southern Mississippi (6-3),25,4,,CUSA
+12,1999-11-07,22,Purdue (6-4),17,5,,Big Ten
+12,1999-11-07,23,Washington (6-3),,,,Pac-10
+12,1999-11-07,24,East Carolina (7-2),18,6,,CUSA
+12,1999-11-07,25,Ohio State (6-4),20,5,,Big Ten
+11,1999-10-31,1,Florida State (9-0),1,,55,ACC
+11,1999-10-31,2,Penn State (9-0),2,,9,Big Ten
+11,1999-10-31,3,Virginia Tech (7-0),3,,6,Big East
+11,1999-10-31,4,Tennessee (6-1),4,,,SEC (East)
+11,1999-10-31,5,Florida (7-1),5,,,SEC (East)
+11,1999-10-31,6,Kansas State (8-0),6,,,Big 12 (North)
+11,1999-10-31,7,Georgia Tech (6-1),7,,,ACC
+11,1999-10-31,8,Mississippi State (7-0),8,,,SEC (West)
+11,1999-10-31,9,Nebraska (7-1),8,1,,Big 12 (North)
+11,1999-10-31,10,Wisconsin (7-2),11,1,,Big Ten
+11,1999-10-31,11,Texas (7-2),12,1,,Big 12 (South)
+11,1999-10-31,12,Alabama (6-2),14,2,,SEC (West)
+11,1999-10-31,13,Marshall (8-0),13,,,MAC (East)
+11,1999-10-31,14,Georgia (6-2),10,4,,SEC (East)
+11,1999-10-31,15,BYU (7-1),16,1,,MWC
+11,1999-10-31,16,Michigan (6-2),15,1,,Big Ten
+11,1999-10-31,17,Purdue (6-3),18,1,,Big Ten
+11,1999-10-31,18,East Carolina (7-1),17,1,,CUSA
+11,1999-10-31,19,Michigan State (6-2),19,,,Big Ten
+11,1999-10-31,20,Ohio State (6-3),21,1,,Big Ten
+11,1999-10-31,21,Texas A&M (6-2),22,1,,Big 12 (South)
+11,1999-10-31,22,Miami (FL) (4-3),23,1,,Big East
+11,1999-10-31,23,Ole Miss (6-2),25,2,,SEC (West)
+11,1999-10-31,24,Notre Dame (5-3),,,,Ind
+11,1999-10-31,25,Southern Mississippi (5-3),20,5,,CUSA
+10,1999-10-24,1,Florida State (8-0),1,,55,ACC
+10,1999-10-24,2,Penn State (8-0),2,,10,Big Ten
+10,1999-10-24,3,Virginia Tech (6-0),4,1,5,Big East
+10,1999-10-24,4,Tennessee (5-1),5,1,,SEC (East)
+10,1999-10-24,5,Florida (6-1),6,1,,SEC (East)
+10,1999-10-24,6,Kansas State (7-0),7,1,,Big 12 (North)
+10,1999-10-24,7,Georgia Tech (5-1),8,1,,ACC
+10,1999-10-24,8,Mississippi State (7-0),12,4,,SEC (West)
+10,1999-10-24,8,Nebraska (6-1),3,5,,Big 12 (North)
+10,1999-10-24,10,Georgia (6-1),14,4,,SEC (East)
+10,1999-10-24,11,Wisconsin (6-2),17,6,,Big Ten
+10,1999-10-24,12,Texas (6-2),18,6,,Big 12 (South)
+10,1999-10-24,13,Marshall (7-0),15,2,,MAC (East)
+10,1999-10-24,14,Alabama (5-2),10,4,,SEC (West)
+10,1999-10-24,15,Michigan (5-2),9,6,,Big Ten
+10,1999-10-24,16,BYU (6-1),19,3,,MWC
+10,1999-10-24,17,East Carolina (6-1),20,3,,CUSA
+10,1999-10-24,18,Purdue (5-3),16,2,,Big Ten
+10,1999-10-24,19,Michigan State (6-2),11,8,,Big Ten
+10,1999-10-24,20,Southern Mississippi (5-2),21,1,,CUSA
+10,1999-10-24,21,Ohio State (5-3),22,1,,Big Ten
+10,1999-10-24,22,Texas A&M (5-2),13,9,,Big 12 (South)
+10,1999-10-24,23,Miami (FL) (3-3),23,,,Big East
+10,1999-10-24,24,Oklahoma (4-2),,,,Big 12 (South)
+10,1999-10-24,25,Ole Miss (5-2),25,,,SEC (West)
+9,1999-10-17,1,Florida State (7-0),1,,62,ACC
+9,1999-10-17,2,Penn State (7-0),2,,6,Big Ten
+9,1999-10-17,3,Nebraska (6-0),3,,,Big 12 (North)
+9,1999-10-17,4,Virginia Tech (6-0),4,,2,Big East
+9,1999-10-17,5,Tennessee (4-1),6,1,,SEC (East)
+9,1999-10-17,6,Florida (6-1),7,1,,SEC (East)
+9,1999-10-17,7,Kansas State (6-0),9,2,,Big 12 (North)
+9,1999-10-17,8,Georgia Tech (5-1),8,,,ACC
+9,1999-10-17,9,Michigan (5-1),10,1,,Big Ten
+9,1999-10-17,10,Alabama (5-1),11,1,,SEC (West)
+9,1999-10-17,11,Michigan State (6-1),5,6,,Big Ten
+9,1999-10-17,12,Mississippi State (6-0),12,,,SEC (West)
+9,1999-10-17,13,Texas A&M (5-1),13,,,Big 12 (South)
+9,1999-10-17,14,Georgia (5-1),14,,,SEC (East)
+9,1999-10-17,15,Marshall (6-0),15,,,MAC (East)
+9,1999-10-17,16,Purdue (5-2),20,4,,Big Ten
+9,1999-10-17,17,Wisconsin (5-2),17,,,Big Ten
+9,1999-10-17,18,Texas (5-2),19,1,,Big 12 (South)
+9,1999-10-17,19,BYU (5-1),21,2,,MWC
+9,1999-10-17,20,East Carolina (5-1),23,3,,CUSA
+9,1999-10-17,21,Southern Mississippi (4-2),25,4,,CUSA
+9,1999-10-17,22,Ohio State (4-3),18,4,,Big Ten
+9,1999-10-17,23,Miami (FL) (2-3),24,1,,Big East
+9,1999-10-17,24,Minnesota (5-1),,,,Big Ten
+9,1999-10-17,25,Ole Miss (5-2),22,3,,SEC (West)
+8,1999-10-10,1,Florida State (6-0),1,,63,ACC
+8,1999-10-10,2,Penn State (6-0),2,,6,Big Ten
+8,1999-10-10,3,Nebraska (6-0),4,1,,Big 12 (North)
+8,1999-10-10,4,Virginia Tech (5-0),5,1,1,Big East
+8,1999-10-10,5,Michigan State (6-0),11,6,,Big Ten
+8,1999-10-10,6,Tennessee (4-1),6,,,SEC (East)
+8,1999-10-10,7,Florida (5-1),8,1,,SEC (East)
+8,1999-10-10,8,Georgia Tech (4-1),7,1,,ACC
+8,1999-10-10,9,Kansas State (5-0),9,,,Big 12 (North)
+8,1999-10-10,10,Michigan (5-1),3,7,,Big Ten
+8,1999-10-10,11,Alabama (4-1),12,1,,SEC (West)
+8,1999-10-10,12,Mississippi State (6-0),14,2,,SEC (West)
+8,1999-10-10,13,Texas A&M (4-1),13,,,Big 12 (South)
+8,1999-10-10,14,Georgia (4-1),10,4,,SEC (East)
+8,1999-10-10,15,Marshall (5-0),15,,,MAC (East)
+8,1999-10-10,16,Syracuse (5-1),18,2,,Big East
+8,1999-10-10,17,Wisconsin (4-2),20,3,,Big Ten
+8,1999-10-10,18,Ohio State (4-2),21,3,,Big Ten
+8,1999-10-10,19,Texas (5-2),23,4,,Big 12 (South)
+8,1999-10-10,20,Purdue (4-2),17,3,,Big Ten
+8,1999-10-10,21,BYU (4-1),24,3,,MWC
+8,1999-10-10,22,Ole Miss (5-1),,,,SEC (West)
+8,1999-10-10,23,East Carolina (5-1),16,7,,CUSA
+8,1999-10-10,24,Miami (FL) (2-3),19,5,,Big East
+8,1999-10-10,25,Southern Mississippi (3-2),,,,CUSA
+7,1999-10-03,1,Florida State (5-0),1,,64,ACC
+7,1999-10-03,2,Penn State (5-0),2,,5,Big Ten
+7,1999-10-03,3,Michigan (5-0),4,1,,Big Ten
+7,1999-10-03,4,Nebraska (5-0),6,2,,Big 12 (North)
+7,1999-10-03,5,Virginia Tech (4-0),8,3,1,Big East
+7,1999-10-03,6,Tennessee (3-1),7,1,,SEC (East)
+7,1999-10-03,7,Georgia Tech (3-1),9,2,,ACC
+7,1999-10-03,8,Florida (4-1),3,5,,SEC (East)
+7,1999-10-03,9,Kansas State (4-0),13,4,,Big 12 (North)
+7,1999-10-03,10,Georgia (4-0),10,,,SEC (East)
+7,1999-10-03,11,Michigan State (5-0),14,3,,Big Ten
+7,1999-10-03,12,Alabama (4-1),21,9,,SEC (West)
+7,1999-10-03,13,Texas A&M (3-1),5,8,,Big 12 (South)
+7,1999-10-03,14,Mississippi State (5-0),16,2,,SEC (West)
+7,1999-10-03,15,Marshall (5-0),17,2,,MAC (East)
+7,1999-10-03,16,East Carolina (5-0),19,3,,CUSA
+7,1999-10-03,17,Purdue (4-1),11,6,,Big Ten
+7,1999-10-03,18,Syracuse (4-1),22,4,,Big East
+7,1999-10-03,19,Miami (FL) (2-2),18,1,,Big East
+7,1999-10-03,20,Wisconsin (3-2),,,,Big Ten
+7,1999-10-03,21,Ohio State (3-2),12,9,,Big Ten
+7,1999-10-03,22,USC (3-1),,,,Pac-10
+7,1999-10-03,23,Texas (4-2),15,8,,Big 12 (South)
+7,1999-10-03,24,BYU (3-1),,,,MWC
+7,1999-10-03,25,Minnesota (4-0),,,,Big Ten
+6,1999-09-26,1,Florida State (4-0),1,,61,ACC
+6,1999-09-26,2,Penn State (5-0),2,,5,Big Ten
+6,1999-09-26,3,Florida (4-0),3,,3,SEC (East)
+6,1999-09-26,4,Michigan (4-0),4,,,Big Ten
+6,1999-09-26,5,Texas A&M (3-0),5,,,Big 12 (South)
+6,1999-09-26,6,Nebraska (4-0),6,,,Big 12 (North)
+6,1999-09-26,7,Tennessee (2-1),7,,,SEC (East)
+6,1999-09-26,8,Virginia Tech (3-0),8,,1,Big East
+6,1999-09-26,9,Georgia Tech (2-1),10,1,,ACC
+6,1999-09-26,10,Georgia (3-0),11,1,,SEC (East)
+6,1999-09-26,11,Purdue (4-0),13,2,,Big Ten
+6,1999-09-26,12,Ohio State (3-1),12,,,Big Ten
+6,1999-09-26,13,Kansas State (3-0),15,2,,Big 12 (North)
+6,1999-09-26,14,Michigan State (4-0),19,5,,Big Ten
+6,1999-09-26,15,Texas (4-1),22,7,,Big 12 (South)
+6,1999-09-26,16,Mississippi State (4-0),23,7,,SEC (West)
+6,1999-09-26,17,Marshall (4-0),21,4,,MAC (East)
+6,1999-09-26,18,Miami (FL) (2-2),9,9,,Big East
+6,1999-09-26,19,East Carolina (4-0),,,,CUSA
+6,1999-09-26,20,Arkansas (2-1),14,6,,SEC (West)
+6,1999-09-26,21,Alabama (3-1),,,,SEC (West)
+6,1999-09-26,22,Syracuse (3-1),,,,Big East
+6,1999-09-26,23,Oklahoma (3-0),,,,Big 12 (South)
+6,1999-09-26,24,Virginia (3-1),,,,ACC
+6,1999-09-26,25,Oregon (3-1),,,,Pac-10
+5,1999-09-19,1,Florida State (3-0),1,,59,ACC
+5,1999-09-19,2,Penn State (4-0),3,1,7,Big Ten
+5,1999-09-19,3,Florida (3-0),4,1,3,SEC (East)
+5,1999-09-19,4,Michigan (3-0),6,2,,Big Ten
+5,1999-09-19,5,Texas A&M (2-0),7,2,,Big 12 (South)
+5,1999-09-19,6,Nebraska (3-0),4,2,,Big 12 (North)
+5,1999-09-19,7,Tennessee (1-1),2,5,,SEC (East)
+5,1999-09-19,8,Virginia Tech (2-0),10,2,1,Big East
+5,1999-09-19,9,Miami (FL) (2-1),8,1,,Big East
+5,1999-09-19,10,Georgia Tech (2-1),12,2,,ACC
+5,1999-09-19,11,Georgia (2-0),11,,,SEC (East)
+5,1999-09-19,12,Ohio State (2-1),13,1,,Big Ten
+5,1999-09-19,13,Purdue (3-0),14,1,,Big Ten
+5,1999-09-19,14,Arkansas (2-0),15,1,,SEC (West)
+5,1999-09-19,15,Kansas State (2-0),16,1,,Big 12 (North)
+5,1999-09-19,16,USC (2-0),17,1,,Pac-10
+5,1999-09-19,17,BYU (2-0),25,8,,MWC
+5,1999-09-19,18,UCLA (2-1),21,3,,Pac-10
+5,1999-09-19,19,Michigan State (3-0),,,,Big Ten
+5,1999-09-19,20,Wisconsin (2-1),9,11,,Big Ten
+5,1999-09-19,21,Marshall (3-0),,,,MAC (East)
+5,1999-09-19,22,Texas (3-1),,,,Big 12 (South)
+5,1999-09-19,23,Mississippi State (3-0),,,,SEC (West)
+5,1999-09-19,24,Air Force (2-0),,,,MWC
+5,1999-09-19,25,North Carolina State (3-1),20,5,,ACC
+4,1999-09-12,1,Florida State (2-0),1,,49,ACC
+4,1999-09-12,2,Tennessee (1-0),3,1,13,SEC (East)
+4,1999-09-12,3,Penn State (3-0),2,1,6,Big Ten
+4,1999-09-12,4,Florida (2-0),4,,1,SEC (East)
+4,1999-09-12,4,Nebraska (2-0),5,1,,Big 12 (North)
+4,1999-09-12,6,Michigan (2-0),6,,,Big Ten
+4,1999-09-12,7,Texas A&M (1-0),7,,,Big 12 (South)
+4,1999-09-12,8,Miami (FL) (2-0),8,,,Big East
+4,1999-09-12,9,Wisconsin (2-0),9,,,Big Ten
+4,1999-09-12,10,Virginia Tech (2-0),11,1,1,Big East
+4,1999-09-12,11,Georgia (2-0),12,1,,SEC (East)
+4,1999-09-12,12,Georgia Tech (1-1),10,2,,ACC
+4,1999-09-12,13,Ohio State (1-1),13,,,Big Ten
+4,1999-09-12,14,Purdue (2-0),20,6,,Big Ten
+4,1999-09-12,15,Arkansas (1-0),15,,,SEC (West)
+4,1999-09-12,16,Kansas State (1-0),17,1,,Big 12 (North)
+4,1999-09-12,17,USC (1-0),18,1,,Pac-10
+4,1999-09-12,18,Alabama (2-0),21,3,,SEC (West)
+4,1999-09-12,19,Arizona (2-1),19,,,Pac-10
+4,1999-09-12,20,North Carolina State (3-0),23,3,,ACC
+4,1999-09-12,21,UCLA (1-1),14,7,,Pac-10
+4,1999-09-12,22,Arizona State (1-0),25,3,,Pac-10
+4,1999-09-12,23,Colorado State (2-0),24,1,,MWC
+4,1999-09-12,24,Notre Dame (1-2),16,8,,Ind
+4,1999-09-12,25,BYU (1-0),,,,MWC
+3,1999-09-06,1,Florida State (1-0),1,,31,ACC
+3,1999-09-06,2,Penn State (2-0),2,,26,Big Ten
+3,1999-09-06,3,Tennessee (1-0),3,,11,SEC (East)
+3,1999-09-06,4,Florida (1-0),4,,1,SEC (East)
+3,1999-09-06,5,Nebraska (1-0),5,,,Big 12 (North)
+3,1999-09-06,6,Michigan (1-0),7,1,,Big Ten
+3,1999-09-06,7,Texas A&M (1-0),6,1,,Big 12 (South)
+3,1999-09-06,8,Miami (FL) (2-0),8,,,Big East
+3,1999-09-06,9,Wisconsin (1-0),9,,,Big Ten
+3,1999-09-06,10,Georgia Tech (1-0),10,,,ACC
+3,1999-09-06,11,Virginia Tech (1-0),11,,1,Big East
+3,1999-09-06,12,Georgia (1-0),12,,,SEC (East)
+3,1999-09-06,13,Ohio State (0-1),13,,,Big Ten
+3,1999-09-06,14,UCLA (1-0),17,3,,Pac-10
+3,1999-09-06,15,Arkansas (1-0),18,3,,SEC (West)
+3,1999-09-06,16,Notre Dame (1-1),16,,,Ind
+3,1999-09-06,17,Kansas State,19,2,,Big 12 (North)
+3,1999-09-06,18,USC (1-0),21,3,,Pac-10
+3,1999-09-06,19,Arizona (1-1),15,4,,Pac-10
+3,1999-09-06,20,Purdue (1-0),22,2,,Big Ten
+3,1999-09-06,21,Alabama (1-0),20,1,,SEC (West)
+3,1999-09-06,22,Virginia (1-0),23,1,,ACC
+3,1999-09-06,23,North Carolina State (2-0),24,1,,ACC
+3,1999-09-06,24,Colorado State (1-0),,,,MWC
+3,1999-09-06,25,Arizona State,25,,,Pac-10
+2,1999-08-30,1,Florida State (1-0),1,,28,ACC
+2,1999-08-30,2,Penn State (1-0),3,1,26,Big Ten
+2,1999-08-30,3,Tennessee,2,1,13,SEC (East)
+2,1999-08-30,4,Florida,5,1,1,SEC (East)
+2,1999-08-30,5,Nebraska,6,1,,Big 12 (North)
+2,1999-08-30,6,Texas A&M,7,1,,Big 12 (South)
+2,1999-08-30,7,Michigan,8,1,,Big Ten
+2,1999-08-30,8,Miami (FL) (1-0),12,4,,Big East
+2,1999-08-30,9,Wisconsin,10,1,,Big Ten
+2,1999-08-30,10,Georgia Tech,11,1,,ACC
+2,1999-08-30,11,Virginia Tech,13,2,1,Big East
+2,1999-08-30,12,Georgia,14,2,,SEC (East)
+2,1999-08-30,13,Ohio State (0-1),9,4,,Big Ten
+2,1999-08-30,14,Colorado,15,1,,Big 12 (North)
+2,1999-08-30,15,Arizona (0-1),4,11,,Pac-10
+2,1999-08-30,16,Notre Dame (1-0),18,2,,Ind
+2,1999-08-30,17,UCLA,16,1,,Pac-10
+2,1999-08-30,18,Arkansas,22,4,,SEC (West)
+2,1999-08-30,19,Kansas State,20,1,,Big 12 (North)
+2,1999-08-30,20,Alabama,20,,,SEC (West)
+2,1999-08-30,21,USC,19,2,,Pac-10
+2,1999-08-30,22,Purdue,23,1,,Big Ten
+2,1999-08-30,23,Virginia,24,1,,ACC
+2,1999-08-30,24,North Carolina State (1-0),,,,ACC
+2,1999-08-30,25,Arizona State,25,,,Pac-10
+1,Preseason,1,Florida State,NA,—,48,ACC
+1,Preseason,2,Tennessee,NA,—,15,SEC (East)
+1,Preseason,3,Penn State,NA,—,4,Big Ten
+1,Preseason,4,Arizona,NA,—,1,Pac-10
+1,Preseason,5,Florida,NA,—,1,SEC (East)
+1,Preseason,6,Nebraska,NA,—,,Big 12 (North)
+1,Preseason,7,Texas A&M,NA,—,,Big 12 (South)
+1,Preseason,8,Michigan,NA,—,,Big Ten
+1,Preseason,9,Ohio State,NA,—,,Big Ten
+1,Preseason,10,Wisconsin,NA,—,,Big Ten
+1,Preseason,11,Georgia Tech,NA,—,,ACC
+1,Preseason,12,Miami (FL),NA,—,,Big East
+1,Preseason,13,Virginia Tech,NA,—,1,Big East
+1,Preseason,14,Georgia,NA,—,,SEC (East)
+1,Preseason,15,Colorado,NA,—,,Big 12 (North)
+1,Preseason,16,UCLA,NA,—,,Pac-10
+1,Preseason,17,Texas,NA,—,,Big 12 (South)
+1,Preseason,18,Notre Dame,NA,—,,Ind
+1,Preseason,19,USC,NA,—,,Pac-10
+1,Preseason,20,Alabama,NA,—,,SEC (West)
+1,Preseason,20,Kansas State,NA,—,,Big 12 (North)
+1,Preseason,22,Arkansas,NA,—,,SEC (West)
+1,Preseason,23,Purdue,NA,—,,Big Ten
+1,Preseason,24,Virginia,NA,—,,ACC
+1,Preseason,25,Arizona State,NA,—,,Pac-10

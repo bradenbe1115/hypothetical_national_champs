@@ -1,0 +1,426 @@
+Wk,Date,Rk,School,Prev,Chng,1st,Conf
+17,Final,1,USC,1,,48,Pac-10
+17,Final,2,LSU,2,,17,SEC (West)
+17,Final,3,Oklahoma,3,,,Big 12 (South)
+17,Final,4,Ohio State,7,3,,Big Ten
+17,Final,5,Miami (FL),10,5,,Big East
+17,Final,6,Michigan,4,2,,Big Ten
+17,Final,7,Georgia,11,4,,SEC (East)
+17,Final,8,Iowa,13,5,,Big Ten
+17,Final,9,Washington State,15,6,,Pac-10
+17,Final,10,Miami (OH),14,4,,MAC (East)
+17,Final,11,Florida State,9,2,,ACC
+17,Final,12,Texas,5,7,,Big 12 (South)
+17,Final,13,Ole Miss,16,3,,SEC (West)
+17,Final,14,Kansas State,8,6,,Big 12 (North)
+17,Final,15,Tennessee,6,9,,SEC (East)
+17,Final,16,Boise State,18,2,,WAC
+17,Final,17,Maryland,23,6,,ACC
+17,Final,18,Purdue,12,6,,Big Ten
+17,Final,19,Nebraska,22,3,,Big 12 (North)
+17,Final,20,Minnesota,24,4,,Big Ten
+17,Final,21,Utah,25,4,,MWC
+17,Final,22,Clemson,,,,ACC
+17,Final,23,Bowling Green,,,,MAC (West)
+17,Final,24,Florida,17,7,,SEC (East)
+17,Final,25,Texas Christian,19,6,,CUSA
+16,2003-12-07,1,USC (11-1),2,1,42,Pac-10
+16,2003-12-07,2,LSU (12-1),3,1,21,SEC (West)
+16,2003-12-07,3,Oklahoma (12-1),1,2,2,Big 12 (South)
+16,2003-12-07,4,Michigan (10-2),4,,,Big Ten
+16,2003-12-07,5,Texas (10-2),6,1,,Big 12 (South)
+16,2003-12-07,6,Tennessee (10-2),7,1,,SEC (East)
+16,2003-12-07,7,Ohio State (10-2),8,1,,Big Ten
+16,2003-12-07,8,Kansas State (11-3),13,5,,Big 12 (North)
+16,2003-12-07,9,Florida State (10-2),9,,,ACC
+16,2003-12-07,10,Miami (FL) (10-2),10,,,Big East
+16,2003-12-07,11,Georgia (10-3),5,6,,SEC (East)
+16,2003-12-07,12,Purdue (9-3),11,1,,Big Ten
+16,2003-12-07,13,Iowa (9-3),12,1,,Big Ten
+16,2003-12-07,14,Miami (OH) (12-1),14,,,MAC (East)
+16,2003-12-07,15,Washington State (9-3),15,,,Pac-10
+16,2003-12-07,16,Ole Miss (9-3),17,1,,SEC (West)
+16,2003-12-07,17,Florida (8-4),16,1,,SEC (East)
+16,2003-12-07,18,Boise State (12-1),18,,,WAC
+16,2003-12-07,19,Texas Christian (11-1),19,,,CUSA
+16,2003-12-07,20,West Virginia (8-4),21,1,,Big East
+16,2003-12-07,21,Oklahoma State (9-3),22,1,,Big 12 (South)
+16,2003-12-07,22,Nebraska (9-3),23,1,,Big 12 (North)
+16,2003-12-07,23,Maryland (9-3),24,1,,ACC
+16,2003-12-07,24,Minnesota (9-3),25,1,,Big Ten
+16,2003-12-07,25,Utah (9-2),,,,MWC
+15,2003-11-30,1,Oklahoma (12-0),1,,65,Big 12 (South)
+15,2003-11-30,2,USC (10-1),2,,,Pac-10
+15,2003-11-30,3,LSU (11-1),3,,,SEC (West)
+15,2003-11-30,4,Michigan (10-2),4,,,Big Ten
+15,2003-11-30,5,Georgia (10-2),5,,,SEC (East)
+15,2003-11-30,6,Texas (10-2),6,,,Big 12 (South)
+15,2003-11-30,7,Tennessee (10-2),7,,,SEC (East)
+15,2003-11-30,8,Ohio State (10-2),8,,,Big Ten
+15,2003-11-30,9,Florida State (10-2),9,,,ACC
+15,2003-11-30,10,Miami (FL) (10-2),10,,,Big East
+15,2003-11-30,11,Purdue (9-3),12,1,,Big Ten
+15,2003-11-30,12,Iowa (9-3),13,1,,Big Ten
+15,2003-11-30,13,Kansas State (10-3),14,1,,Big 12 (North)
+15,2003-11-30,14,Miami (OH) (11-1),15,1,,MAC (East)
+15,2003-11-30,15,Washington State (9-3),16,1,,Pac-10
+15,2003-11-30,16,Florida (8-4),11,5,,SEC (East)
+15,2003-11-30,17,Ole Miss (9-3),17,,,SEC (West)
+15,2003-11-30,18,Boise State (11-1),18,,,WAC
+15,2003-11-30,19,Texas Christian (11-1),19,,,CUSA
+15,2003-11-30,20,Bowling Green (10-2),22,2,,MAC (West)
+15,2003-11-30,21,West Virginia (8-4),24,3,,Big East
+15,2003-11-30,22,Oklahoma State (9-3),23,1,,Big 12 (South)
+15,2003-11-30,23,Nebraska (9-3),25,2,,Big 12 (North)
+15,2003-11-30,24,Maryland (9-3),,,,ACC
+15,2003-11-30,25,Minnesota (9-3),,,,Big Ten
+14,2003-11-23,1,Oklahoma (12-0),1,,65,Big 12 (South)
+14,2003-11-23,2,USC (10-1),2,,,Pac-10
+14,2003-11-23,3,LSU (10-1),3,,,SEC (West)
+14,2003-11-23,4,Michigan (10-2),5,1,,Big Ten
+14,2003-11-23,5,Georgia (9-2),6,1,,SEC (East)
+14,2003-11-23,6,Texas (9-2),7,1,,Big 12 (South)
+14,2003-11-23,7,Tennessee (9-2),9,2,,SEC (East)
+14,2003-11-23,8,Ohio State (10-2),4,4,,Big Ten
+14,2003-11-23,9,Florida State (9-2),11,2,,ACC
+14,2003-11-23,10,Miami (FL) (9-2),13,3,,Big East
+14,2003-11-23,11,Florida (8-3),13,2,,SEC (East)
+14,2003-11-23,12,Purdue (9-3),16,4,,Big Ten
+14,2003-11-23,13,Iowa (9-3),17,4,,Big Ten
+14,2003-11-23,14,Kansas State (10-3),19,5,,Big 12 (North)
+14,2003-11-23,15,Miami (OH) (10-1),18,3,,MAC (East)
+14,2003-11-23,16,Washington State (9-3),8,8,,Pac-10
+14,2003-11-23,17,Ole Miss (8-3),15,2,,SEC (West)
+14,2003-11-23,18,Boise State (10-1),20,2,,WAC
+14,2003-11-23,19,Texas Christian (10-1),10,9,,CUSA
+14,2003-11-23,20,Pitt (8-3),21,1,,Big East
+14,2003-11-23,21,Virginia Tech (8-3),12,9,,Big East
+14,2003-11-23,22,Bowling Green (9-2),22,,,MAC (West)
+14,2003-11-23,23,Oklahoma State (9-3),24,1,,Big 12 (South)
+14,2003-11-23,24,West Virginia (7-4),25,1,,Big East
+14,2003-11-23,25,Nebraska (8-3),23,2,,Big 12 (North)
+13,2003-11-16,1,Oklahoma (11-0),1,,65,Big 12 (South)
+13,2003-11-16,2,USC (9-1),2,,,Pac-10
+13,2003-11-16,3,LSU (9-1),3,,,SEC (West)
+13,2003-11-16,4,Ohio State (10-1),4,,,Big Ten
+13,2003-11-16,5,Michigan (9-2),5,,,Big Ten
+13,2003-11-16,6,Georgia (8-2),7,1,,SEC (East)
+13,2003-11-16,7,Texas (9-2),6,1,,Big 12 (South)
+13,2003-11-16,8,Washington State (9-2),8,,,Pac-10
+13,2003-11-16,9,Tennessee (8-2),9,,,SEC (East)
+13,2003-11-16,10,Texas Christian (10-0),10,,,CUSA
+13,2003-11-16,11,Florida State (9-2),13,2,,ACC
+13,2003-11-16,12,Virginia Tech (8-2),12,,,Big East
+13,2003-11-16,13,Florida (8-3),15,2,,SEC (East)
+13,2003-11-16,13,Miami (FL) (8-2),14,1,,Big East
+13,2003-11-16,15,Ole Miss (8-2),17,2,,SEC (West)
+13,2003-11-16,16,Purdue (8-3),11,5,,Big Ten
+13,2003-11-16,17,Iowa (8-3),20,3,,Big Ten
+13,2003-11-16,18,Miami (OH) (9-1),23,5,,MAC (East)
+13,2003-11-16,19,Kansas State (9-3),,,,Big 12 (North)
+13,2003-11-16,20,Boise State (9-1),24,4,,WAC
+13,2003-11-16,21,Pitt (7-3),16,5,,Big East
+13,2003-11-16,22,Bowling Green (8-2),25,3,,MAC (West)
+13,2003-11-16,23,Nebraska (8-3),18,5,,Big 12 (North)
+13,2003-11-16,24,Oklahoma State (8-3),,,,Big 12 (South)
+13,2003-11-16,25,West Virginia (6-4),,,,Big East
+12,2003-11-09,1,Oklahoma (10-0),1,,65,Big 12 (South)
+12,2003-11-09,2,USC (8-1),2,,,Pac-10
+12,2003-11-09,3,LSU (8-1),4,1,,SEC (West)
+12,2003-11-09,4,Ohio State (9-1),7,3,,Big Ten
+12,2003-11-09,5,Michigan (8-2),8,3,,Big Ten
+12,2003-11-09,6,Texas (8-2),11,5,,Big 12 (South)
+12,2003-11-09,7,Georgia (7-2),9,2,,SEC (East)
+12,2003-11-09,8,Washington State (8-2),12,4,,Pac-10
+12,2003-11-09,9,Tennessee (7-2),18,9,,SEC (East)
+12,2003-11-09,10,Texas Christian (9-0),13,3,,CUSA
+12,2003-11-09,11,Purdue (8-2),16,5,,Big Ten
+12,2003-11-09,12,Virginia Tech (7-2),5,7,,Big East
+12,2003-11-09,13,Florida State (8-2),3,10,,ACC
+12,2003-11-09,14,Miami (FL) (7-2),6,8,,Big East
+12,2003-11-09,15,Florida (7-3),17,2,,SEC (East)
+12,2003-11-09,16,Pitt (7-2),25,9,,Big East
+12,2003-11-09,17,Ole Miss (8-2),20,3,,SEC (West)
+12,2003-11-09,18,Nebraska (8-2),19,1,,Big 12 (North)
+12,2003-11-09,19,Minnesota (9-2),24,5,,Big Ten
+12,2003-11-09,20,Iowa (7-3),10,10,,Big Ten
+12,2003-11-09,21,Michigan State (7-3),14,7,,Big Ten
+12,2003-11-09,21,Northern Illinois (9-1),23,2,,MAC (West)
+12,2003-11-09,23,Miami (OH) (8-1),,,,MAC (East)
+12,2003-11-09,24,Boise State (8-1),,,,WAC
+12,2003-11-09,25,Bowling Green (7-2),15,10,,MAC (West)
+11,2003-11-02,1,Oklahoma (9-0),1,,65,Big 12 (South)
+11,2003-11-02,2,USC (8-1),3,1,,Pac-10
+11,2003-11-02,3,Florida State (8-1),5,2,,ACC
+11,2003-11-02,4,LSU (8-1),7,3,,SEC (West)
+11,2003-11-02,5,Virginia Tech (7-1),10,5,,Big East
+11,2003-11-02,6,Miami (FL) (7-1),2,4,,Big East
+11,2003-11-02,7,Ohio State (8-1),8,1,,Big Ten
+11,2003-11-02,8,Michigan (8-2),11,3,,Big Ten
+11,2003-11-02,9,Georgia (7-2),4,5,,SEC (East)
+11,2003-11-02,10,Iowa (7-2),13,3,,Big Ten
+11,2003-11-02,11,Texas (7-2),16,5,,Big 12 (South)
+11,2003-11-02,12,Washington State (7-2),6,6,,Pac-10
+11,2003-11-02,13,Texas Christian (8-0),15,2,,CUSA
+11,2003-11-02,14,Michigan State (7-2),9,5,,Big Ten
+11,2003-11-02,15,Bowling Green (7-1),17,2,,MAC (West)
+11,2003-11-02,16,Purdue (7-2),18,2,,Big Ten
+11,2003-11-02,17,Florida (6-3),23,6,,SEC (East)
+11,2003-11-02,18,Tennessee (6-2),19,1,,SEC (East)
+11,2003-11-02,19,Nebraska (7-2),12,7,,Big 12 (North)
+11,2003-11-02,20,Ole Miss (7-2),20,,,SEC (West)
+11,2003-11-02,21,Oklahoma State (7-2),14,7,,Big 12 (South)
+11,2003-11-02,22,Missouri (6-2),21,1,,Big 12 (North)
+11,2003-11-02,23,Northern Illinois (8-1),21,2,,MAC (West)
+11,2003-11-02,24,Minnesota (8-2),24,,,Big Ten
+11,2003-11-02,25,Pitt (6-2),25,,,Big East
+10,2003-10-26,1,Oklahoma (8-0),1,,62,Big 12 (South)
+10,2003-10-26,2,Miami (FL) (7-0),2,,3,Big East
+10,2003-10-26,3,USC (7-1),5,2,,Pac-10
+10,2003-10-26,4,Georgia (7-1),4,,,SEC (East)
+10,2003-10-26,5,Florida State (7-1),6,1,,ACC
+10,2003-10-26,6,Washington State (7-1),6,,,Pac-10
+10,2003-10-26,7,LSU (7-1),9,2,,SEC (West)
+10,2003-10-26,8,Ohio State (7-1),8,,,Big Ten
+10,2003-10-26,9,Michigan State (7-1),11,2,,Big Ten
+10,2003-10-26,10,Virginia Tech (6-1),3,7,,Big East
+10,2003-10-26,11,Michigan (7-2),13,2,,Big Ten
+10,2003-10-26,12,Nebraska (7-1),14,2,,Big 12 (North)
+10,2003-10-26,13,Iowa (6-2),16,3,,Big Ten
+10,2003-10-26,14,Oklahoma State (7-1),18,4,,Big 12 (South)
+10,2003-10-26,15,Texas Christian (8-0),15,,,CUSA
+10,2003-10-26,16,Texas (6-2),19,3,,Big 12 (South)
+10,2003-10-26,17,Bowling Green (7-1),23,6,,MAC (West)
+10,2003-10-26,18,Purdue (6-2),10,8,,Big Ten
+10,2003-10-26,19,Tennessee (5-2),22,3,,SEC (East)
+10,2003-10-26,20,Ole Miss (6-2),,,,SEC (West)
+10,2003-10-26,21,Missouri (6-2),,,,Big 12 (North)
+10,2003-10-26,21,Northern Illinois (7-1),12,9,,MAC (West)
+10,2003-10-26,23,Florida (5-3),25,2,,SEC (East)
+10,2003-10-26,24,Minnesota (7-2),,,,Big Ten
+10,2003-10-26,25,Pitt (5-2),,,,Big East
+9,2003-10-19,1,Oklahoma (7-0),1,,62,Big 12 (South)
+9,2003-10-19,2,Miami (FL) (7-0),2,,3,Big East
+9,2003-10-19,3,Virginia Tech (6-0),3,,,Big East
+9,2003-10-19,4,Georgia (6-1),4,,,SEC (East)
+9,2003-10-19,5,USC (6-1),5,,,Pac-10
+9,2003-10-19,6,Florida State (6-1),7,1,,ACC
+9,2003-10-19,6,Washington State (6-1),6,,,Pac-10
+9,2003-10-19,8,Ohio State (6-1),8,,,Big Ten
+9,2003-10-19,9,LSU (6-1),10,1,,SEC (West)
+9,2003-10-19,10,Purdue (6-1),13,3,,Big Ten
+9,2003-10-19,11,Michigan State (7-1),15,4,,Big Ten
+9,2003-10-19,12,Northern Illinois (7-0),12,,,MAC (West)
+9,2003-10-19,13,Michigan (6-2),17,4,,Big Ten
+9,2003-10-19,14,Nebraska (6-1),18,4,,Big 12 (North)
+9,2003-10-19,15,Texas Christian (7-0),16,1,,CUSA
+9,2003-10-19,16,Iowa (5-2),9,7,,Big Ten
+9,2003-10-19,17,Auburn (5-2),19,2,,SEC (West)
+9,2003-10-19,18,Oklahoma State (6-1),23,5,,Big 12 (South)
+9,2003-10-19,19,Texas (5-2),20,1,,Big 12 (South)
+9,2003-10-19,20,Wisconsin (6-2),14,6,,Big Ten
+9,2003-10-19,21,Arkansas (4-2),11,10,,SEC (West)
+9,2003-10-19,22,Tennessee (4-2),21,1,,SEC (East)
+9,2003-10-19,23,Bowling Green (6-1),,,,MAC (West)
+9,2003-10-19,24,Utah (6-1),,,,MWC
+9,2003-10-19,25,Florida (5-3),,,,SEC (East)
+8,2003-10-12,1,Oklahoma (6-0),1,,61,Big 12 (South)
+8,2003-10-12,2,Miami (FL) (6-0),2,,3,Big East
+8,2003-10-12,3,Virginia Tech (6-0),4,1,,Big East
+8,2003-10-12,4,Georgia (5-1),8,4,,SEC (East)
+8,2003-10-12,5,USC (5-1),9,4,,Pac-10
+8,2003-10-12,6,Washington State (5-1),12,6,,Pac-10
+8,2003-10-12,7,Florida State (5-1),5,2,,ACC
+8,2003-10-12,8,Ohio State (5-1),3,5,,Big Ten
+8,2003-10-12,9,Iowa (5-1),14,5,,Big Ten
+8,2003-10-12,10,LSU (5-1),6,4,,SEC (West)
+8,2003-10-12,11,Arkansas (4-1),7,4,,SEC (West)
+8,2003-10-12,12,Northern Illinois (6-0),16,4,,MAC (West)
+8,2003-10-12,13,Purdue (5-1),18,5,,Big Ten
+8,2003-10-12,14,Wisconsin (6-1),23,9,,Big Ten
+8,2003-10-12,15,Michigan State (6-1),21,6,,Big Ten
+8,2003-10-12,16,Texas Christian (6-0),18,2,,CUSA
+8,2003-10-12,17,Michigan (5-2),20,3,,Big Ten
+8,2003-10-12,18,Nebraska (5-1),10,8,,Big 12 (North)
+8,2003-10-12,19,Auburn (4-2),,,,SEC (West)
+8,2003-10-12,20,Texas (4-2),11,9,,Big 12 (South)
+8,2003-10-12,21,Tennessee (4-2),13,8,,SEC (East)
+8,2003-10-12,22,Oregon State (5-1),24,2,,Pac-10
+8,2003-10-12,23,Oklahoma State (5-1),,,,Big 12 (South)
+8,2003-10-12,24,Missouri (5-1),,,,Big 12 (North)
+8,2003-10-12,25,Minnesota (6-1),17,8,,Big Ten
+7,2003-10-05,1,Oklahoma (5-0),1,,59,Big 12 (South)
+7,2003-10-05,2,Miami (FL) (5-0),2,,1,Big East
+7,2003-10-05,3,Ohio State (5-0),3,,5,Big Ten
+7,2003-10-05,4,Virginia Tech (5-0),4,,,Big East
+7,2003-10-05,5,Florida State (5-0),5,,,ACC
+7,2003-10-05,6,LSU (5-0),6,,,SEC (West)
+7,2003-10-05,7,Arkansas (4-0),8,1,,SEC (West)
+7,2003-10-05,8,Georgia (4-1),11,3,,SEC (East)
+7,2003-10-05,9,USC (4-1),10,1,,Pac-10
+7,2003-10-05,10,Nebraska (5-0),12,2,,Big 12 (North)
+7,2003-10-05,11,Texas (4-1),13,2,,Big 12 (South)
+7,2003-10-05,12,Washington State (5-1),14,2,,Pac-10
+7,2003-10-05,13,Tennessee (4-1),7,6,,SEC (East)
+7,2003-10-05,14,Iowa (5-1),23,9,,Big Ten
+7,2003-10-05,15,Pitt (3-1),15,,,Big East
+7,2003-10-05,16,Northern Illinois (5-0),17,1,,MAC (West)
+7,2003-10-05,17,Minnesota (6-0),21,4,,Big Ten
+7,2003-10-05,18,Purdue (4-1),22,4,,Big Ten
+7,2003-10-05,18,Texas Christian (5-0),20,2,,CUSA
+7,2003-10-05,20,Michigan (4-2),9,11,,Big Ten
+7,2003-10-05,21,Michigan State (5-1),25,4,,Big Ten
+7,2003-10-05,22,Kansas State (4-2),16,6,,Big 12 (North)
+7,2003-10-05,23,Wisconsin (5-1),,,,Big Ten
+7,2003-10-05,24,Oregon State (5-1),,,,Pac-10
+7,2003-10-05,25,Virginia (4-1),,,,ACC
+6,2003-09-28,1,Oklahoma (4-0),1,,57,Big 12 (South)
+6,2003-09-28,2,Miami (FL) (4-0),2,,3,Big East
+6,2003-09-28,3,Ohio State (5-0),4,1,5,Big Ten
+6,2003-09-28,4,Virginia Tech (4-0),5,1,,Big East
+6,2003-09-28,5,Florida State (5-0),6,1,,ACC
+6,2003-09-28,6,LSU (5-0),7,1,,SEC (West)
+6,2003-09-28,7,Tennessee (4-0),8,1,,SEC (East)
+6,2003-09-28,8,Arkansas (4-0),9,1,,SEC (West)
+6,2003-09-28,9,Michigan (4-1),11,2,,Big Ten
+6,2003-09-28,10,USC (3-1),3,7,,Pac-10
+6,2003-09-28,11,Georgia (3-1),12,1,,SEC (East)
+6,2003-09-28,12,Nebraska (4-0),15,3,,Big 12 (North)
+6,2003-09-28,13,Texas (3-1),14,1,,Big 12 (South)
+6,2003-09-28,14,Washington State (4-1),21,7,,Pac-10
+6,2003-09-28,15,Pitt (3-1),17,2,,Big East
+6,2003-09-28,16,Kansas State (4-1),16,,,Big 12 (North)
+6,2003-09-28,17,Northern Illinois (4-0),20,3,,MAC (West)
+6,2003-09-28,18,Washington (3-1),18,,,Pac-10
+6,2003-09-28,19,Oregon (4-1),10,9,,Pac-10
+6,2003-09-28,20,Texas Christian (4-0),19,1,,CUSA
+6,2003-09-28,21,Minnesota (5-0),24,3,,Big Ten
+6,2003-09-28,22,Purdue (3-1),22,,,Big Ten
+6,2003-09-28,23,Iowa (4-1),13,10,,Big Ten
+6,2003-09-28,24,Florida (3-2),25,1,,SEC (East)
+6,2003-09-28,25,Michigan State (4-1),,,,Big Ten
+5,2003-09-21,1,Oklahoma (4-0),1,,55,Big 12 (South)
+5,2003-09-21,2,Miami (FL) (4-0),2,,3,Big East
+5,2003-09-21,3,USC (3-0),4,1,2,Pac-10
+5,2003-09-21,4,Ohio State (4-0),5,1,5,Big Ten
+5,2003-09-21,5,Virginia Tech (3-0),8,3,,Big East
+5,2003-09-21,6,Florida State (4-0),10,4,,ACC
+5,2003-09-21,7,LSU (4-0),11,4,,SEC (West)
+5,2003-09-21,8,Tennessee (3-0),12,4,,SEC (East)
+5,2003-09-21,9,Arkansas (3-0),14,5,,SEC (West)
+5,2003-09-21,10,Oregon (4-0),22,12,,Pac-10
+5,2003-09-21,11,Michigan (3-1),3,8,,Big Ten
+5,2003-09-21,12,Georgia (3-1),7,5,,SEC (East)
+5,2003-09-21,13,Iowa (4-0),18,5,,Big Ten
+5,2003-09-21,14,Texas (2-1),13,1,,Big 12 (South)
+5,2003-09-21,15,Nebraska (3-0),15,,,Big 12 (North)
+5,2003-09-21,16,Kansas State (4-1),6,10,,Big 12 (North)
+5,2003-09-21,17,Pitt (2-1),9,8,,Big East
+5,2003-09-21,18,Washington (2-1),19,1,,Pac-10
+5,2003-09-21,19,Texas Christian (3-0),20,1,,CUSA
+5,2003-09-21,20,Northern Illinois (3-0),,,,MAC (West)
+5,2003-09-21,21,Washington State (3-1),24,3,,Pac-10
+5,2003-09-21,22,Purdue (2-1),25,3,,Big Ten
+5,2003-09-21,23,Missouri (4-0),23,,,Big 12 (North)
+5,2003-09-21,24,Minnesota (4-0),,,,Big Ten
+5,2003-09-21,25,Florida (2-2),17,8,,SEC (East)
+4,2003-09-14,1,Oklahoma (3-0),1,,50,Big 12 (South)
+4,2003-09-14,2,Miami (FL) (3-0),2,,3,Big East
+4,2003-09-14,3,Michigan (3-0),5,2,4,Big Ten
+4,2003-09-14,4,USC (3-0),4,,2,Pac-10
+4,2003-09-14,5,Ohio State (3-0),3,2,6,Big Ten
+4,2003-09-14,6,Kansas State (4-0),7,1,,Big 12 (North)
+4,2003-09-14,7,Georgia (3-0),8,1,,SEC (East)
+4,2003-09-14,8,Virginia Tech (2-0),9,1,,Big East
+4,2003-09-14,9,Pitt (2-0),11,2,,Big East
+4,2003-09-14,10,Florida State (3-0),10,,,ACC
+4,2003-09-14,11,LSU (3-0),12,1,,SEC (West)
+4,2003-09-14,12,Tennessee (2-0),13,1,,SEC (East)
+4,2003-09-14,13,Texas (1-1),6,7,,Big 12 (South)
+4,2003-09-14,14,Arkansas (2-0),,,,SEC (West)
+4,2003-09-14,15,Nebraska (3-0),18,3,,Big 12 (North)
+4,2003-09-14,16,Arizona State (2-0),16,,,Pac-10
+4,2003-09-14,17,Florida (2-1),19,2,,SEC (East)
+4,2003-09-14,18,Iowa (3-0),23,5,,Big Ten
+4,2003-09-14,19,Washington (1-1),21,2,,Pac-10
+4,2003-09-14,20,Texas Christian (2-0),22,2,,CUSA
+4,2003-09-14,21,Alabama (2-1),,,,SEC (West)
+4,2003-09-14,22,Oregon (3-0),,,,Pac-10
+4,2003-09-14,23,Missouri (3-0),,,,Big 12 (North)
+4,2003-09-14,24,Washington State (2-1),,,,Pac-10
+4,2003-09-14,25,Purdue (1-1),,,,Big Ten
+3,2003-09-07,1,Oklahoma (2-0),1,,47,Big 12 (South)
+3,2003-09-07,2,Miami (FL) (2-0),3,1,2,Big East
+3,2003-09-07,3,Ohio State (2-0),2,1,8,Big Ten
+3,2003-09-07,4,USC (2-0),4,,4,Pac-10
+3,2003-09-07,5,Michigan (2-0),5,,2,Big Ten
+3,2003-09-07,6,Texas (1-0),6,,,Big 12 (South)
+3,2003-09-07,7,Kansas State (3-0),7,,,Big 12 (North)
+3,2003-09-07,8,Georgia (2-0),8,,,SEC (East)
+3,2003-09-07,9,Virginia Tech (2-0),9,,,Big East
+3,2003-09-07,10,Florida State (2-0),11,1,,ACC
+3,2003-09-07,11,Pitt (1-0),10,1,,Big East
+3,2003-09-07,12,LSU (2-0),13,1,,SEC (West)
+3,2003-09-07,13,Tennessee (2-0),12,1,,SEC (East)
+3,2003-09-07,14,Wisconsin (2-0),18,4,,Big Ten
+3,2003-09-07,15,Notre Dame (1-0),19,4,,Ind
+3,2003-09-07,16,Arizona State (1-0),20,4,,Pac-10
+3,2003-09-07,17,Colorado (2-0),24,7,,Big 12 (North)
+3,2003-09-07,18,Nebraska (2-0),23,5,,Big 12 (North)
+3,2003-09-07,19,Florida (1-1),21,2,,SEC (East)
+3,2003-09-07,20,Wake Forest (2-0),,,,ACC
+3,2003-09-07,21,Washington (1-1),22,1,,Pac-10
+3,2003-09-07,22,Texas Christian (2-0),25,3,,CUSA
+3,2003-09-07,23,Iowa (2-0),,,,Big Ten
+3,2003-09-07,24,North Carolina State (1-1),14,10,,ACC
+3,2003-09-07,25,South Carolina (2-0),,,,SEC (East)
+2,2003-09-01,1,Oklahoma (1-0),1,,30,Big 12 (South)
+2,2003-09-01,2,Ohio State (1-0),2,,25,Big Ten
+2,2003-09-01,3,Miami (FL) (1-0),3,,2,Big East
+2,2003-09-01,4,USC (1-0),8,4,6,Pac-10
+2,2003-09-01,5,Michigan (1-0),4,1,2,Big Ten
+2,2003-09-01,6,Texas (1-0),5,1,,Big 12 (South)
+2,2003-09-01,7,Kansas State (2-0),7,,,Big 12 (North)
+2,2003-09-01,8,Georgia (1-0),11,3,,SEC (East)
+2,2003-09-01,9,Virginia Tech (1-0),9,,,Big East
+2,2003-09-01,10,Pitt,10,,,Big East
+2,2003-09-01,11,Florida State (1-0),13,2,,ACC
+2,2003-09-01,12,Tennessee (1-0),12,,,SEC (East)
+2,2003-09-01,13,LSU (1-0),14,1,,SEC (West)
+2,2003-09-01,14,North Carolina State (1-0),16,2,,ACC
+2,2003-09-01,15,Virginia (1-0),18,3,,ACC
+2,2003-09-01,16,Purdue,19,3,,Big Ten
+2,2003-09-01,17,Auburn (0-1),6,11,,SEC (West)
+2,2003-09-01,18,Wisconsin (1-0),21,3,,Big Ten
+2,2003-09-01,19,Notre Dame,20,1,,Ind
+2,2003-09-01,20,Arizona State,22,2,,Pac-10
+2,2003-09-01,21,Florida (1-0),,,,SEC (East)
+2,2003-09-01,22,Washington (0-1),17,5,,Pac-10
+2,2003-09-01,23,Nebraska (1-0),,,,Big 12 (North)
+2,2003-09-01,24,Colorado (1-0),,,,Big 12 (North)
+2,2003-09-01,25,Texas Christian,25,,,CUSA
+1,Preseason,1,Oklahoma,NA,—,32,Big 12 (South)
+1,Preseason,2,Ohio State,NA,—,27,Big Ten
+1,Preseason,3,Miami (FL),NA,—,2,Big East
+1,Preseason,4,Michigan,NA,—,2,Big Ten
+1,Preseason,5,Texas,NA,—,,Big 12 (South)
+1,Preseason,6,Auburn,NA,—,1,SEC (West)
+1,Preseason,7,Kansas State,NA,—,1,Big 12 (North)
+1,Preseason,8,USC,NA,—,,Pac-10
+1,Preseason,9,Virginia Tech,NA,—,,Big East
+1,Preseason,10,Pitt,NA,—,,Big East
+1,Preseason,11,Georgia,NA,—,,SEC (East)
+1,Preseason,12,Tennessee,NA,—,,SEC (East)
+1,Preseason,13,Florida State,NA,—,,ACC
+1,Preseason,14,LSU,NA,—,,SEC (West)
+1,Preseason,15,Maryland,NA,—,,ACC
+1,Preseason,16,North Carolina State,NA,—,,ACC
+1,Preseason,17,Washington,NA,—,,Pac-10
+1,Preseason,18,Virginia,NA,—,,ACC
+1,Preseason,19,Purdue,NA,—,,Big Ten
+1,Preseason,20,Notre Dame,NA,—,,Ind
+1,Preseason,21,Wisconsin,NA,—,,Big Ten
+1,Preseason,22,Arizona State,NA,—,,Pac-10
+1,Preseason,23,Colorado State,NA,—,,MWC
+1,Preseason,24,Oklahoma State,NA,—,,Big 12 (South)
+1,Preseason,25,Texas Christian,NA,—,,CUSA

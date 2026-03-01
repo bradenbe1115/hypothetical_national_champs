@@ -1,0 +1,401 @@
+Wk,Date,Rk,School,Prev,Chng,1st,Conf
+16,Final,1,Alabama (12-1),2,1,55,SEC (West)
+16,Final,2,LSU (13-1),1,1,1,SEC (West)
+16,Final,3,Oklahoma State (12-1),3,,4,Big 12
+16,Final,4,Oregon (12-2),6,2,,Pac-12 (North)
+16,Final,5,Arkansas (11-2),7,2,,SEC (West)
+16,Final,6,USC (10-2),5,1,,Pac-12 (South)
+16,Final,7,Stanford (11-2),4,3,,Pac-12 (North)
+16,Final,8,Boise State (12-1),8,,,MWC
+16,Final,9,South Carolina (11-2),10,1,,SEC (East)
+16,Final,10,Wisconsin (11-3),9,1,,Big Ten (Leaders)
+16,Final,11,Michigan State (11-3),12,1,,Big Ten (Legends)
+16,Final,12,Michigan (11-2),13,1,,Big Ten (Legends)
+16,Final,13,Baylor (10-3),15,2,,Big 12
+16,Final,14,Texas Christian (11-2),16,2,,MWC
+16,Final,15,Kansas State (10-3),11,4,,Big 12
+16,Final,16,Oklahoma (10-3),19,3,,Big 12
+16,Final,17,West Virginia (10-3),23,6,,Big East
+16,Final,18,Houston (13-1),20,2,,CUSA (West)
+16,Final,19,Georgia (10-4),18,1,,SEC (East)
+16,Final,20,Southern Mississippi (12-2),22,2,,CUSA (East)
+16,Final,21,Virginia Tech (11-3),17,4,,ACC (Coastal)
+16,Final,22,Clemson (10-4),14,8,,ACC (Atlantic)
+16,Final,23,Florida State (9-4),25,2,,ACC (Atlantic)
+16,Final,24,Nebraska (9-4),21,3,,Big Ten (Legends)
+16,Final,25,Cincinnati (10-3),,,,Big East
+15,2011-12-05,1,LSU (13-0),1,,60,SEC (West)
+15,2011-12-05,2,Alabama (11-1),2,,,SEC (West)
+15,2011-12-05,3,Oklahoma State (11-1),3,,,Big 12
+15,2011-12-05,4,Stanford (11-1),4,,,Pac-12 (North)
+15,2011-12-05,5,USC (10-2),9,4,,Pac-12 (South)
+15,2011-12-05,6,Oregon (11-2),8,2,,Pac-12 (North)
+15,2011-12-05,7,Arkansas (10-2),6,1,,SEC (West)
+15,2011-12-05,8,Boise State (11-1),9,1,,MWC
+15,2011-12-05,9,Wisconsin (11-2),15,6,,Big Ten (Leaders)
+15,2011-12-05,10,South Carolina (10-2),14,4,,SEC (East)
+15,2011-12-05,11,Kansas State (10-2),16,5,,Big 12
+15,2011-12-05,12,Michigan State (10-3),11,1,,Big Ten (Legends)
+15,2011-12-05,13,Michigan (10-2),17,4,,Big Ten (Legends)
+15,2011-12-05,14,Clemson (10-3),21,7,,ACC (Atlantic)
+15,2011-12-05,15,Baylor (9-3),19,4,,Big 12
+15,2011-12-05,16,Texas Christian (10-2),18,2,,MWC
+15,2011-12-05,17,Virginia Tech (11-2),5,12,,ACC (Coastal)
+15,2011-12-05,18,Georgia (10-3),12,6,,SEC (East)
+15,2011-12-05,19,Oklahoma (9-3),13,6,,Big 12
+15,2011-12-05,20,Houston (12-1),7,13,,CUSA (West)
+15,2011-12-05,21,Nebraska (9-3),20,1,,Big Ten (Legends)
+15,2011-12-05,22,Southern Mississippi (11-2),24,2,,CUSA (East)
+15,2011-12-05,23,West Virginia (9-3),22,1,,Big East
+15,2011-12-05,24,Penn State (9-3),23,1,,Big Ten (Leaders)
+15,2011-12-05,25,Florida State (8-4),25,,,ACC (Atlantic)
+14,2011-11-27,1,LSU (12-0),1,,60,SEC (West)
+14,2011-11-27,2,Alabama (11-1),2,,,SEC (West)
+14,2011-11-27,3,Oklahoma State (10-1),5,2,,Big 12
+14,2011-11-27,4,Stanford (11-1),4,,,Pac-12 (North)
+14,2011-11-27,5,Virginia Tech (11-1),6,1,,ACC (Coastal)
+14,2011-11-27,6,Arkansas (10-2),3,3,,SEC (West)
+14,2011-11-27,7,Houston (12-0),8,1,,CUSA (West)
+14,2011-11-27,8,Oregon (10-2),9,1,,Pac-12 (North)
+14,2011-11-27,9,Boise State (10-1),7,2,,MWC
+14,2011-11-27,9,USC (10-2),10,1,,Pac-12 (South)
+14,2011-11-27,11,Michigan State (10-2),11,,,Big Ten (Legends)
+14,2011-11-27,12,Georgia (10-2),13,1,,SEC (East)
+14,2011-11-27,13,Oklahoma (9-2),12,1,,Big 12
+14,2011-11-27,14,South Carolina (10-2),14,,,SEC (East)
+14,2011-11-27,15,Wisconsin (10-2),15,,,Big Ten (Leaders)
+14,2011-11-27,16,Kansas State (9-2),16,,,Big 12
+14,2011-11-27,17,Michigan (10-2),17,,,Big Ten (Legends)
+14,2011-11-27,18,Texas Christian (9-2),19,1,,MWC
+14,2011-11-27,19,Baylor (8-3),21,2,,Big 12
+14,2011-11-27,20,Nebraska (9-3),22,2,,Big Ten (Legends)
+14,2011-11-27,21,Clemson (9-3),18,3,,ACC (Atlantic)
+14,2011-11-27,22,West Virginia (8-3),,,,Big East
+14,2011-11-27,23,Penn State (9-3),20,3,,Big Ten (Leaders)
+14,2011-11-27,24,Southern Mississippi (10-2),,,,CUSA (East)
+14,2011-11-27,25,Florida State (8-4),,,,ACC (Atlantic)
+13,2011-11-20,1,LSU (11-0),1,,60,SEC (West)
+13,2011-11-20,2,Alabama (10-1),3,1,,SEC (West)
+13,2011-11-20,3,Arkansas (10-1),6,3,,SEC (West)
+13,2011-11-20,4,Stanford (10-1),8,4,,Pac-12 (North)
+13,2011-11-20,5,Oklahoma State (10-1),2,3,,Big 12
+13,2011-11-20,6,Virginia Tech (10-1),9,3,,ACC (Coastal)
+13,2011-11-20,7,Boise State (9-1),10,3,,MWC
+13,2011-11-20,8,Houston (11-0),11,3,,CUSA (West)
+13,2011-11-20,9,Oregon (9-2),4,5,,Pac-12 (North)
+13,2011-11-20,10,USC (9-2),18,8,,Pac-12 (South)
+13,2011-11-20,11,Michigan State (9-2),12,1,,Big Ten (Legends)
+13,2011-11-20,12,Oklahoma (8-2),5,7,,Big 12
+13,2011-11-20,13,Georgia (9-2),13,,,SEC (East)
+13,2011-11-20,14,South Carolina (9-2),14,,,SEC (East)
+13,2011-11-20,15,Wisconsin (9-2),15,,,Big Ten (Leaders)
+13,2011-11-20,16,Kansas State (9-2),16,,,Big 12
+13,2011-11-20,17,Michigan (9-2),20,3,,Big Ten (Legends)
+13,2011-11-20,18,Clemson (9-2),7,11,,ACC (Atlantic)
+13,2011-11-20,19,Texas Christian (9-2),19,,,MWC
+13,2011-11-20,20,Penn State (9-2),21,1,,Big Ten (Leaders)
+13,2011-11-20,21,Baylor (7-3),25,4,,Big 12
+13,2011-11-20,22,Nebraska (8-3),17,5,,Big Ten (Legends)
+13,2011-11-20,22,Notre Dame (8-3),24,2,,Ind
+13,2011-11-20,24,Virginia (8-3),,,,ACC (Coastal)
+13,2011-11-20,25,Georgia Tech (8-3),,,,ACC (Coastal)
+12,2011-11-13,1,LSU (10-0),1,,60,SEC (West)
+12,2011-11-13,2,Oklahoma State (10-0),2,,,Big 12
+12,2011-11-13,3,Alabama (9-1),4,1,,SEC (West)
+12,2011-11-13,4,Oregon (9-1),6,2,,Pac-12 (North)
+12,2011-11-13,5,Oklahoma (8-1),7,2,,Big 12
+12,2011-11-13,6,Arkansas (9-1),8,2,,SEC (West)
+12,2011-11-13,7,Clemson (9-1),9,2,,ACC (Atlantic)
+12,2011-11-13,8,Stanford (9-1),3,5,,Pac-12 (North)
+12,2011-11-13,9,Virginia Tech (9-1),10,1,,ACC (Coastal)
+12,2011-11-13,10,Boise State (8-1),5,5,,MWC
+12,2011-11-13,11,Houston (10-0),11,,,CUSA (West)
+12,2011-11-13,12,Michigan State (8-2),13,1,,Big Ten (Legends)
+12,2011-11-13,13,Georgia (8-2),14,1,,SEC (East)
+12,2011-11-13,14,South Carolina (8-2),15,1,,SEC (East)
+12,2011-11-13,15,Wisconsin (8-2),16,1,,Big Ten (Leaders)
+12,2011-11-13,16,Kansas State (8-2),17,1,,Big 12
+12,2011-11-13,17,Nebraska (8-2),19,2,,Big Ten (Legends)
+12,2011-11-13,18,USC (8-2),18,,,Pac-12 (South)
+12,2011-11-13,19,Texas Christian (8-2),,,,MWC
+12,2011-11-13,20,Michigan (8-2),22,2,,Big Ten (Legends)
+12,2011-11-13,21,Penn State (8-2),12,9,,Big Ten (Leaders)
+12,2011-11-13,22,Southern Mississippi (9-1),25,3,,CUSA (East)
+12,2011-11-13,23,Florida State (7-3),,,,ACC (Atlantic)
+12,2011-11-13,24,Notre Dame (7-3),,,,Ind
+12,2011-11-13,25,Baylor (6-3),,,,Big 12
+11,2011-11-06,1,LSU (9-0),1,,59,SEC (West)
+11,2011-11-06,2,Oklahoma State (9-0),3,1,,Big 12
+11,2011-11-06,3,Stanford (9-0),4,1,,Pac-12 (North)
+11,2011-11-06,4,Alabama (8-1),2,2,,SEC (West)
+11,2011-11-06,5,Boise State (8-0),5,,1,MWC
+11,2011-11-06,6,Oregon (8-1),6,,,Pac-12 (North)
+11,2011-11-06,7,Oklahoma (8-1),7,,,Big 12
+11,2011-11-06,8,Arkansas (8-1),8,,,SEC (West)
+11,2011-11-06,9,Clemson (8-1),11,2,,ACC (Atlantic)
+11,2011-11-06,10,Virginia Tech (8-1),12,2,,ACC (Coastal)
+11,2011-11-06,11,Houston (9-0),14,3,,CUSA (West)
+11,2011-11-06,12,Penn State (8-1),16,4,,Big Ten (Leaders)
+11,2011-11-06,13,Michigan State (7-2),15,2,,Big Ten (Legends)
+11,2011-11-06,14,Georgia (7-2),18,4,,SEC (East)
+11,2011-11-06,15,South Carolina (7-2),10,5,,SEC (East)
+11,2011-11-06,16,Wisconsin (7-2),19,3,,Big Ten (Leaders)
+11,2011-11-06,17,Kansas State (7-2),17,,,Big 12
+11,2011-11-06,18,USC (7-2),21,3,,Pac-12 (South)
+11,2011-11-06,19,Nebraska (7-2),9,10,,Big Ten (Legends)
+11,2011-11-06,20,Georgia Tech (7-2),22,2,,ACC (Coastal)
+11,2011-11-06,21,Texas (6-2),,,,Big 12
+11,2011-11-06,22,Michigan (7-2),13,9,,Big Ten (Legends)
+11,2011-11-06,23,Cincinnati (7-1),23,,,Big East
+11,2011-11-06,24,Auburn (6-3),25,1,,SEC (West)
+11,2011-11-06,25,Southern Mississippi (8-1),,,,CUSA (East)
+10,2011-10-30,1,LSU (8-0),1,,47,SEC (West)
+10,2011-10-30,2,Alabama (8-0),2,,10,SEC (West)
+10,2011-10-30,3,Oklahoma State (8-0),3,,,Big 12
+10,2011-10-30,4,Stanford (8-0),4,,,Pac-12 (North)
+10,2011-10-30,5,Boise State (7-0),5,,1,MWC
+10,2011-10-30,6,Oregon (7-1),7,1,,Pac-12 (North)
+10,2011-10-30,7,Oklahoma (7-1),11,4,,Big 12
+10,2011-10-30,8,Arkansas (7-1),8,,,SEC (West)
+10,2011-10-30,9,Nebraska (7-1),13,4,,Big Ten (Legends)
+10,2011-10-30,10,South Carolina (7-1),14,4,,SEC (East)
+10,2011-10-30,11,Clemson (8-1),6,5,,ACC (Atlantic)
+10,2011-10-30,12,Virginia Tech (8-1),15,3,,ACC (Coastal)
+10,2011-10-30,13,Michigan (7-1),17,4,,Big Ten (Legends)
+10,2011-10-30,14,Houston (8-0),18,4,,CUSA (West)
+10,2011-10-30,15,Michigan State (6-2),9,6,,Big Ten (Legends)
+10,2011-10-30,16,Penn State (8-1),21,5,,Big Ten (Leaders)
+10,2011-10-30,17,Kansas State (7-1),10,7,,Big 12
+10,2011-10-30,18,Georgia (6-2),22,4,,SEC (East)
+10,2011-10-30,19,Wisconsin (6-2),12,7,,Big Ten (Leaders)
+10,2011-10-30,20,Arizona State (6-2),23,3,,Pac-12 (South)
+10,2011-10-30,21,USC (6-2),20,1,,Pac-12 (South)
+10,2011-10-30,22,Georgia Tech (7-2),,,,ACC (Coastal)
+10,2011-10-30,23,Cincinnati (6-1),24,1,,Big East
+10,2011-10-30,24,West Virginia (6-2),25,1,,Big East
+10,2011-10-30,25,Auburn (6-3),,,,SEC (West)
+9,2011-10-23,1,LSU (8-0),1,,49,SEC (West)
+9,2011-10-23,2,Alabama (8-0),2,,10,SEC (West)
+9,2011-10-23,3,Oklahoma State (7-0),6,3,,Big 12
+9,2011-10-23,4,Stanford (7-0),7,3,,Pac-12 (North)
+9,2011-10-23,5,Boise State (7-0),5,,1,MWC
+9,2011-10-23,6,Clemson (8-0),8,2,,ACC (Atlantic)
+9,2011-10-23,7,Oregon (6-1),9,2,,Pac-12 (North)
+9,2011-10-23,8,Arkansas (6-1),10,2,,SEC (West)
+9,2011-10-23,9,Michigan State (6-1),15,6,,Big Ten (Legends)
+9,2011-10-23,10,Kansas State (7-0),12,2,,Big 12
+9,2011-10-23,11,Oklahoma (6-1),3,8,,Big 12
+9,2011-10-23,12,Wisconsin (6-1),4,8,,Big Ten (Leaders)
+9,2011-10-23,13,Nebraska (6-1),13,,,Big Ten (Legends)
+9,2011-10-23,14,South Carolina (6-1),14,,,SEC (East)
+9,2011-10-23,15,Virginia Tech (7-1),16,1,,ACC (Coastal)
+9,2011-10-23,16,Texas A&M (5-2),17,1,,Big 12
+9,2011-10-23,17,Michigan (6-1),18,1,,Big Ten (Legends)
+9,2011-10-23,18,Houston (7-0),21,3,,CUSA (West)
+9,2011-10-23,19,Texas Tech (5-2),,,,Big 12
+9,2011-10-23,20,USC (6-1),,,,Pac-12 (South)
+9,2011-10-23,21,Penn State (7-1),,,,Big Ten (Leaders)
+9,2011-10-23,22,Georgia (5-2),24,2,,SEC (East)
+9,2011-10-23,23,Arizona State (5-2),24,1,,Pac-12 (South)
+9,2011-10-23,24,Cincinnati (6-1),,,,Big East
+9,2011-10-23,25,West Virginia (5-2),11,14,,Big East
+8,2011-10-16,1,LSU (7-0),1,,41,SEC (West)
+8,2011-10-16,2,Alabama (7-0),2,,11,SEC (West)
+8,2011-10-16,3,Oklahoma (6-0),3,,6,Big 12
+8,2011-10-16,4,Wisconsin (6-0),4,,,Big Ten (Leaders)
+8,2011-10-16,5,Boise State (6-0),5,,1,MWC
+8,2011-10-16,6,Oklahoma State (6-0),6,,,Big 12
+8,2011-10-16,7,Stanford (6-0),7,,,Pac-12 (North)
+8,2011-10-16,8,Clemson (7-0),8,,,ACC (Atlantic)
+8,2011-10-16,9,Oregon (5-1),9,,,Pac-12 (North)
+8,2011-10-16,10,Arkansas (5-1),10,,,SEC (West)
+8,2011-10-16,11,West Virginia (5-1),13,2,,Big East
+8,2011-10-16,12,Kansas State (6-0),17,5,,Big 12
+8,2011-10-16,13,Nebraska (5-1),14,1,,Big Ten (Legends)
+8,2011-10-16,14,South Carolina (6-1),15,1,,SEC (East)
+8,2011-10-16,15,Michigan State (5-1),23,8,,Big Ten (Legends)
+8,2011-10-16,16,Virginia Tech (6-1),19,3,,ACC (Coastal)
+8,2011-10-16,17,Texas A&M (4-2),21,4,,Big 12
+8,2011-10-16,18,Michigan (6-1),11,7,,Big Ten (Legends)
+8,2011-10-16,19,Auburn (5-2),24,5,,SEC (West)
+8,2011-10-16,20,Georgia Tech (6-1),12,8,,ACC (Coastal)
+8,2011-10-16,21,Houston (6-0),25,4,,CUSA (West)
+8,2011-10-16,22,Washington (5-1),,,,Pac-12 (North)
+8,2011-10-16,23,Illinois (6-1),16,7,,Big Ten (Leaders)
+8,2011-10-16,24,Arizona State (5-2),18,6,,Pac-12 (South)
+8,2011-10-16,24,Georgia (5-2),,,,SEC (East)
+7,2011-10-09,1,LSU (6-0),1,,40,SEC (West)
+7,2011-10-09,2,Alabama (6-0),2,,10,SEC (West)
+7,2011-10-09,3,Oklahoma (5-0),3,,8,Big 12
+7,2011-10-09,4,Wisconsin (5-0),4,,,Big Ten (Leaders)
+7,2011-10-09,5,Boise State (5-0),5,,1,MWC
+7,2011-10-09,6,Oklahoma State (5-0),6,,,Big 12
+7,2011-10-09,7,Stanford (5-0),7,,,Pac-12 (North)
+7,2011-10-09,8,Clemson (6-0),8,,,ACC (Atlantic)
+7,2011-10-09,9,Oregon (4-1),9,,,Pac-12 (North)
+7,2011-10-09,10,Arkansas (5-1),10,,,SEC (West)
+7,2011-10-09,11,Michigan (6-0),12,1,,Big Ten (Legends)
+7,2011-10-09,12,Georgia Tech (6-0),13,1,,ACC (Coastal)
+7,2011-10-09,13,West Virginia (5-1),16,3,,Big East
+7,2011-10-09,14,Nebraska (5-1),14,,,Big Ten (Legends)
+7,2011-10-09,15,South Carolina (5-1),18,3,,SEC (East)
+7,2011-10-09,16,Illinois (6-0),19,3,,Big Ten (Leaders)
+7,2011-10-09,17,Kansas State (5-0),20,3,,Big 12
+7,2011-10-09,18,Arizona State (5-1),22,4,,Pac-12 (South)
+7,2011-10-09,19,Virginia Tech (5-1),21,2,,ACC (Coastal)
+7,2011-10-09,20,Baylor (4-1),25,5,,Big 12
+7,2011-10-09,21,Texas A&M (3-2),24,3,,Big 12
+7,2011-10-09,22,Texas (4-1),11,11,,Big 12
+7,2011-10-09,23,Michigan State (4-1),,,,Big Ten (Legends)
+7,2011-10-09,24,Auburn (4-2),15,9,,SEC (West)
+7,2011-10-09,25,Houston (6-0),,,,CUSA (West)
+6,2011-10-02,1,LSU (5-0),1,,40,SEC (West)
+6,2011-10-02,2,Alabama (5-0),3,1,12,SEC (West)
+6,2011-10-02,3,Oklahoma (4-0),2,1,7,Big 12
+6,2011-10-02,4,Wisconsin (5-0),7,3,,Big Ten (Leaders)
+6,2011-10-02,5,Boise State (4-0),4,1,1,MWC
+6,2011-10-02,6,Oklahoma State (4-0),5,1,,Big 12
+6,2011-10-02,7,Stanford (4-0),6,1,,Pac-12 (North)
+6,2011-10-02,8,Clemson (5-0),13,5,,ACC (Atlantic)
+6,2011-10-02,9,Oregon (3-1),9,,,Pac-12 (North)
+6,2011-10-02,10,Arkansas (4-1),18,8,,SEC (West)
+6,2011-10-02,11,Texas (4-0),17,6,,Big 12
+6,2011-10-02,12,Michigan (5-0),19,7,,Big Ten (Legends)
+6,2011-10-02,13,Georgia Tech (5-0),21,8,,ACC (Coastal)
+6,2011-10-02,14,Nebraska (4-1),8,6,,Big Ten (Legends)
+6,2011-10-02,15,Auburn (4-1),,,,SEC (West)
+6,2011-10-02,16,West Virginia (4-1),22,6,,Big East
+6,2011-10-02,17,Florida (4-1),12,5,,SEC (East)
+6,2011-10-02,18,South Carolina (4-1),10,8,,SEC (East)
+6,2011-10-02,19,Illinois (5-0),24,5,,Big Ten (Leaders)
+6,2011-10-02,20,Kansas State (4-0),,,,Big 12
+6,2011-10-02,21,Virginia Tech (4-1),11,10,,ACC (Coastal)
+6,2011-10-02,22,Arizona State (4-1),25,3,,Pac-12 (South)
+6,2011-10-02,23,Florida State (2-2),23,,,ACC (Atlantic)
+6,2011-10-02,24,Texas A&M (2-2),14,10,,Big 12
+6,2011-10-02,25,Baylor (3-1),15,10,,Big 12
+5,2011-09-25,1,LSU (4-0),2,1,42,SEC (West)
+5,2011-09-25,2,Oklahoma (3-0),1,1,12,Big 12
+5,2011-09-25,3,Alabama (4-0),3,,5,SEC (West)
+5,2011-09-25,4,Boise State (3-0),4,,1,MWC
+5,2011-09-25,5,Oklahoma State (4-0),7,2,,Big 12
+5,2011-09-25,6,Stanford (3-0),5,1,,Pac-12 (North)
+5,2011-09-25,7,Wisconsin (4-0),6,1,,Big Ten (Leaders)
+5,2011-09-25,8,Nebraska (4-0),9,1,,Big Ten (Legends)
+5,2011-09-25,9,Oregon (3-1),10,1,,Pac-12 (North)
+5,2011-09-25,10,South Carolina (4-0),12,2,,SEC (East)
+5,2011-09-25,11,Virginia Tech (4-0),13,2,,ACC (Coastal)
+5,2011-09-25,12,Florida (4-0),15,3,,SEC (East)
+5,2011-09-25,13,Clemson (4-0),21,8,,ACC (Atlantic)
+5,2011-09-25,14,Texas A&M (2-1),8,6,,Big 12
+5,2011-09-25,15,Baylor (3-0),17,2,,Big 12
+5,2011-09-25,16,South Florida (4-0),18,2,,Big East
+5,2011-09-25,17,Texas (3-0),19,2,,Big 12
+5,2011-09-25,18,Arkansas (3-1),14,4,,SEC (West)
+5,2011-09-25,19,Michigan (4-0),22,3,,Big Ten (Legends)
+5,2011-09-25,20,Texas Christian (3-1),20,,,MWC
+5,2011-09-25,21,Georgia Tech (4-0),25,4,,ACC (Coastal)
+5,2011-09-25,22,West Virginia (3-1),16,6,,Big East
+5,2011-09-25,23,Florida State (2-2),11,12,,ACC (Atlantic)
+5,2011-09-25,24,Illinois (4-0),24,,,Big Ten (Leaders)
+5,2011-09-25,25,Arizona State (3-1),,,,Pac-12 (South)
+4,2011-09-18,1,Oklahoma (2-0),1,,37,Big 12
+4,2011-09-18,2,LSU (3-0),3,1,14,SEC (West)
+4,2011-09-18,3,Alabama (3-0),2,1,7,SEC (West)
+4,2011-09-18,4,Boise State (2-0),4,,2,MWC
+4,2011-09-18,5,Stanford (3-0),6,1,,Pac-12 (North)
+4,2011-09-18,6,Wisconsin (3-0),7,1,,Big Ten (Leaders)
+4,2011-09-18,7,Oklahoma State (3-0),8,1,,Big 12
+4,2011-09-18,8,Texas A&M (2-0),9,1,,Big 12
+4,2011-09-18,9,Nebraska (3-0),11,2,,Big Ten (Legends)
+4,2011-09-18,10,Oregon (2-1),12,2,,Pac-12 (North)
+4,2011-09-18,11,Florida State (2-1),5,6,,ACC (Atlantic)
+4,2011-09-18,12,South Carolina (3-0),10,2,,SEC (East)
+4,2011-09-18,13,Virginia Tech (3-0),13,,,ACC (Coastal)
+4,2011-09-18,14,Arkansas (3-0),14,,,SEC (West)
+4,2011-09-18,15,Florida (3-0),16,1,,SEC (East)
+4,2011-09-18,16,West Virginia (3-0),18,2,,Big East
+4,2011-09-18,17,Baylor (2-0),19,2,,Big 12
+4,2011-09-18,18,South Florida (3-0),20,2,,Big East
+4,2011-09-18,19,Texas (3-0),23,4,,Big 12
+4,2011-09-18,20,Texas Christian (2-1),23,3,,MWC
+4,2011-09-18,21,Clemson (3-0),,,,ACC (Atlantic)
+4,2011-09-18,22,Michigan (3-0),,,,Big Ten (Legends)
+4,2011-09-18,23,USC (3-0),,,,Pac-12 (South)
+4,2011-09-18,24,Illinois (3-0),,,,Big Ten (Leaders)
+4,2011-09-18,25,Georgia Tech (3-0),,,,ACC (Coastal)
+3,2011-09-11,1,Oklahoma (1-0),1,,31,Big 12
+3,2011-09-11,2,Alabama (2-0),3,1,10,SEC (West)
+3,2011-09-11,3,LSU (2-0),2,1,17,SEC (West)
+3,2011-09-11,4,Boise State (1-0),4,,2,MWC
+3,2011-09-11,5,Florida State (2-0),5,,,ACC (Atlantic)
+3,2011-09-11,6,Stanford (2-0),6,,,Pac-12 (North)
+3,2011-09-11,7,Wisconsin (2-0),8,1,,Big Ten (Leaders)
+3,2011-09-11,8,Oklahoma State (2-0),9,1,,Big 12
+3,2011-09-11,9,Texas A&M (1-0),7,2,,Big 12
+3,2011-09-11,10,South Carolina (2-0),12,2,,SEC (East)
+3,2011-09-11,11,Nebraska (2-0),10,1,,Big Ten (Legends)
+3,2011-09-11,12,Oregon (1-1),13,1,,Pac-12 (North)
+3,2011-09-11,13,Virginia Tech (2-0),11,2,,ACC (Coastal)
+3,2011-09-11,14,Arkansas (2-0),14,,,SEC (West)
+3,2011-09-11,15,Michigan State (2-0),17,2,,Big Ten (Legends)
+3,2011-09-11,16,Florida (2-0),18,2,,SEC (East)
+3,2011-09-11,17,Ohio State (2-0),15,2,,Big Ten (Leaders)
+3,2011-09-11,18,West Virginia (2-0),19,1,,Big East
+3,2011-09-11,19,Baylor (1-0),20,1,,Big 12
+3,2011-09-11,20,South Florida (2-0),22,2,,Big East
+3,2011-09-11,21,Auburn (2-0),,,,SEC (West)
+3,2011-09-11,22,Arizona State (2-0),,,,Pac-12 (South)
+3,2011-09-11,23,Texas (2-0),24,1,,Big 12
+3,2011-09-11,23,Texas Christian (1-1),25,2,,MWC
+3,2011-09-11,25,Mississippi State (1-1),16,9,,SEC (West)
+2,2011-09-04,1,Oklahoma (1-0),1,,32,Big 12
+2,2011-09-04,2,LSU (1-0),4,2,17,SEC (West)
+2,2011-09-04,3,Alabama (1-0),2,1,9,SEC (West)
+2,2011-09-04,4,Boise State (1-0),5,1,2,MWC
+2,2011-09-04,5,Florida State (1-0),6,1,,ACC (Atlantic)
+2,2011-09-04,6,Stanford (1-0),7,1,,Pac-12 (North)
+2,2011-09-04,7,Texas A&M,8,1,,Big 12
+2,2011-09-04,8,Wisconsin (1-0),11,3,,Big Ten (Leaders)
+2,2011-09-04,9,Oklahoma State (1-0),9,,,Big 12
+2,2011-09-04,10,Nebraska (1-0),10,,,Big Ten (Legends)
+2,2011-09-04,11,Virginia Tech (1-0),13,2,,ACC (Coastal)
+2,2011-09-04,12,South Carolina (1-0),12,,,SEC (East)
+2,2011-09-04,13,Oregon (0-1),3,10,,Pac-12 (North)
+2,2011-09-04,14,Arkansas (1-0),15,1,,SEC (West)
+2,2011-09-04,15,Ohio State (1-0),18,3,,Big Ten (Leaders)
+2,2011-09-04,16,Mississippi State (1-0),20,4,,SEC (West)
+2,2011-09-04,17,Michigan State (1-0),17,,,Big Ten (Legends)
+2,2011-09-04,18,Florida (1-0),22,4,,SEC (East)
+2,2011-09-04,19,West Virginia,24,5,,Big East
+2,2011-09-04,20,Baylor (1-0),,,,Big 12
+2,2011-09-04,21,Missouri (1-0),21,,,Big 12
+2,2011-09-04,22,South Florida (1-0),,,,Big East
+2,2011-09-04,23,Penn State (1-0),,,,Big Ten (Leaders)
+2,2011-09-04,24,Texas (1-0),,,,Big 12
+2,2011-09-04,25,Texas Christian (0-1),14,11,,MWC
+1,Preseason,1,Oklahoma,NA,—,36,Big 12
+1,Preseason,2,Alabama,NA,—,17,SEC (West)
+1,Preseason,3,Oregon,NA,—,4,Pac-12 (North)
+1,Preseason,4,LSU,NA,—,1,SEC (West)
+1,Preseason,5,Boise State,NA,—,2,MWC
+1,Preseason,6,Florida State,NA,—,,ACC (Atlantic)
+1,Preseason,7,Stanford,NA,—,,Pac-12 (North)
+1,Preseason,8,Texas A&M,NA,—,,Big 12
+1,Preseason,9,Oklahoma State,NA,—,,Big 12
+1,Preseason,10,Nebraska,NA,—,,Big Ten (Legends)
+1,Preseason,11,Wisconsin,NA,—,,Big Ten (Leaders)
+1,Preseason,12,South Carolina,NA,—,,SEC (East)
+1,Preseason,13,Virginia Tech,NA,—,,ACC (Coastal)
+1,Preseason,14,Texas Christian,NA,—,,MWC
+1,Preseason,15,Arkansas,NA,—,,SEC (West)
+1,Preseason,16,Notre Dame,NA,—,,Ind
+1,Preseason,17,Michigan State,NA,—,,Big Ten (Legends)
+1,Preseason,18,Ohio State,NA,—,,Big Ten (Leaders)
+1,Preseason,19,Georgia,NA,—,,SEC (East)
+1,Preseason,20,Mississippi State,NA,—,,SEC (West)
+1,Preseason,21,Missouri,NA,—,,Big 12
+1,Preseason,22,Florida,NA,—,,SEC (East)
+1,Preseason,23,Auburn,NA,—,,SEC (West)
+1,Preseason,24,West Virginia,NA,—,,Big East
+1,Preseason,25,USC,NA,—,,Pac-12 (South)

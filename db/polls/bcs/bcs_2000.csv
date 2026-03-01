@@ -1,0 +1,108 @@
+Wk,Date,Rk,School,Prev,Chng,Conf
+7,Final,1,Oklahoma (11-0),1,,Big 12 (South)
+7,Final,2,Florida State (11-1),2,,ACC
+7,Final,3,Miami (FL) (10-1),3,,Big East
+7,Final,4,Washington (10-1),4,,Pac-10
+7,Final,5,Virginia Tech (10-1),5,,Big East
+7,Final,6,Oregon State (10-1),6,,Pac-10
+7,Final,7,Florida (9-2),7,,SEC (East)
+7,Final,8,Nebraska (9-2),8,,Big 12 (North)
+7,Final,9,Kansas State (10-2),9,,Big 12 (North)
+7,Final,10,Oregon (9-2),10,,Pac-10
+7,Final,11,Notre Dame (9-2),11,,Ind
+7,Final,12,Texas (9-2),12,,Big 12 (South)
+7,Final,13,Georgia Tech (9-2),13,,ACC
+7,Final,14,Texas Christian (10-1),14,,WAC
+7,Final,15,Clemson (9-2),15,,ACC
+7,Final,16,Michigan (8-3),16,,Big Ten
+6,2000-11-25,1,Oklahoma (10-0),1,,Big 12 (South)
+6,2000-11-25,2,Florida State (11-1),2,,ACC
+6,2000-11-25,3,Miami (FL) (9-1),3,,Big East
+6,2000-11-25,4,Washington (10-1),4,,Pac-10
+6,2000-11-25,5,Virginia Tech (9-1),6,1,Big East
+6,2000-11-25,6,Oregon State (10-1),5,1,Pac-10
+6,2000-11-25,7,Florida (9-2),7,,SEC (East)
+6,2000-11-25,8,Nebraska (9-2),8,,Big 12 (North)
+6,2000-11-25,9,Kansas State (10-2),9,,Big 12 (North)
+6,2000-11-25,10,Oregon (9-2),10,,Pac-10
+6,2000-11-25,11,Notre Dame (8-2),11,,Ind
+6,2000-11-25,12,Texas (9-2),12,,Big 12 (South)
+6,2000-11-25,13,Georgia Tech (8-2),,,ACC
+6,2000-11-25,14,Texas Christian (10-1),14,,WAC
+6,2000-11-25,15,Clemson (9-2),13,2,ACC
+6,2000-11-25,16,Michigan (8-3),15,1,Big Ten
+5,2000-11-18,1,Oklahoma (9-0),1,,Big 12 (South)
+5,2000-11-18,2,Florida State (10-1),3,1,ACC
+5,2000-11-18,3,Miami (FL) (8-1),2,1,Big East
+5,2000-11-18,4,Washington (9-1),5,1,Pac-10
+5,2000-11-18,5,Oregon State (9-1),9,4,Pac-10
+5,2000-11-18,6,Virginia Tech (9-1),6,,Big East
+5,2000-11-18,7,Florida (9-1),4,3,SEC (East)
+5,2000-11-18,8,Nebraska (8-2),8,,Big 12 (North)
+5,2000-11-18,9,Kansas State (9-2),10,1,Big 12 (North)
+5,2000-11-18,10,Oregon (9-1),7,3,Pac-10
+5,2000-11-18,11,Notre Dame (7-2),11,,Ind
+5,2000-11-18,12,Texas (8-2),14,2,Big 12 (South)
+5,2000-11-18,13,Clemson (8-2),,,ACC
+5,2000-11-18,14,Texas Christian (8-1),,,WAC
+5,2000-11-18,15,Michigan (7-3),,,Big Ten
+4,2000-11-11,1,Oklahoma (8-0),1,,Big 12 (South)
+4,2000-11-11,2,Miami (FL) (7-1),3,1,Big East
+4,2000-11-11,3,Florida State (9-1),2,1,ACC
+4,2000-11-11,4,Florida (8-1),5,1,SEC (East)
+4,2000-11-11,5,Washington (8-1),6,1,Pac-10
+4,2000-11-11,6,Virginia Tech (8-1),8,2,Big East
+4,2000-11-11,7,Oregon (8-1),7,,Pac-10
+4,2000-11-11,8,Nebraska (8-1),4,4,Big 12 (North)
+4,2000-11-11,9,Oregon State (8-1),9,,Pac-10
+4,2000-11-11,10,Kansas State (8-2),11,1,Big 12 (North)
+4,2000-11-11,11,Notre Dame (6-2),12,1,Ind
+4,2000-11-11,12,Mississippi State (6-2),14,2,SEC (West)
+4,2000-11-11,13,Ohio State (7-2),13,,Big Ten
+4,2000-11-11,14,Texas (7-2),,,Big 12 (South)
+4,2000-11-11,15,Texas A&M (7-2),,,Big 12 (South)
+3,2000-11-04,1,Oklahoma (7-0),1,,Big 12 (South)
+3,2000-11-04,2,Florida State (8-1),3,1,ACC
+3,2000-11-04,3,Miami (FL) (6-1),5,2,Big East
+3,2000-11-04,4,Nebraska (7-1),4,,Big 12 (North)
+3,2000-11-04,5,Florida (7-1),6,1,SEC (East)
+3,2000-11-04,6,Washington (7-1),8,2,Pac-10
+3,2000-11-04,7,Oregon (7-1),7,,Pac-10
+3,2000-11-04,8,Virginia Tech (8-0),2,6,Big East
+3,2000-11-04,9,Oregon State (7-1),11,2,Pac-10
+3,2000-11-04,10,Purdue (7-2),10,,Big Ten
+3,2000-11-04,11,Kansas State (7-2),,,Big 12 (North)
+3,2000-11-04,12,Notre Dame (6-2),14,2,Ind
+3,2000-11-04,13,Ohio State (6-2),,,Big Ten
+3,2000-11-04,14,Mississippi State (5-2),15,1,SEC (West)
+3,2000-11-04,15,Northwestern (6-2),,,Big Ten
+2,2000-10-28,1,Oklahoma (6-0),2,1,Big 12 (South)
+2,2000-10-28,2,Virginia Tech (7-0),3,1,Big East
+2,2000-10-28,3,Florida State (7-1),5,2,ACC
+2,2000-10-28,4,Nebraska (7-0),1,3,Big 12 (North)
+2,2000-10-28,5,Miami (FL) (5-1),4,1,Big East
+2,2000-10-28,6,Florida (6-1),6,,SEC (East)
+2,2000-10-28,7,Oregon (6-1),8,1,Pac-10
+2,2000-10-28,8,Washington (6-1),9,1,Pac-10
+2,2000-10-28,9,Texas Christian (6-0),13,4,WAC
+2,2000-10-28,10,Purdue (6-2),15,5,Big Ten
+2,2000-10-28,11,Oregon State (6-1),,,Pac-10
+2,2000-10-28,12,Michigan (6-2),,,Big Ten
+2,2000-10-28,13,Clemson (8-0),7,6,ACC
+2,2000-10-28,14,Notre Dame (5-2),,,Ind
+2,2000-10-28,15,Mississippi State (4-2),,,SEC (West)
+1,2000-10-21,1,Nebraska (6-0),NA,—,Big 12 (North)
+1,2000-10-21,2,Oklahoma (6-0),NA,—,Big 12 (South)
+1,2000-10-21,3,Virginia Tech (6-0),NA,—,Big East
+1,2000-10-21,4,Miami (FL) (4-1),NA,—,Big East
+1,2000-10-21,5,Florida State (6-1),NA,—,ACC
+1,2000-10-21,6,Florida (6-1),NA,—,SEC (East)
+1,2000-10-21,7,Clemson (7-0),NA,—,ACC
+1,2000-10-21,8,Oregon (5-1),NA,—,Pac-10
+1,2000-10-21,9,Washington (5-1),NA,—,Pac-10
+1,2000-10-21,10,Kansas State (6-1),NA,—,Big 12 (North)
+1,2000-10-21,11,Ohio State (5-1),NA,—,Big Ten
+1,2000-10-21,12,Georgia (5-1),NA,—,SEC (East)
+1,2000-10-21,13,Texas Christian (5-0),NA,—,WAC
+1,2000-10-21,14,Southern Mississippi (5-1),NA,—,CUSA
+1,2000-10-21,15,Purdue (5-2),NA,—,Big Ten

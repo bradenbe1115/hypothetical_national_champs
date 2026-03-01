@@ -1,0 +1,201 @@
+Wk,Date,Rk,School,Prev,Chng,Conf
+8,Final,1,Florida State (13-0),1,,ACC (Atlantic)
+8,Final,2,Auburn (12-1),3,1,SEC (West)
+8,Final,3,Alabama (11-1),4,1,SEC (West)
+8,Final,4,Michigan State (12-1),10,6,Big Ten (Legends)
+8,Final,5,Stanford (11-2),7,2,Pac-12 (North)
+8,Final,6,Baylor (11-1),9,3,Big 12
+8,Final,7,Ohio State (12-1),2,5,Big Ten (Leaders)
+8,Final,8,Missouri (11-2),5,3,SEC (East)
+8,Final,9,South Carolina (10-2),8,1,SEC (East)
+8,Final,10,Oregon (10-2),12,2,Pac-12 (North)
+8,Final,11,Oklahoma (10-2),17,6,Big 12
+8,Final,12,Clemson (10-2),13,1,ACC (Atlantic)
+8,Final,13,Oklahoma State (10-2),6,7,Big 12
+8,Final,14,Arizona State (10-3),11,3,Pac-12 (South)
+8,Final,15,UCF (11-1),16,1,American
+8,Final,16,LSU (9-3),15,1,SEC (West)
+8,Final,17,UCLA (9-3),18,1,Pac-12 (South)
+8,Final,18,Louisville (11-1),19,1,American
+8,Final,19,Wisconsin (9-3),21,2,Big Ten (Leaders)
+8,Final,20,Fresno State (11-1),23,3,MWC (West)
+8,Final,21,Texas A&M (8-4),24,3,SEC (West)
+8,Final,22,Georgia (8-4),22,,SEC (East)
+8,Final,23,Northern Illinois (12-1),14,9,MAC (West)
+8,Final,24,Duke (10-3),20,4,ACC (Coastal)
+8,Final,25,USC (9-4),,,Pac-12 (South)
+7,2013-12-01,1,Florida State (12-0),2,1,ACC (Atlantic)
+7,2013-12-01,2,Ohio State (12-0),3,1,Big Ten (Leaders)
+7,2013-12-01,3,Auburn (11-1),4,1,SEC (West)
+7,2013-12-01,4,Alabama (11-1),1,3,SEC (West)
+7,2013-12-01,5,Missouri (11-1),5,,SEC (East)
+7,2013-12-01,6,Oklahoma State (10-1),7,1,Big 12
+7,2013-12-01,7,Stanford (10-2),8,1,Pac-12 (North)
+7,2013-12-01,8,South Carolina (10-2),10,2,SEC (East)
+7,2013-12-01,9,Baylor (10-1),9,,Big 12
+7,2013-12-01,10,Michigan State (11-1),11,1,Big Ten (Legends)
+7,2013-12-01,11,Arizona State (10-2),12,1,Pac-12 (South)
+7,2013-12-01,12,Oregon (10-2),13,1,Pac-12 (North)
+7,2013-12-01,13,Clemson (10-2),6,7,ACC (Atlantic)
+7,2013-12-01,14,Northern Illinois (12-0),14,,MAC (West)
+7,2013-12-01,15,LSU (9-3),17,2,SEC (West)
+7,2013-12-01,16,UCF (10-1),19,3,American
+7,2013-12-01,17,Oklahoma (9-2),18,1,Big 12
+7,2013-12-01,18,UCLA (9-3),22,4,Pac-12 (South)
+7,2013-12-01,19,Louisville (10-1),20,1,American
+7,2013-12-01,20,Duke (10-2),24,4,ACC (Coastal)
+7,2013-12-01,21,Wisconsin (9-3),15,6,Big Ten (Leaders)
+7,2013-12-01,22,Georgia (8-4),,,SEC (East)
+7,2013-12-01,23,Fresno State (10-1),16,7,MWC (West)
+7,2013-12-01,24,Texas A&M (8-4),21,3,SEC (West)
+7,2013-12-01,25,Texas (8-3),,,Big 12
+6,2013-11-24,1,Alabama (11-0),1,,SEC (West)
+6,2013-11-24,2,Florida State (11-0),2,,ACC (Atlantic)
+6,2013-11-24,3,Ohio State (11-0),3,,Big Ten (Leaders)
+6,2013-11-24,4,Auburn (10-1),6,2,SEC (West)
+6,2013-11-24,5,Missouri (10-1),8,3,SEC (East)
+6,2013-11-24,6,Clemson (10-1),7,1,ACC (Atlantic)
+6,2013-11-24,7,Oklahoma State (10-1),10,3,Big 12
+6,2013-11-24,8,Stanford (9-2),9,1,Pac-12 (North)
+6,2013-11-24,9,Baylor (9-1),4,5,Big 12
+6,2013-11-24,10,South Carolina (9-2),11,1,SEC (East)
+6,2013-11-24,11,Michigan State (10-1),13,2,Big Ten (Legends)
+6,2013-11-24,12,Arizona State (9-2),17,5,Pac-12 (South)
+6,2013-11-24,13,Oregon (9-2),5,8,Pac-12 (North)
+6,2013-11-24,14,Northern Illinois (11-0),16,2,MAC (West)
+6,2013-11-24,15,Wisconsin (9-2),19,4,Big Ten (Leaders)
+6,2013-11-24,16,Fresno State (10-0),15,1,MWC (West)
+6,2013-11-24,17,LSU (8-3),22,5,SEC (West)
+6,2013-11-24,18,Oklahoma (9-2),20,2,Big 12
+6,2013-11-24,19,UCF (9-1),18,1,American
+6,2013-11-24,20,Louisville (10-1),21,1,American
+6,2013-11-24,21,Texas A&M (8-3),12,9,SEC (West)
+6,2013-11-24,22,UCLA (8-3),14,8,Pac-12 (South)
+6,2013-11-24,23,USC (9-3),23,,Pac-12 (South)
+6,2013-11-24,24,Duke (9-2),,,ACC (Coastal)
+6,2013-11-24,25,Notre Dame (8-3),,,Ind
+5,2013-11-17,1,Alabama (10-0),1,,SEC (West)
+5,2013-11-17,2,Florida State (10-0),2,,ACC (Atlantic)
+5,2013-11-17,3,Ohio State (10-0),3,,Big Ten (Leaders)
+5,2013-11-17,4,Baylor (9-0),5,1,Big 12
+5,2013-11-17,5,Oregon (9-1),6,1,Pac-12 (North)
+5,2013-11-17,6,Auburn (10-1),7,1,SEC (West)
+5,2013-11-17,7,Clemson (9-1),8,1,ACC (Atlantic)
+5,2013-11-17,8,Missouri (9-1),9,1,SEC (East)
+5,2013-11-17,9,Stanford (8-2),4,5,Pac-12 (North)
+5,2013-11-17,10,Oklahoma State (9-1),12,2,Big 12
+5,2013-11-17,11,South Carolina (8-2),10,1,SEC (East)
+5,2013-11-17,12,Texas A&M (8-2),11,1,SEC (West)
+5,2013-11-17,13,Michigan State (9-1),16,3,Big Ten (Legends)
+5,2013-11-17,14,UCLA (8-2),13,1,Pac-12 (South)
+5,2013-11-17,15,Fresno State (9-0),14,1,MWC (West)
+5,2013-11-17,16,Northern Illinois (10-0),15,1,MAC (West)
+5,2013-11-17,17,Arizona State (8-2),19,2,Pac-12 (South)
+5,2013-11-17,18,UCF (8-1),17,1,American
+5,2013-11-17,19,Wisconsin (8-2),22,3,Big Ten (Leaders)
+5,2013-11-17,20,Oklahoma (8-2),18,2,Big 12
+5,2013-11-17,21,Louisville (9-1),20,1,American
+5,2013-11-17,22,LSU (7-3),21,1,SEC (West)
+5,2013-11-17,23,USC (8-3),,,Pac-12 (South)
+5,2013-11-17,24,Ole Miss (7-3),,,SEC (West)
+5,2013-11-17,25,Minnesota (8-2),,,Big Ten (Legends)
+4,2013-11-10,1,Alabama (9-0),1,,SEC (West)
+4,2013-11-10,2,Florida State (9-0),2,,ACC (Atlantic)
+4,2013-11-10,3,Ohio State (9-0),4,1,Big Ten (Leaders)
+4,2013-11-10,4,Stanford (8-1),5,1,Pac-12 (North)
+4,2013-11-10,5,Baylor (8-0),6,1,Big 12
+4,2013-11-10,6,Oregon (8-1),3,3,Pac-12 (North)
+4,2013-11-10,7,Auburn (9-1),9,2,SEC (West)
+4,2013-11-10,8,Clemson (8-1),7,1,ACC (Atlantic)
+4,2013-11-10,9,Missouri (9-1),8,1,SEC (East)
+4,2013-11-10,10,South Carolina (7-2),12,2,SEC (East)
+4,2013-11-10,11,Texas A&M (8-2),15,4,SEC (West)
+4,2013-11-10,12,Oklahoma State (8-1),14,2,Big 12
+4,2013-11-10,13,UCLA (7-2),19,6,Pac-12 (South)
+4,2013-11-10,14,Fresno State (9-0),16,2,MWC (West)
+4,2013-11-10,15,Northern Illinois (9-0),18,3,MAC (West)
+4,2013-11-10,16,Michigan State (8-1),17,1,Big Ten (Legends)
+4,2013-11-10,17,UCF (7-1),21,4,American
+4,2013-11-10,18,Oklahoma (7-2),10,8,Big 12
+4,2013-11-10,19,Arizona State (7-2),22,3,Pac-12 (South)
+4,2013-11-10,20,Louisville (8-1),20,,American
+4,2013-11-10,21,LSU (7-3),13,8,SEC (West)
+4,2013-11-10,22,Wisconsin (7-2),24,2,Big Ten (Leaders)
+4,2013-11-10,23,Miami (FL) (7-2),11,12,ACC (Coastal)
+4,2013-11-10,24,Texas (7-2),,,Big 12
+4,2013-11-10,25,Georgia (6-3),,,SEC (East)
+3,2013-11-03,1,Alabama (8-0),1,,SEC (West)
+3,2013-11-03,2,Florida State (8-0),3,1,ACC (Atlantic)
+3,2013-11-03,3,Oregon (8-0),2,1,Pac-12 (North)
+3,2013-11-03,4,Ohio State (9-0),4,,Big Ten (Leaders)
+3,2013-11-03,5,Stanford (7-1),5,,Pac-12 (North)
+3,2013-11-03,6,Baylor (7-0),6,,Big 12
+3,2013-11-03,7,Clemson (8-1),8,1,ACC (Atlantic)
+3,2013-11-03,8,Missouri (8-1),9,1,SEC (East)
+3,2013-11-03,9,Auburn (8-1),11,2,SEC (West)
+3,2013-11-03,10,Oklahoma (7-1),10,,Big 12
+3,2013-11-03,11,Miami (FL) (7-1),7,4,ACC (Coastal)
+3,2013-11-03,12,South Carolina (7-2),14,2,SEC (East)
+3,2013-11-03,13,LSU (7-2),13,,SEC (West)
+3,2013-11-03,14,Oklahoma State (7-1),18,4,Big 12
+3,2013-11-03,15,Texas A&M (7-2),12,3,SEC (West)
+3,2013-11-03,16,Fresno State (8-0),16,,MWC (West)
+3,2013-11-03,17,Michigan State (8-1),22,5,Big Ten (Legends)
+3,2013-11-03,18,Northern Illinois (9-0),17,1,MAC (West)
+3,2013-11-03,19,UCLA (6-2),20,1,Pac-12 (South)
+3,2013-11-03,20,Louisville (7-1),19,1,American
+3,2013-11-03,21,UCF (6-1),23,2,American
+3,2013-11-03,22,Arizona State (6-2),,,Pac-12 (South)
+3,2013-11-03,23,Notre Dame (7-2),25,2,Ind
+3,2013-11-03,24,Wisconsin (6-2),24,,Big Ten (Leaders)
+3,2013-11-03,25,Texas Tech (7-2),15,10,Big 12
+2,2013-10-27,1,Alabama (8-0),1,,SEC (West)
+2,2013-10-27,2,Oregon (8-0),3,1,Pac-12 (North)
+2,2013-10-27,3,Florida State (7-0),2,1,ACC (Atlantic)
+2,2013-10-27,4,Ohio State (8-0),4,,Big Ten (Leaders)
+2,2013-10-27,5,Stanford (7-1),6,1,Pac-12 (North)
+2,2013-10-27,6,Baylor (7-0),8,2,Big 12
+2,2013-10-27,7,Miami (FL) (7-0),7,,ACC (Coastal)
+2,2013-10-27,8,Clemson (7-1),9,1,ACC (Atlantic)
+2,2013-10-27,9,Missouri (7-1),5,4,SEC (East)
+2,2013-10-27,10,Oklahoma (7-1),15,5,Big 12
+2,2013-10-27,11,Auburn (7-1),11,,SEC (West)
+2,2013-10-27,12,Texas A&M (6-2),16,4,SEC (West)
+2,2013-10-27,13,LSU (7-2),13,,SEC (West)
+2,2013-10-27,14,South Carolina (6-2),21,7,SEC (East)
+2,2013-10-27,15,Texas Tech (7-1),10,5,Big 12
+2,2013-10-27,16,Fresno State (7-0),17,1,MWC (West)
+2,2013-10-27,17,Northern Illinois (8-0),18,1,MAC (West)
+2,2013-10-27,18,Oklahoma State (6-1),19,1,Big 12
+2,2013-10-27,19,Louisville (7-1),20,1,American
+2,2013-10-27,20,UCLA (5-2),12,8,Pac-12 (South)
+2,2013-10-27,21,Michigan (6-1),22,1,Big Ten (Legends)
+2,2013-10-27,22,Michigan State (7-1),,,Big Ten (Legends)
+2,2013-10-27,23,UCF (6-1),23,,American
+2,2013-10-27,24,Wisconsin (5-2),,,Big Ten (Leaders)
+2,2013-10-27,25,Notre Dame (6-2),,,Ind
+1,2013-10-20,1,Alabama (7-0),NA,—,SEC (West)
+1,2013-10-20,2,Florida State (6-0),NA,—,ACC (Atlantic)
+1,2013-10-20,3,Oregon (7-0),NA,—,Pac-12 (North)
+1,2013-10-20,4,Ohio State (7-0),NA,—,Big Ten (Leaders)
+1,2013-10-20,5,Missouri (7-0),NA,—,SEC (East)
+1,2013-10-20,6,Stanford (6-1),NA,—,Pac-12 (North)
+1,2013-10-20,7,Miami (FL) (6-0),NA,—,ACC (Coastal)
+1,2013-10-20,8,Baylor (6-0),NA,—,Big 12
+1,2013-10-20,9,Clemson (6-1),NA,—,ACC (Atlantic)
+1,2013-10-20,10,Texas Tech (7-0),NA,—,Big 12
+1,2013-10-20,11,Auburn (6-1),NA,—,SEC (West)
+1,2013-10-20,12,UCLA (5-1),NA,—,Pac-12 (South)
+1,2013-10-20,13,LSU (6-2),NA,—,SEC (West)
+1,2013-10-20,14,Virginia Tech (6-1),NA,—,ACC (Coastal)
+1,2013-10-20,15,Oklahoma (6-1),NA,—,Big 12
+1,2013-10-20,16,Texas A&M (5-2),NA,—,SEC (West)
+1,2013-10-20,17,Fresno State (6-0),NA,—,MWC (West)
+1,2013-10-20,18,Northern Illinois (7-0),NA,—,MAC (West)
+1,2013-10-20,19,Oklahoma State (5-1),NA,—,Big 12
+1,2013-10-20,20,Louisville (6-1),NA,—,American
+1,2013-10-20,21,South Carolina (5-2),NA,—,SEC (East)
+1,2013-10-20,22,Michigan (6-1),NA,—,Big Ten (Legends)
+1,2013-10-20,23,UCF (5-1),NA,—,American
+1,2013-10-20,24,Nebraska (5-1),NA,—,Big Ten (Legends)
+1,2013-10-20,25,Oregon State (6-1),NA,—,Pac-12 (North)

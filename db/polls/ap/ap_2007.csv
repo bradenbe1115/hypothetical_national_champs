@@ -1,0 +1,401 @@
+Wk,Date,Rk,School,Prev,Chng,1st,Conf
+16,Final,1,LSU,2,1,60,SEC (West)
+16,Final,2,Georgia,4,2,3,SEC (East)
+16,Final,3,USC,6,3,1,Pac-10
+16,Final,4,Missouri,7,3,,Big 12 (North)
+16,Final,5,Ohio State,1,4,,Big Ten
+16,Final,6,West Virginia,11,5,,Big East
+16,Final,7,Kansas,8,1,1,Big 12 (North)
+16,Final,8,Oklahoma,3,5,,Big 12 (South)
+16,Final,9,Virginia Tech,5,4,,ACC (Coastal)
+16,Final,10,Boston College,14,4,,ACC (Atlantic)
+16,Final,10,Texas,17,7,,Big 12 (South)
+16,Final,12,Tennessee,16,4,,SEC (East)
+16,Final,13,Florida,9,4,,SEC (East)
+16,Final,14,BYU,19,5,,MWC
+16,Final,15,Auburn,22,7,,SEC (West)
+16,Final,16,Arizona State,12,4,,Pac-10
+16,Final,17,Cincinnati,20,3,,Big East
+16,Final,18,Michigan,,,,Big Ten
+16,Final,19,Hawaii,10,9,,WAC
+16,Final,20,Illinois,13,7,,Big Ten
+16,Final,21,Clemson,15,6,,ACC (Atlantic)
+16,Final,22,Texas Tech,,,,Big 12 (South)
+16,Final,23,Oregon,,,,Pac-10
+16,Final,24,Wisconsin,18,6,,Big Ten
+16,Final,25,Oregon State,,,,Pac-10
+15,2007-12-02,1,Ohio State (11-1),3,2,50,Big Ten
+15,2007-12-02,2,LSU (11-2),5,3,11,SEC (West)
+15,2007-12-02,3,Oklahoma (11-2),9,6,1,Big 12 (South)
+15,2007-12-02,4,Georgia (10-2),4,,1,SEC (East)
+15,2007-12-02,5,Virginia Tech (11-2),6,1,1,ACC (Coastal)
+15,2007-12-02,6,USC (10-2),8,2,,Pac-10
+15,2007-12-02,7,Missouri (11-2),1,6,,Big 12 (North)
+15,2007-12-02,8,Kansas (11-1),7,1,,Big 12 (North)
+15,2007-12-02,9,Florida (9-3),10,1,,SEC (East)
+15,2007-12-02,10,Hawaii (12-0),11,1,1,WAC
+15,2007-12-02,11,West Virginia (10-2),2,9,,Big East
+15,2007-12-02,12,Arizona State (10-2),13,1,,Pac-10
+15,2007-12-02,13,Illinois (9-3),15,2,,Big Ten
+15,2007-12-02,14,Boston College (10-3),12,2,,ACC (Atlantic)
+15,2007-12-02,15,Clemson (9-3),16,1,,ACC (Atlantic)
+15,2007-12-02,16,Tennessee (9-4),14,2,,SEC (East)
+15,2007-12-02,17,Texas (9-3),17,,,Big 12 (South)
+15,2007-12-02,18,Wisconsin (9-3),19,1,,Big Ten
+15,2007-12-02,19,BYU (10-2),21,2,,MWC
+15,2007-12-02,20,Cincinnati (9-3),20,,,Big East
+15,2007-12-02,21,Virginia (9-3),22,1,,ACC (Coastal)
+15,2007-12-02,22,Auburn (8-4),23,1,,SEC (West)
+15,2007-12-02,23,South Florida (9-3),25,2,,Big East
+15,2007-12-02,24,Boise State (10-2),24,,,WAC
+15,2007-12-02,25,Arkansas (8-4),,,,SEC (West)
+14,2007-11-25,1,Missouri (11-1),3,2,45,Big 12 (North)
+14,2007-11-25,2,West Virginia (10-1),4,2,20,Big East
+14,2007-11-25,3,Ohio State (11-1),5,2,,Big Ten
+14,2007-11-25,4,Georgia (10-2),6,2,,SEC (East)
+14,2007-11-25,5,LSU (10-2),1,4,,SEC (West)
+14,2007-11-25,6,Virginia Tech (10-2),8,2,,ACC (Coastal)
+14,2007-11-25,7,Kansas (11-1),2,5,,Big 12 (North)
+14,2007-11-25,8,USC (9-2),11,3,,Pac-10
+14,2007-11-25,9,Oklahoma (10-2),10,1,,Big 12 (South)
+14,2007-11-25,10,Florida (9-3),12,2,,SEC (East)
+14,2007-11-25,11,Hawaii (11-0),14,3,,WAC
+14,2007-11-25,12,Boston College (10-2),15,3,,ACC (Atlantic)
+14,2007-11-25,13,Arizona State (9-2),7,6,,Pac-10
+14,2007-11-25,14,Tennessee (9-3),19,5,,SEC (East)
+14,2007-11-25,15,Illinois (9-3),18,3,,Big Ten
+14,2007-11-25,16,Clemson (9-3),21,5,,ACC (Atlantic)
+14,2007-11-25,17,Texas (9-3),13,4,,Big 12 (South)
+14,2007-11-25,18,Oregon (8-3),9,9,,Pac-10
+14,2007-11-25,19,Wisconsin (9-3),22,3,,Big Ten
+14,2007-11-25,20,Cincinnati (9-3),24,4,,Big East
+14,2007-11-25,21,BYU (9-2),23,2,,MWC
+14,2007-11-25,22,Virginia (9-3),16,6,,ACC (Coastal)
+14,2007-11-25,23,Auburn (8-4),25,2,,SEC (West)
+14,2007-11-25,24,Boise State (10-2),17,7,,WAC
+14,2007-11-25,25,South Florida (9-3),,,,Big East
+13,2007-11-18,1,LSU (10-1),1,,60,SEC (West)
+13,2007-11-18,2,Kansas (11-0),4,2,3,Big 12 (North)
+13,2007-11-18,3,Missouri (10-1),6,3,1,Big 12 (North)
+13,2007-11-18,4,West Virginia (9-1),5,1,1,Big East
+13,2007-11-18,5,Ohio State (11-1),7,2,,Big Ten
+13,2007-11-18,6,Georgia (9-2),8,2,,SEC (East)
+13,2007-11-18,7,Arizona State (9-1),9,2,,Pac-10
+13,2007-11-18,8,Virginia Tech (9-2),10,2,,ACC (Coastal)
+13,2007-11-18,9,Oregon (8-2),2,7,,Pac-10
+13,2007-11-18,10,Oklahoma (9-2),3,7,,Big 12 (South)
+13,2007-11-18,11,USC (8-2),11,,,Pac-10
+13,2007-11-18,12,Florida (8-3),14,2,,SEC (East)
+13,2007-11-18,13,Texas (9-2),12,1,,Big 12 (South)
+13,2007-11-18,14,Hawaii (10-0),13,1,,WAC
+13,2007-11-18,15,Boston College (9-2),18,3,,ACC (Atlantic)
+13,2007-11-18,16,Virginia (9-2),16,,,ACC (Coastal)
+13,2007-11-18,17,Boise State (10-1),17,,,WAC
+13,2007-11-18,18,Illinois (9-3),20,2,,Big Ten
+13,2007-11-18,19,Tennessee (8-3),19,,,SEC (East)
+13,2007-11-18,20,Connecticut (9-2),25,5,,Big East
+13,2007-11-18,21,Clemson (8-3),15,6,,ACC (Atlantic)
+13,2007-11-18,22,Wisconsin (9-3),24,2,,Big Ten
+13,2007-11-18,23,BYU (8-2),,,,MWC
+13,2007-11-18,24,Cincinnati (8-3),21,3,,Big East
+13,2007-11-18,25,Auburn (7-4),,,,SEC (West)
+12,2007-11-11,1,LSU (9-1),2,1,40,SEC (West)
+12,2007-11-11,2,Oregon (8-1),3,1,22,Pac-10
+12,2007-11-11,3,Oklahoma (9-1),4,1,1,Big 12 (South)
+12,2007-11-11,4,Kansas (10-0),5,1,1,Big 12 (North)
+12,2007-11-11,5,West Virginia (8-1),6,1,1,Big East
+12,2007-11-11,6,Missouri (9-1),7,1,,Big 12 (North)
+12,2007-11-11,7,Ohio State (10-1),1,6,,Big Ten
+12,2007-11-11,8,Georgia (8-2),10,2,,SEC (East)
+12,2007-11-11,9,Arizona State (9-1),9,,,Pac-10
+12,2007-11-11,10,Virginia Tech (8-2),11,1,,ACC (Coastal)
+12,2007-11-11,11,USC (8-2),12,1,,Pac-10
+12,2007-11-11,12,Texas (9-2),15,3,,Big 12 (South)
+12,2007-11-11,13,Hawaii (9-0),14,1,,WAC
+12,2007-11-11,14,Florida (7-3),17,3,,SEC (East)
+12,2007-11-11,15,Clemson (8-2),20,5,,ACC (Atlantic)
+12,2007-11-11,16,Virginia (9-2),23,7,,ACC (Coastal)
+12,2007-11-11,17,Boise State (9-1),19,2,,WAC
+12,2007-11-11,18,Boston College (8-2),8,10,,ACC (Atlantic)
+12,2007-11-11,19,Tennessee (7-3),22,3,,SEC (East)
+12,2007-11-11,20,Illinois (8-3),,,,Big Ten
+12,2007-11-11,21,Cincinnati (8-2),,,,Big East
+12,2007-11-11,22,Kentucky (7-3),24,2,,SEC (East)
+12,2007-11-11,23,Michigan (8-3),13,10,,Big Ten
+12,2007-11-11,24,Wisconsin (8-3),,,,Big Ten
+12,2007-11-11,25,Connecticut (8-2),16,9,,Big East
+11,2007-11-04,1,Ohio State (10-0),1,,60,Big Ten
+11,2007-11-04,2,LSU (8-1),3,1,5,SEC (West)
+11,2007-11-04,3,Oregon (8-1),4,1,,Pac-10
+11,2007-11-04,4,Oklahoma (8-1),5,1,,Big 12 (South)
+11,2007-11-04,5,Kansas (9-0),8,3,,Big 12 (North)
+11,2007-11-04,6,West Virginia (7-1),7,1,,Big East
+11,2007-11-04,7,Missouri (8-1),9,2,,Big 12 (North)
+11,2007-11-04,8,Boston College (8-1),2,6,,ACC (Atlantic)
+11,2007-11-04,9,Arizona State (8-1),6,3,,Pac-10
+11,2007-11-04,10,Georgia (7-2),10,,,SEC (East)
+11,2007-11-04,11,Virginia Tech (7-2),11,,,ACC (Coastal)
+11,2007-11-04,12,USC (7-2),13,1,,Pac-10
+11,2007-11-04,13,Michigan (8-2),15,2,,Big Ten
+11,2007-11-04,14,Hawaii (8-0),12,2,,WAC
+11,2007-11-04,15,Texas (8-2),14,1,,Big 12 (South)
+11,2007-11-04,16,Connecticut (8-1),16,,,Big East
+11,2007-11-04,17,Florida (6-3),18,1,,SEC (East)
+11,2007-11-04,18,Auburn (7-3),19,1,,SEC (West)
+11,2007-11-04,19,Boise State (8-1),21,2,,WAC
+11,2007-11-04,20,Clemson (7-2),25,5,,ACC (Atlantic)
+11,2007-11-04,21,Alabama (6-3),17,4,,SEC (West)
+11,2007-11-04,22,Tennessee (6-3),24,2,,SEC (East)
+11,2007-11-04,23,Virginia (8-2),,,,ACC (Coastal)
+11,2007-11-04,24,California (6-3),,,,Pac-10
+11,2007-11-04,24,Kentucky (6-3),,,,SEC (East)
+10,2007-10-28,1,Ohio State (9-0),1,,59,Big Ten
+10,2007-10-28,2,Boston College (8-0),2,,1,ACC (Atlantic)
+10,2007-10-28,3,LSU (7-1),3,,3,SEC (West)
+10,2007-10-28,4,Oregon (7-1),5,1,,Pac-10
+10,2007-10-28,5,Oklahoma (7-1),4,1,,Big 12 (South)
+10,2007-10-28,6,Arizona State (8-0),7,1,2,Pac-10
+10,2007-10-28,7,West Virginia (7-1),6,1,,Big East
+10,2007-10-28,8,Kansas (8-0),12,4,,Big 12 (North)
+10,2007-10-28,9,Missouri (7-1),13,4,,Big 12 (North)
+10,2007-10-28,10,Georgia (6-2),20,10,,SEC (East)
+10,2007-10-28,11,Virginia Tech (6-2),8,3,,ACC (Coastal)
+10,2007-10-28,12,Hawaii (8-0),16,4,,WAC
+10,2007-10-28,13,USC (6-2),9,4,,Pac-10
+10,2007-10-28,14,Texas (7-2),17,3,,Big 12 (South)
+10,2007-10-28,15,Michigan (7-2),19,4,,Big Ten
+10,2007-10-28,16,Connecticut (7-1),,,,Big East
+10,2007-10-28,17,Alabama (6-2),22,5,,SEC (West)
+10,2007-10-28,18,Florida (5-3),9,9,,SEC (East)
+10,2007-10-28,19,Auburn (6-3),23,4,,SEC (West)
+10,2007-10-28,20,South Florida (6-2),11,9,,Big East
+10,2007-10-28,21,Boise State (7-1),,,,WAC
+10,2007-10-28,21,Wake Forest (6-2),,,,ACC (Atlantic)
+10,2007-10-28,23,South Carolina (6-3),15,8,,SEC (East)
+10,2007-10-28,24,Tennessee (5-3),,,,SEC (East)
+10,2007-10-28,25,Clemson (6-2),,,,ACC (Atlantic)
+9,2007-10-21,1,Ohio State (8-0),1,,57,Big Ten
+9,2007-10-21,2,Boston College (7-0),3,1,2,ACC (Atlantic)
+9,2007-10-21,3,LSU (7-1),5,2,5,SEC (West)
+9,2007-10-21,4,Oklahoma (7-1),4,,,Big 12 (South)
+9,2007-10-21,5,Oregon (6-1),7,2,,Pac-10
+9,2007-10-21,6,West Virginia (6-1),9,3,,Big East
+9,2007-10-21,7,Arizona State (7-0),12,5,1,Pac-10
+9,2007-10-21,8,Virginia Tech (6-1),11,3,,ACC (Coastal)
+9,2007-10-21,9,Florida (5-2),14,5,,SEC (East)
+9,2007-10-21,9,USC (6-1),13,4,,Pac-10
+9,2007-10-21,11,South Florida (6-1),2,9,,Big East
+9,2007-10-21,12,Kansas (7-0),15,3,,Big 12 (North)
+9,2007-10-21,13,Missouri (6-1),15,2,,Big 12 (North)
+9,2007-10-21,14,Kentucky (6-2),8,6,,SEC (East)
+9,2007-10-21,15,South Carolina (6-2),6,9,,SEC (East)
+9,2007-10-21,16,Hawaii (7-0),17,1,,WAC
+9,2007-10-21,17,Texas (6-2),19,2,,Big 12 (South)
+9,2007-10-21,18,California (5-2),10,8,,Pac-10
+9,2007-10-21,19,Michigan (6-2),24,5,,Big Ten
+9,2007-10-21,20,Georgia (5-2),21,1,,SEC (East)
+9,2007-10-21,21,Virginia (7-1),,,,ACC (Coastal)
+9,2007-10-21,22,Alabama (6-2),,,,SEC (West)
+9,2007-10-21,23,Auburn (5-3),18,5,,SEC (West)
+9,2007-10-21,24,Penn State (6-2),,,,Big Ten
+9,2007-10-21,25,Rutgers (5-2),,,,Big East
+8,2007-10-14,1,Ohio State (7-0),3,2,50,Big Ten
+8,2007-10-14,2,South Florida (6-0),5,3,11,Big East
+8,2007-10-14,3,Boston College (7-0),4,1,1,ACC (Atlantic)
+8,2007-10-14,4,Oklahoma (6-1),6,2,1,Big 12 (South)
+8,2007-10-14,5,LSU (6-1),1,4,1,SEC (West)
+8,2007-10-14,6,South Carolina (6-1),7,1,,SEC (East)
+8,2007-10-14,7,Oregon (5-1),9,2,,Pac-10
+8,2007-10-14,8,Kentucky (6-1),17,9,,SEC (East)
+8,2007-10-14,9,West Virginia (5-1),8,1,,Big East
+8,2007-10-14,10,California (5-1),2,8,,Pac-10
+8,2007-10-14,11,Virginia Tech (6-1),12,1,,ACC (Coastal)
+8,2007-10-14,12,Arizona State (7-0),14,2,1,Pac-10
+8,2007-10-14,13,USC (5-1),10,3,,Pac-10
+8,2007-10-14,14,Florida (4-2),13,1,,SEC (East)
+8,2007-10-14,15,Kansas (6-0),20,5,,Big 12 (North)
+8,2007-10-14,15,Missouri (5-1),11,4,,Big 12 (North)
+8,2007-10-14,17,Hawaii (7-0),16,1,,WAC
+8,2007-10-14,18,Auburn (5-2),22,4,,SEC (West)
+8,2007-10-14,19,Texas (5-2),23,4,,Big 12 (South)
+8,2007-10-14,20,Tennessee (4-2),25,5,,SEC (East)
+8,2007-10-14,21,Georgia (5-2),24,3,,SEC (East)
+8,2007-10-14,22,Texas Tech (6-1),,,,Big 12 (South)
+8,2007-10-14,23,Cincinnati (6-1),15,8,,Big East
+8,2007-10-14,24,Michigan (5-2),,,,Big Ten
+8,2007-10-14,25,Kansas State (4-2),,,,Big 12 (North)
+7,2007-10-07,1,LSU (6-0),1,,65,SEC (West)
+7,2007-10-07,2,California (5-0),3,1,,Pac-10
+7,2007-10-07,3,Ohio State (6-0),4,1,,Big Ten
+7,2007-10-07,4,Boston College (6-0),7,3,,ACC (Atlantic)
+7,2007-10-07,5,South Florida (5-0),6,1,,Big East
+7,2007-10-07,6,Oklahoma (5-1),10,4,,Big 12 (South)
+7,2007-10-07,7,South Carolina (5-1),11,4,,SEC (East)
+7,2007-10-07,8,West Virginia (5-1),13,5,,Big East
+7,2007-10-07,9,Oregon (4-1),14,5,,Pac-10
+7,2007-10-07,10,USC (4-1),2,8,,Pac-10
+7,2007-10-07,11,Missouri (5-0),17,6,,Big 12 (North)
+7,2007-10-07,12,Virginia Tech (5-1),15,3,,ACC (Coastal)
+7,2007-10-07,13,Florida (4-2),9,4,,SEC (East)
+7,2007-10-07,14,Arizona State (6-0),18,4,,Pac-10
+7,2007-10-07,15,Cincinnati (6-0),20,5,,Big East
+7,2007-10-07,16,Hawaii (6-0),16,,,WAC
+7,2007-10-07,17,Kentucky (5-1),8,9,,SEC (East)
+7,2007-10-07,18,Illinois (5-1),,,,Big Ten
+7,2007-10-07,19,Wisconsin (5-1),5,14,,Big Ten
+7,2007-10-07,20,Kansas (5-0),,,,Big 12 (North)
+7,2007-10-07,21,Florida State (4-1),,,,ACC (Atlantic)
+7,2007-10-07,22,Auburn (4-2),,,,SEC (West)
+7,2007-10-07,23,Texas (4-2),19,4,,Big 12 (South)
+7,2007-10-07,24,Georgia (4-2),12,12,,SEC (East)
+7,2007-10-07,25,Tennessee (3-2),,,,SEC (East)
+6,2007-09-30,1,LSU (5-0),2,1,33,SEC (West)
+6,2007-09-30,2,USC (4-0),1,1,32,Pac-10
+6,2007-09-30,3,California (5-0),6,3,,Pac-10
+6,2007-09-30,4,Ohio State (5-0),8,4,,Big Ten
+6,2007-09-30,5,Wisconsin (5-0),9,4,,Big Ten
+6,2007-09-30,6,South Florida (4-0),18,12,,Big East
+6,2007-09-30,7,Boston College (5-0),12,5,,ACC (Atlantic)
+6,2007-09-30,8,Kentucky (5-0),14,6,,SEC (East)
+6,2007-09-30,9,Florida (4-1),4,5,,SEC (East)
+6,2007-09-30,10,Oklahoma (4-1),3,7,,Big 12 (South)
+6,2007-09-30,11,South Carolina (4-1),16,5,,SEC (East)
+6,2007-09-30,12,Georgia (4-1),15,3,,SEC (East)
+6,2007-09-30,13,West Virginia (4-1),5,8,,Big East
+6,2007-09-30,14,Oregon (4-1),11,3,,Pac-10
+6,2007-09-30,15,Virginia Tech (4-1),17,2,,ACC (Coastal)
+6,2007-09-30,16,Hawaii (5-0),19,3,,WAC
+6,2007-09-30,17,Missouri (4-0),20,3,,Big 12 (North)
+6,2007-09-30,18,Arizona State (5-0),23,5,,Pac-10
+6,2007-09-30,19,Texas (4-1),7,12,,Big 12 (South)
+6,2007-09-30,20,Cincinnati (5-0),24,4,,Big East
+6,2007-09-30,21,Rutgers (3-1),10,11,,Big East
+6,2007-09-30,22,Clemson (4-1),13,9,,ACC (Atlantic)
+6,2007-09-30,23,Purdue (5-0),,,,Big Ten
+6,2007-09-30,24,Kansas State (3-1),,,,Big 12 (North)
+6,2007-09-30,25,Nebraska (4-1),25,,,Big 12 (North)
+5,2007-09-23,1,USC (3-0),1,,43,Pac-10
+5,2007-09-23,2,LSU (4-0),2,,22,SEC (West)
+5,2007-09-23,3,Oklahoma (4-0),4,1,,Big 12 (South)
+5,2007-09-23,4,Florida (4-0),3,1,,SEC (East)
+5,2007-09-23,5,West Virginia (4-0),5,,,Big East
+5,2007-09-23,6,California (4-0),6,,,Pac-10
+5,2007-09-23,7,Texas (4-0),7,,,Big 12 (South)
+5,2007-09-23,8,Ohio State (4-0),8,,,Big Ten
+5,2007-09-23,9,Wisconsin (4-0),9,,,Big Ten
+5,2007-09-23,10,Rutgers (3-0),11,1,,Big East
+5,2007-09-23,11,Oregon (4-0),13,2,,Pac-10
+5,2007-09-23,12,Boston College (4-0),14,2,,ACC (Atlantic)
+5,2007-09-23,13,Clemson (4-0),15,2,,ACC (Atlantic)
+5,2007-09-23,14,Kentucky (4-0),21,7,,SEC (East)
+5,2007-09-23,15,Georgia (3-1),22,7,,SEC (East)
+5,2007-09-23,16,South Carolina (3-1),12,4,,SEC (East)
+5,2007-09-23,17,Virginia Tech (3-1),17,,,ACC (Coastal)
+5,2007-09-23,18,South Florida (3-0),23,5,,Big East
+5,2007-09-23,19,Hawaii (4-0),19,,,WAC
+5,2007-09-23,20,Missouri (4-0),25,5,,Big 12 (North)
+5,2007-09-23,21,Penn State (3-1),10,11,,Big Ten
+5,2007-09-23,22,Alabama (3-1),16,6,,SEC (West)
+5,2007-09-23,23,Arizona State (4-0),,,,Pac-10
+5,2007-09-23,24,Cincinnati (4-0),,,,Big East
+5,2007-09-23,25,Nebraska (3-1),24,1,,Big 12 (North)
+4,2007-09-16,1,USC (2-0),1,,46,Pac-10
+4,2007-09-16,2,LSU (3-0),2,,19,SEC (West)
+4,2007-09-16,3,Florida (3-0),5,2,,SEC (East)
+4,2007-09-16,4,Oklahoma (3-0),3,1,,Big 12 (South)
+4,2007-09-16,5,West Virginia (3-0),4,1,,Big East
+4,2007-09-16,6,California (3-0),8,2,,Pac-10
+4,2007-09-16,7,Texas (3-0),6,1,,Big 12 (South)
+4,2007-09-16,8,Ohio State (3-0),10,2,,Big Ten
+4,2007-09-16,9,Wisconsin (3-0),7,2,,Big Ten
+4,2007-09-16,10,Penn State (3-0),12,2,,Big Ten
+4,2007-09-16,11,Rutgers (3-0),13,2,,Big East
+4,2007-09-16,12,South Carolina (3-0),17,5,,SEC (East)
+4,2007-09-16,13,Oregon (3-0),19,6,,Pac-10
+4,2007-09-16,14,Boston College (3-0),21,7,,ACC (Atlantic)
+4,2007-09-16,15,Clemson (3-0),20,5,,ACC (Atlantic)
+4,2007-09-16,16,Alabama (3-0),,,,SEC (West)
+4,2007-09-16,17,Virginia Tech (2-1),18,1,,ACC (Coastal)
+4,2007-09-16,18,Louisville (2-1),9,9,,Big East
+4,2007-09-16,19,Hawaii (3-0),24,5,,WAC
+4,2007-09-16,20,Texas A&M (3-0),25,5,,Big 12 (South)
+4,2007-09-16,21,Kentucky (3-0),,,,SEC (East)
+4,2007-09-16,22,Georgia (2-1),23,1,,SEC (East)
+4,2007-09-16,23,South Florida (2-0),,,,Big East
+4,2007-09-16,24,Nebraska (2-1),14,10,,Big 12 (North)
+4,2007-09-16,25,Missouri (3-0),,,,Big 12 (North)
+3,2007-09-09,1,USC (1-0),1,,40,Pac-10
+3,2007-09-09,2,LSU (2-0),2,,25,SEC (West)
+3,2007-09-09,3,Oklahoma (2-0),5,2,,Big 12 (South)
+3,2007-09-09,4,West Virginia (2-0),3,1,,Big East
+3,2007-09-09,5,Florida (2-0),4,1,,SEC (East)
+3,2007-09-09,6,Texas (2-0),7,1,,Big 12 (South)
+3,2007-09-09,7,Wisconsin (2-0),5,2,,Big Ten
+3,2007-09-09,8,California (2-0),10,2,,Pac-10
+3,2007-09-09,9,Louisville (2-0),8,1,,Big East
+3,2007-09-09,10,Ohio State (2-0),12,2,,Big Ten
+3,2007-09-09,11,UCLA (2-0),13,2,,Pac-10
+3,2007-09-09,12,Penn State (2-0),14,2,,Big Ten
+3,2007-09-09,13,Rutgers (2-0),15,2,,Big East
+3,2007-09-09,14,Nebraska (2-0),16,2,,Big 12 (North)
+3,2007-09-09,15,Georgia Tech (2-0),21,6,,ACC (Coastal)
+3,2007-09-09,16,Arkansas (1-0),18,2,,SEC (West)
+3,2007-09-09,17,South Carolina (2-0),,,,SEC (East)
+3,2007-09-09,18,Virginia Tech (1-1),9,9,,ACC (Coastal)
+3,2007-09-09,19,Oregon (2-0),,,,Pac-10
+3,2007-09-09,20,Clemson (2-0),25,5,,ACC (Atlantic)
+3,2007-09-09,21,Boston College (2-0),,,,ACC (Atlantic)
+3,2007-09-09,22,Tennessee (1-1),24,2,,SEC (East)
+3,2007-09-09,23,Georgia (1-1),11,12,,SEC (East)
+3,2007-09-09,24,Hawaii (2-0),20,4,,WAC
+3,2007-09-09,25,Texas A&M (2-0),23,2,,Big 12 (South)
+2,2007-09-04,1,USC (1-0),1,,59,Pac-10
+2,2007-09-04,2,LSU (1-0),2,,5,SEC (West)
+2,2007-09-04,3,West Virginia (1-0),3,,1,Big East
+2,2007-09-04,4,Florida (1-0),6,2,,SEC (East)
+2,2007-09-04,5,Oklahoma (1-0),8,3,,Big 12 (South)
+2,2007-09-04,5,Wisconsin (1-0),7,2,,Big Ten
+2,2007-09-04,7,Texas (1-0),4,3,,Big 12 (South)
+2,2007-09-04,8,Louisville (1-0),10,2,,Big East
+2,2007-09-04,9,Virginia Tech (1-0),9,,,ACC (Coastal)
+2,2007-09-04,10,California (1-0),12,2,,Pac-10
+2,2007-09-04,11,Georgia (1-0),13,2,,SEC (East)
+2,2007-09-04,12,Ohio State (1-0),11,1,,Big Ten
+2,2007-09-04,13,UCLA (1-0),14,1,,Pac-10
+2,2007-09-04,14,Penn State (1-0),17,3,,Big Ten
+2,2007-09-04,15,Rutgers (1-0),16,1,,Big East
+2,2007-09-04,16,Nebraska (1-0),20,4,,Big 12 (North)
+2,2007-09-04,17,Auburn (1-0),18,1,,SEC (West)
+2,2007-09-04,18,Arkansas (1-0),21,3,,SEC (West)
+2,2007-09-04,19,Texas Christian (1-0),22,3,,MWC
+2,2007-09-04,20,Hawaii (1-0),23,3,,WAC
+2,2007-09-04,21,Georgia Tech (1-0),,,,ACC (Coastal)
+2,2007-09-04,22,Boise State (1-0),24,2,,WAC
+2,2007-09-04,23,Texas A&M (1-0),25,2,,Big 12 (South)
+2,2007-09-04,24,Tennessee (0-1),15,9,,SEC (East)
+2,2007-09-04,25,Clemson (1-0),,,,ACC (Atlantic)
+1,Preseason,1,USC,NA,—,62,Pac-10
+1,Preseason,2,LSU,NA,—,2,SEC (West)
+1,Preseason,3,West Virginia,NA,—,1,Big East
+1,Preseason,4,Texas,NA,—,,Big 12 (South)
+1,Preseason,5,Michigan,NA,—,,Big Ten
+1,Preseason,6,Florida,NA,—,,SEC (East)
+1,Preseason,7,Wisconsin,NA,—,,Big Ten
+1,Preseason,8,Oklahoma,NA,—,,Big 12 (South)
+1,Preseason,9,Virginia Tech,NA,—,,ACC (Coastal)
+1,Preseason,10,Louisville,NA,—,,Big East
+1,Preseason,11,Ohio State,NA,—,,Big Ten
+1,Preseason,12,California,NA,—,,Pac-10
+1,Preseason,13,Georgia,NA,—,,SEC (East)
+1,Preseason,14,UCLA,NA,—,,Pac-10
+1,Preseason,15,Tennessee,NA,—,,SEC (East)
+1,Preseason,16,Rutgers,NA,—,,Big East
+1,Preseason,17,Penn State,NA,—,,Big Ten
+1,Preseason,18,Auburn,NA,—,,SEC (West)
+1,Preseason,19,Florida State,NA,—,,ACC (Atlantic)
+1,Preseason,20,Nebraska,NA,—,,Big 12 (North)
+1,Preseason,21,Arkansas,NA,—,,SEC (West)
+1,Preseason,22,Texas Christian,NA,—,,MWC
+1,Preseason,23,Hawaii,NA,—,,WAC
+1,Preseason,24,Boise State,NA,—,,WAC
+1,Preseason,25,Texas A&M,NA,—,,Big 12 (South)

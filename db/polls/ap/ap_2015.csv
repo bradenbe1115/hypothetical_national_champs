@@ -1,0 +1,401 @@
+Wk,Date,Rk,School,Prev,Chng,1st,Conf
+15,Final,1,Alabama (14-1),2,1,61,SEC (West)
+15,Final,2,Clemson (14-1),1,1,,ACC (Atlantic)
+15,Final,3,Stanford (12-2),5,2,,Pac-12 (North)
+15,Final,4,Ohio State (12-1),7,3,,Big Ten (East)
+15,Final,5,Oklahoma (11-2),4,1,,Big 12
+15,Final,6,Michigan State (12-2),3,3,,Big Ten (East)
+15,Final,7,Texas Christian (11-2),11,4,,Big 12
+15,Final,8,Houston (13-1),14,6,,American (West)
+15,Final,9,Iowa (12-2),6,3,,Big Ten (West)
+15,Final,10,Ole Miss (10-3),16,6,,SEC (West)
+15,Final,11,Notre Dame (10-3),8,3,,Ind
+15,Final,12,Michigan (10-3),17,5,,Big Ten (East)
+15,Final,13,Baylor (10-3),18,5,,Big 12
+15,Final,14,Florida State (10-3),9,5,,ACC (Atlantic)
+15,Final,15,North Carolina (11-3),10,5,,ACC (Coastal)
+15,Final,16,LSU (9-3),22,6,,SEC (West)
+15,Final,17,Utah (10-3),20,3,,Pac-12 (South)
+15,Final,18,Navy (11-2),21,3,,American (West)
+15,Final,19,Oregon (9-4),15,4,,Pac-12 (North)
+15,Final,20,Oklahoma State (10-3),13,7,,Big 12
+15,Final,21,Wisconsin (10-3),23,2,,Big Ten (West)
+15,Final,22,Tennessee (9-4),,,,SEC (East)
+15,Final,23,Northwestern (10-3),12,11,,Big Ten (West)
+15,Final,24,Western Kentucky (12-2),25,1,,CUSA (East)
+15,Final,25,Florida (10-4),19,6,,SEC (East)
+14,2015-12-06,1,Clemson (13-0),1,,51,ACC (Atlantic)
+14,2015-12-06,2,Alabama (12-1),2,,9,SEC (West)
+14,2015-12-06,3,Michigan State (12-1),5,2,1,Big Ten (East)
+14,2015-12-06,4,Oklahoma (11-1),3,1,,Big 12
+14,2015-12-06,5,Stanford (11-2),7,2,,Pac-12 (North)
+14,2015-12-06,6,Iowa (12-1),4,2,,Big Ten (West)
+14,2015-12-06,7,Ohio State (11-1),6,1,,Big Ten (East)
+14,2015-12-06,8,Notre Dame (10-2),9,1,,Ind
+14,2015-12-06,9,Florida State (10-2),10,1,,ACC (Atlantic)
+14,2015-12-06,10,North Carolina (11-2),8,2,,ACC (Coastal)
+14,2015-12-06,11,Texas Christian (10-2),11,,,Big 12
+14,2015-12-06,12,Northwestern (10-2),13,1,,Big Ten (West)
+14,2015-12-06,13,Oklahoma State (10-2),14,1,,Big 12
+14,2015-12-06,14,Houston (12-1),17,3,,American (West)
+14,2015-12-06,15,Oregon (9-3),15,,,Pac-12 (North)
+14,2015-12-06,16,Ole Miss (9-3),16,,,SEC (West)
+14,2015-12-06,17,Michigan (9-3),19,2,,Big Ten (East)
+14,2015-12-06,18,Baylor (9-3),12,6,,Big 12
+14,2015-12-06,19,Florida (10-3),18,1,,SEC (East)
+14,2015-12-06,20,Utah (9-3),21,1,,Pac-12 (South)
+14,2015-12-06,21,Navy (9-2),22,1,,American (West)
+14,2015-12-06,22,LSU (8-3),23,1,,SEC (West)
+14,2015-12-06,23,Wisconsin (9-3),25,2,,Big Ten (West)
+14,2015-12-06,24,Temple (10-3),20,4,,American (East)
+14,2015-12-06,25,Western Kentucky (11-2),,,,CUSA (East)
+13,2015-11-29,1,Clemson (12-0),1,,55,ACC (Atlantic)
+13,2015-11-29,2,Alabama (11-1),2,,6,SEC (West)
+13,2015-11-29,3,Oklahoma (11-1),5,2,,Big 12
+13,2015-11-29,4,Iowa (12-0),3,1,1,Big Ten (West)
+13,2015-11-29,5,Michigan State (11-1),6,1,,Big Ten (East)
+13,2015-11-29,6,Ohio State (11-1),8,2,,Big Ten (East)
+13,2015-11-29,7,Stanford (10-2),13,6,,Pac-12 (North)
+13,2015-11-29,8,North Carolina (11-1),11,3,,ACC (Coastal)
+13,2015-11-29,9,Notre Dame (10-2),4,5,,Ind
+13,2015-11-29,10,Florida State (10-2),14,4,,ACC (Atlantic)
+13,2015-11-29,11,Texas Christian (10-2),15,4,,Big 12
+13,2015-11-29,12,Baylor (9-2),7,5,,Big 12
+13,2015-11-29,13,Northwestern (10-2),17,4,,Big Ten (West)
+13,2015-11-29,14,Oklahoma State (10-2),9,5,,Big 12
+13,2015-11-29,15,Oregon (9-3),18,3,,Pac-12 (North)
+13,2015-11-29,16,Ole Miss (9-3),19,3,,SEC (West)
+13,2015-11-29,17,Houston (11-1),21,4,,American (West)
+13,2015-11-29,18,Florida (10-2),10,8,,SEC (East)
+13,2015-11-29,19,Michigan (9-3),12,7,,Big Ten (East)
+13,2015-11-29,20,Temple (10-2),25,5,,American (East)
+13,2015-11-29,21,Utah (9-3),,,,Pac-12 (South)
+13,2015-11-29,22,Navy (9-2),16,6,,American (West)
+13,2015-11-29,23,LSU (8-3),,,,SEC (West)
+13,2015-11-29,24,USC (8-4),,,,Pac-12 (South)
+13,2015-11-29,25,Wisconsin (9-3),,,,Big Ten (West)
+12,2015-11-22,1,Clemson (11-0),1,,55,ACC (Atlantic)
+12,2015-11-22,2,Alabama (10-1),3,1,6,SEC (West)
+12,2015-11-22,3,Iowa (11-0),6,3,,Big Ten (West)
+12,2015-11-22,4,Notre Dame (10-1),5,1,,Ind
+12,2015-11-22,5,Oklahoma (10-1),7,2,,Big 12
+12,2015-11-22,6,Michigan State (10-1),9,3,,Big Ten (East)
+12,2015-11-22,7,Baylor (9-1),10,3,,Big 12
+12,2015-11-22,8,Ohio State (10-1),2,6,,Big Ten (East)
+12,2015-11-22,9,Oklahoma State (10-1),4,5,,Big 12
+12,2015-11-22,10,Florida (10-1),8,2,,SEC (East)
+12,2015-11-22,11,North Carolina (10-1),12,1,,ACC (Coastal)
+12,2015-11-22,12,Michigan (9-2),14,2,,Big Ten (East)
+12,2015-11-22,13,Stanford (9-2),15,2,,Pac-12 (North)
+12,2015-11-22,14,Florida State (9-2),16,2,,ACC (Atlantic)
+12,2015-11-22,15,Texas Christian (9-2),11,4,,Big 12
+12,2015-11-22,16,Navy (9-1),19,3,,American (West)
+12,2015-11-22,17,Northwestern (9-2),20,3,,Big Ten (West)
+12,2015-11-22,18,Oregon (8-3),23,5,,Pac-12 (North)
+12,2015-11-22,19,Ole Miss (8-3),25,6,,SEC (West)
+12,2015-11-22,20,Washington State (8-3),24,4,,Pac-12 (North)
+12,2015-11-22,21,Houston (10-1),13,8,,American (West)
+12,2015-11-22,22,UCLA (8-3),,,,Pac-12 (South)
+12,2015-11-22,23,Mississippi State (8-3),,,,SEC (West)
+12,2015-11-22,24,Toledo (9-1),,,,MAC (West)
+12,2015-11-22,25,Temple (9-2),,,,American (East)
+11,2015-11-15,1,Clemson (10-0),1,,34,ACC (Atlantic)
+11,2015-11-15,2,Ohio State (10-0),2,,2,Big Ten (East)
+11,2015-11-15,3,Alabama (9-1),3,,4,SEC (West)
+11,2015-11-15,4,Oklahoma State (10-0),5,1,,Big 12
+11,2015-11-15,5,Notre Dame (9-1),6,1,,Ind
+11,2015-11-15,6,Iowa (10-0),8,2,,Big Ten (West)
+11,2015-11-15,7,Oklahoma (9-1),12,5,,Big 12
+11,2015-11-15,8,Florida (9-1),11,3,,SEC (East)
+11,2015-11-15,9,Michigan State (9-1),14,5,,Big Ten (East)
+11,2015-11-15,10,Baylor (8-1),4,6,,Big 12
+11,2015-11-15,11,Texas Christian (9-1),13,2,,Big 12
+11,2015-11-15,12,North Carolina (9-1),17,5,,ACC (Coastal)
+11,2015-11-15,13,Houston (10-0),16,3,,American (West)
+11,2015-11-15,14,Michigan (8-2),15,1,,Big Ten (East)
+11,2015-11-15,15,Stanford (8-2),7,8,,Pac-12 (North)
+11,2015-11-15,16,Florida State (8-2),19,3,,ACC (Atlantic)
+11,2015-11-15,17,LSU (7-2),9,8,,SEC (West)
+11,2015-11-15,18,Utah (8-2),10,8,,Pac-12 (South)
+11,2015-11-15,19,Navy (8-1),22,3,,American (West)
+11,2015-11-15,20,Northwestern (8-2),24,4,,Big Ten (West)
+11,2015-11-15,21,Wisconsin (8-2),23,2,,Big Ten (West)
+11,2015-11-15,22,USC (7-3),,,,Pac-12 (South)
+11,2015-11-15,23,Oregon (7-3),,,,Pac-12 (North)
+11,2015-11-15,24,Washington State (7-3),,,,Pac-12 (North)
+11,2015-11-15,25,Ole Miss (7-3),,,,SEC (West)
+10,2015-11-08,1,Clemson (9-0),3,2,31,ACC (Atlantic)
+10,2015-11-08,2,Ohio State (9-0),1,1,26,Big Ten (East)
+10,2015-11-08,3,Alabama (8-1),7,4,2,SEC (West)
+10,2015-11-08,4,Baylor (8-0),2,2,2,Big 12
+10,2015-11-08,5,Oklahoma State (9-0),12,7,,Big 12
+10,2015-11-08,6,Notre Dame (8-1),8,2,,Ind
+10,2015-11-08,7,Stanford (8-1),9,2,,Pac-12 (North)
+10,2015-11-08,8,Iowa (9-0),10,2,,Big Ten (West)
+10,2015-11-08,9,LSU (7-1),4,5,,SEC (West)
+10,2015-11-08,10,Utah (8-1),13,3,,Pac-12 (South)
+10,2015-11-08,11,Florida (8-1),11,,,SEC (East)
+10,2015-11-08,12,Oklahoma (8-1),14,2,,Big 12
+10,2015-11-08,13,Texas Christian (8-1),5,8,,Big 12
+10,2015-11-08,14,Michigan State (8-1),6,8,,Big Ten (East)
+10,2015-11-08,15,Michigan (7-2),16,1,,Big Ten (East)
+10,2015-11-08,16,Houston (9-0),18,2,,American (West)
+10,2015-11-08,17,North Carolina (8-1),21,4,,ACC (Coastal)
+10,2015-11-08,18,UCLA (7-2),22,4,,Pac-12 (South)
+10,2015-11-08,19,Florida State (7-2),17,2,,ACC (Atlantic)
+10,2015-11-08,20,Mississippi State (7-2),24,4,,SEC (West)
+10,2015-11-08,21,Temple (8-1),23,2,,American (East)
+10,2015-11-08,22,Navy (7-1),,,,American (West)
+10,2015-11-08,23,Wisconsin (8-2),,,,Big Ten (West)
+10,2015-11-08,24,Northwestern (7-2),,,,Big Ten (West)
+10,2015-11-08,25,Memphis (8-1),15,10,,American (West)
+9,2015-11-01,1,Ohio State (8-0),1,,39,Big Ten (East)
+9,2015-11-01,2,Baylor (7-0),2,,6,Big 12
+9,2015-11-01,3,Clemson (8-0),3,,6,ACC (Atlantic)
+9,2015-11-01,4,LSU (7-0),4,,5,SEC (West)
+9,2015-11-01,5,Texas Christian (8-0),5,,4,Big 12
+9,2015-11-01,6,Michigan State (8-0),6,,,Big Ten (East)
+9,2015-11-01,7,Alabama (7-1),7,,1,SEC (West)
+9,2015-11-01,8,Notre Dame (7-1),9,1,,Ind
+9,2015-11-01,9,Stanford (7-1),8,1,,Pac-12 (North)
+9,2015-11-01,10,Iowa (8-0),10,,,Big Ten (West)
+9,2015-11-01,11,Florida (7-1),11,,,SEC (East)
+9,2015-11-01,12,Oklahoma State (8-0),12,,,Big 12
+9,2015-11-01,13,Utah (7-1),13,,,Pac-12 (South)
+9,2015-11-01,14,Oklahoma (7-1),14,,,Big 12
+9,2015-11-01,15,Memphis (8-0),16,1,,American (West)
+9,2015-11-01,16,Michigan (6-2),15,1,,Big Ten (East)
+9,2015-11-01,17,Florida State (7-1),17,,,ACC (Atlantic)
+9,2015-11-01,18,Houston (8-0),18,,,American (West)
+9,2015-11-01,19,Ole Miss (7-2),19,,,SEC (West)
+9,2015-11-01,20,Toledo (7-0),20,,,MAC (West)
+9,2015-11-01,21,North Carolina (7-1),,,,ACC (Coastal)
+9,2015-11-01,22,UCLA (6-2),24,2,,Pac-12 (South)
+9,2015-11-01,23,Temple (7-1),21,2,,American (East)
+9,2015-11-01,24,Mississippi State (6-2),25,1,,SEC (West)
+9,2015-11-01,25,Texas A&M (6-2),,,,SEC (West)
+8,2015-10-25,1,Ohio State (8-0),1,,39,Big Ten (East)
+8,2015-10-25,2,Baylor (7-0),2,,7,Big 12
+8,2015-10-25,3,Clemson (7-0),6,3,6,ACC (Atlantic)
+8,2015-10-25,4,LSU (7-0),5,1,5,SEC (West)
+8,2015-10-25,5,Texas Christian (7-0),4,1,3,Big 12
+8,2015-10-25,6,Michigan State (8-0),7,1,,Big Ten (East)
+8,2015-10-25,7,Alabama (7-1),8,1,1,SEC (West)
+8,2015-10-25,8,Stanford (6-1),10,2,,Pac-12 (North)
+8,2015-10-25,9,Notre Dame (6-1),11,2,,Ind
+8,2015-10-25,10,Iowa (7-0),12,2,,Big Ten (West)
+8,2015-10-25,11,Florida (6-1),13,2,,SEC (East)
+8,2015-10-25,12,Oklahoma State (7-0),14,2,,Big 12
+8,2015-10-25,13,Utah (6-1),3,10,,Pac-12 (South)
+8,2015-10-25,14,Oklahoma (6-1),17,3,,Big 12
+8,2015-10-25,15,Michigan (5-2),15,,,Big Ten (East)
+8,2015-10-25,16,Memphis (7-0),18,2,,American (West)
+8,2015-10-25,17,Florida State (6-1),9,8,,ACC (Atlantic)
+8,2015-10-25,18,Houston (7-0),21,3,,American (West)
+8,2015-10-25,19,Ole Miss (6-2),24,5,,SEC (West)
+8,2015-10-25,20,Toledo (7-0),19,1,,MAC (West)
+8,2015-10-25,21,Temple (7-0),22,1,,American (East)
+8,2015-10-25,22,Duke (6-1),23,1,,ACC (Coastal)
+8,2015-10-25,23,Pitt (6-1),25,2,,ACC (Coastal)
+8,2015-10-25,24,UCLA (5-2),,,,Pac-12 (South)
+8,2015-10-25,25,Mississippi State (6-2),,,,SEC (West)
+7,2015-10-18,1,Ohio State (7-0),1,,28,Big Ten (East)
+7,2015-10-18,2,Baylor (6-0),2,,12,Big 12
+7,2015-10-18,3,Utah (6-0),4,1,16,Pac-12 (South)
+7,2015-10-18,4,Texas Christian (7-0),3,1,3,Big 12
+7,2015-10-18,5,LSU (6-0),6,1,1,SEC (West)
+7,2015-10-18,6,Clemson (6-0),5,1,1,ACC (Atlantic)
+7,2015-10-18,7,Michigan State (7-0),7,,,Big Ten (East)
+7,2015-10-18,8,Alabama (6-1),10,2,,SEC (West)
+7,2015-10-18,9,Florida State (6-0),11,2,,ACC (Atlantic)
+7,2015-10-18,10,Stanford (5-1),15,5,,Pac-12 (North)
+7,2015-10-18,11,Notre Dame (6-1),14,3,,Ind
+7,2015-10-18,12,Iowa (7-0),17,5,,Big Ten (West)
+7,2015-10-18,13,Florida (6-1),8,5,,SEC (East)
+7,2015-10-18,14,Oklahoma State (6-0),16,2,,Big 12
+7,2015-10-18,15,Michigan (5-2),12,3,,Big Ten (East)
+7,2015-10-18,15,Texas A&M (5-1),9,6,,SEC (West)
+7,2015-10-18,17,Oklahoma (5-1),19,2,,Big 12
+7,2015-10-18,18,Memphis (6-0),,,,American (West)
+7,2015-10-18,19,Toledo (6-0),22,3,,MAC (West)
+7,2015-10-18,20,California (5-1),23,3,,Pac-12 (North)
+7,2015-10-18,21,Houston (6-0),24,3,,American (West)
+7,2015-10-18,22,Temple (6-0),,,,American (East)
+7,2015-10-18,23,Duke (5-1),25,2,,ACC (Coastal)
+7,2015-10-18,24,Ole Miss (5-2),13,11,,SEC (West)
+7,2015-10-18,25,Pitt (5-1),,,,ACC (Coastal)
+6,2015-10-11,1,Ohio State (6-0),1,,27,Big Ten (East)
+6,2015-10-11,2,Baylor (5-0),3,1,13,Big 12
+6,2015-10-11,3,Texas Christian (6-0),2,1,3,Big 12
+6,2015-10-11,4,Utah (5-0),5,1,16,Pac-12 (South)
+6,2015-10-11,5,Clemson (5-0),6,1,1,ACC (Atlantic)
+6,2015-10-11,6,LSU (5-0),7,1,,SEC (West)
+6,2015-10-11,7,Michigan State (6-0),4,3,,Big Ten (East)
+6,2015-10-11,8,Florida (6-0),11,3,,SEC (East)
+6,2015-10-11,9,Texas A&M (5-0),9,,1,SEC (West)
+6,2015-10-11,10,Alabama (5-1),8,2,,SEC (West)
+6,2015-10-11,11,Florida State (5-0),12,1,,ACC (Atlantic)
+6,2015-10-11,12,Michigan (5-1),18,6,,Big Ten (East)
+6,2015-10-11,13,Ole Miss (5-1),14,1,,SEC (West)
+6,2015-10-11,14,Notre Dame (5-1),15,1,,Ind
+6,2015-10-11,15,Stanford (4-1),16,1,,Pac-12 (North)
+6,2015-10-11,16,Oklahoma State (6-0),21,5,,Big 12
+6,2015-10-11,17,Iowa (6-0),22,5,,Big Ten (West)
+6,2015-10-11,18,UCLA (4-1),20,2,,Pac-12 (South)
+6,2015-10-11,19,Oklahoma (4-1),10,9,,Big 12
+6,2015-10-11,20,Northwestern (5-1),13,7,,Big Ten (West)
+6,2015-10-11,21,Boise State (5-1),25,4,,MWC (Mountain)
+6,2015-10-11,22,Toledo (5-0),24,2,,MAC (West)
+6,2015-10-11,23,California (5-1),23,,,Pac-12 (North)
+6,2015-10-11,24,Houston (5-0),,,,American (West)
+6,2015-10-11,25,Duke (5-1),,,,ACC (Coastal)
+5,2015-10-04,1,Ohio State (5-0),1,,38,Big Ten (East)
+5,2015-10-04,2,Texas Christian (5-0),4,2,5,Big 12
+5,2015-10-04,3,Baylor (4-0),5,2,10,Big 12
+5,2015-10-04,4,Michigan State (5-0),2,2,,Big Ten (East)
+5,2015-10-04,5,Utah (4-0),10,5,7,Pac-12 (South)
+5,2015-10-04,6,Clemson (4-0),12,6,,ACC (Atlantic)
+5,2015-10-04,7,LSU (4-0),9,2,,SEC (West)
+5,2015-10-04,8,Alabama (4-1),13,5,,SEC (West)
+5,2015-10-04,9,Texas A&M (5-0),14,5,1,SEC (West)
+5,2015-10-04,10,Oklahoma (4-0),15,5,,Big 12
+5,2015-10-04,11,Florida (5-0),25,14,,SEC (East)
+5,2015-10-04,12,Florida State (4-0),11,1,,ACC (Atlantic)
+5,2015-10-04,13,Northwestern (5-0),16,3,,Big Ten (West)
+5,2015-10-04,14,Ole Miss (4-1),3,11,,SEC (West)
+5,2015-10-04,15,Notre Dame (4-1),6,9,,Ind
+5,2015-10-04,16,Stanford (4-1),18,2,,Pac-12 (North)
+5,2015-10-04,17,USC (3-1),17,,,Pac-12 (South)
+5,2015-10-04,18,Michigan (4-1),22,4,,Big Ten (East)
+5,2015-10-04,19,Georgia (4-1),8,11,,SEC (East)
+5,2015-10-04,20,UCLA (4-1),7,13,,Pac-12 (South)
+5,2015-10-04,21,Oklahoma State (5-0),20,1,,Big 12
+5,2015-10-04,22,Iowa (5-0),,,,Big Ten (West)
+5,2015-10-04,23,California (5-0),24,1,,Pac-12 (North)
+5,2015-10-04,24,Toledo (4-0),,,,MAC (West)
+5,2015-10-04,25,Boise State (4-1),,,,MWC (Mountain)
+4,2015-09-27,1,Ohio State (4-0),1,,45,Big Ten (East)
+4,2015-09-27,2,Michigan State (4-0),2,,5,Big Ten (East)
+4,2015-09-27,3,Ole Miss (4-0),3,,10,SEC (West)
+4,2015-09-27,4,Texas Christian (4-0),3,1,,Big 12
+4,2015-09-27,5,Baylor (3-0),5,,,Big 12
+4,2015-09-27,6,Notre Dame (4-0),6,,,Ind
+4,2015-09-27,7,UCLA (4-0),9,2,,Pac-12 (South)
+4,2015-09-27,8,Georgia (4-0),7,1,,SEC (East)
+4,2015-09-27,9,LSU (3-0),8,1,,SEC (West)
+4,2015-09-27,10,Utah (4-0),18,8,1,Pac-12 (South)
+4,2015-09-27,11,Florida State (3-0),10,1,,ACC (Atlantic)
+4,2015-09-27,12,Clemson (3-0),11,1,,ACC (Atlantic)
+4,2015-09-27,13,Alabama (3-1),12,1,,SEC (West)
+4,2015-09-27,14,Texas A&M (4-0),14,,,SEC (West)
+4,2015-09-27,15,Oklahoma (3-0),15,,,Big 12
+4,2015-09-27,16,Northwestern (4-0),17,1,,Big Ten (West)
+4,2015-09-27,17,USC (3-1),19,2,,Pac-12 (South)
+4,2015-09-27,18,Stanford (3-1),21,3,,Pac-12 (North)
+4,2015-09-27,19,Wisconsin (3-1),22,3,,Big Ten (West)
+4,2015-09-27,20,Oklahoma State (4-0),24,4,,Big 12
+4,2015-09-27,21,Mississippi State (3-1),,,,SEC (West)
+4,2015-09-27,22,Michigan (3-1),,,,Big Ten (East)
+4,2015-09-27,23,West Virginia (3-0),,,,Big 12
+4,2015-09-27,24,California (4-0),,,,Pac-12 (North)
+4,2015-09-27,25,Florida (4-0),,,,SEC (East)
+3,2015-09-20,1,Ohio State (3-0),1,,42,Big Ten (East)
+3,2015-09-20,2,Michigan State (3-0),4,2,7,Big Ten (East)
+3,2015-09-20,3,Ole Miss (3-0),15,12,11,SEC (West)
+3,2015-09-20,3,Texas Christian (3-0),3,,,Big 12
+3,2015-09-20,5,Baylor (2-0),5,,,Big 12
+3,2015-09-20,6,Notre Dame (3-0),8,2,,Ind
+3,2015-09-20,7,Georgia (3-0),7,,,SEC (East)
+3,2015-09-20,8,LSU (2-0),13,5,1,SEC (West)
+3,2015-09-20,9,UCLA (3-0),10,1,,Pac-12 (South)
+3,2015-09-20,10,Florida State (3-0),9,1,,ACC (Atlantic)
+3,2015-09-20,11,Clemson (3-0),11,,,ACC (Atlantic)
+3,2015-09-20,12,Alabama (2-1),2,10,,SEC (West)
+3,2015-09-20,13,Oregon (2-1),12,1,,Pac-12 (North)
+3,2015-09-20,14,Texas A&M (3-0),17,3,,SEC (West)
+3,2015-09-20,15,Oklahoma (3-0),16,1,,Big 12
+3,2015-09-20,16,Arizona (3-0),20,4,,Pac-12 (South)
+3,2015-09-20,17,Northwestern (3-0),23,6,,Big Ten (West)
+3,2015-09-20,18,Utah (3-0),21,3,,Pac-12 (South)
+3,2015-09-20,19,USC (2-1),6,13,,Pac-12 (South)
+3,2015-09-20,20,Georgia Tech (2-1),14,6,,ACC (Coastal)
+3,2015-09-20,21,Stanford (2-1),,,,Pac-12 (North)
+3,2015-09-20,22,BYU (2-1),19,3,,Ind
+3,2015-09-20,22,Wisconsin (2-1),24,2,,Big Ten (West)
+3,2015-09-20,24,Oklahoma State (3-0),25,1,,Big 12
+3,2015-09-20,25,Missouri (3-0),22,3,,SEC (East)
+2,2015-09-13,1,Ohio State (2-0),1,,59,Big Ten (East)
+2,2015-09-13,2,Alabama (2-0),2,,,SEC (West)
+2,2015-09-13,3,Texas Christian (2-0),3,,,Big 12
+2,2015-09-13,4,Michigan State (2-0),5,1,2,Big Ten (East)
+2,2015-09-13,5,Baylor (2-0),4,1,,Big 12
+2,2015-09-13,6,USC (2-0),8,2,,Pac-12 (South)
+2,2015-09-13,7,Georgia (2-0),10,3,,SEC (East)
+2,2015-09-13,8,Notre Dame (2-0),9,1,,Ind
+2,2015-09-13,9,Florida State (2-0),11,2,,ACC (Atlantic)
+2,2015-09-13,10,UCLA (2-0),13,3,,Pac-12 (South)
+2,2015-09-13,11,Clemson (2-0),12,1,,ACC (Atlantic)
+2,2015-09-13,12,Oregon (1-1),7,5,,Pac-12 (North)
+2,2015-09-13,13,LSU (1-0),14,1,,SEC (West)
+2,2015-09-13,14,Georgia Tech (2-0),15,1,,ACC (Coastal)
+2,2015-09-13,15,Ole Miss (2-0),17,2,,SEC (West)
+2,2015-09-13,16,Oklahoma (2-0),19,3,,Big 12
+2,2015-09-13,17,Texas A&M (2-0),16,1,,SEC (West)
+2,2015-09-13,18,Auburn (2-0),6,12,,SEC (West)
+2,2015-09-13,19,BYU (2-0),,,,Ind
+2,2015-09-13,20,Arizona (2-0),22,2,,Pac-12 (South)
+2,2015-09-13,21,Utah (2-0),24,3,,Pac-12 (South)
+2,2015-09-13,22,Missouri (2-0),21,1,,SEC (East)
+2,2015-09-13,23,Northwestern (2-0),,,,Big Ten (West)
+2,2015-09-13,24,Wisconsin (1-1),,,,Big Ten (West)
+2,2015-09-13,25,Oklahoma State (2-0),,,,Big 12
+1,2015-09-08,1,Ohio State (1-0),NA,—,61,Big Ten (East)
+1,2015-09-08,2,Alabama (1-0),NA,—,,SEC (West)
+1,2015-09-08,3,Texas Christian (1-0),NA,—,,Big 12
+1,2015-09-08,4,Baylor (1-0),NA,—,,Big 12
+1,2015-09-08,5,Michigan State (1-0),NA,—,,Big Ten (East)
+1,2015-09-08,6,Auburn (1-0),NA,—,,SEC (West)
+1,2015-09-08,7,Oregon (1-0),NA,—,,Pac-12 (North)
+1,2015-09-08,8,USC (1-0),NA,—,,Pac-12 (South)
+1,2015-09-08,9,Notre Dame (1-0),NA,—,,Ind
+1,2015-09-08,10,Georgia (1-0),NA,—,,SEC (East)
+1,2015-09-08,11,Florida State (1-0),NA,—,,ACC (Atlantic)
+1,2015-09-08,12,Clemson (1-0),NA,—,,ACC (Atlantic)
+1,2015-09-08,13,UCLA (1-0),NA,—,,Pac-12 (South)
+1,2015-09-08,14,LSU (0-0),NA,—,,SEC (West)
+1,2015-09-08,15,Georgia Tech (1-0),NA,—,,ACC (Coastal)
+1,2015-09-08,16,Texas A&M (1-0),NA,—,,SEC (West)
+1,2015-09-08,17,Ole Miss (1-0),NA,—,,SEC (West)
+1,2015-09-08,18,Arkansas (1-0),NA,—,,SEC (West)
+1,2015-09-08,19,Oklahoma (1-0),NA,—,,Big 12
+1,2015-09-08,20,Boise State (1-0),NA,—,,MWC (Mountain)
+1,2015-09-08,21,Missouri (1-0),NA,—,,SEC (East)
+1,2015-09-08,22,Arizona (1-0),NA,—,,Pac-12 (South)
+1,2015-09-08,23,Tennessee (1-0),NA,—,,SEC (East)
+1,2015-09-08,24,Utah (1-0),NA,—,,Pac-12 (South)
+1,2015-09-08,25,Mississippi State (1-0),NA,—,,SEC (West)
+0,Preseason,1,Ohio State,,,61,Big Ten (East)
+0,Preseason,2,Texas Christian,,,,Big 12
+0,Preseason,3,Alabama,,,,SEC (West)
+0,Preseason,4,Baylor,,,,Big 12
+0,Preseason,5,Michigan State,,,,Big Ten (East)
+0,Preseason,6,Auburn,,,,SEC (West)
+0,Preseason,7,Oregon,,,,Pac-12 (North)
+0,Preseason,8,USC,,,,Pac-12 (South)
+0,Preseason,9,Georgia,,,,SEC (East)
+0,Preseason,10,Florida State,,,,ACC (Atlantic)
+0,Preseason,11,Notre Dame,,,,Ind
+0,Preseason,12,Clemson,,,,ACC (Atlantic)
+0,Preseason,13,UCLA,,,,Pac-12 (South)
+0,Preseason,14,LSU,,,,SEC (West)
+0,Preseason,15,Arizona State,,,,Pac-12 (South)
+0,Preseason,16,Georgia Tech,,,,ACC (Coastal)
+0,Preseason,17,Ole Miss,,,,SEC (West)
+0,Preseason,18,Arkansas,,,,SEC (West)
+0,Preseason,19,Oklahoma,,,,Big 12
+0,Preseason,20,Wisconsin,,,,Big Ten (West)
+0,Preseason,21,Stanford,,,,Pac-12 (North)
+0,Preseason,22,Arizona,,,,Pac-12 (South)
+0,Preseason,23,Boise State,,,,MWC (Mountain)
+0,Preseason,24,Missouri,,,,SEC (East)
+0,Preseason,25,Tennessee,,,,SEC (East)
